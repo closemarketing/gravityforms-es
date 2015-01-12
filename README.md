@@ -1,12 +1,15 @@
-Gravity-Forms-Spanish-Language
+Gravity Forms in Spanish Language
 ==============================
 
-This is the fist version of the brand new Wordpress Plugin for Gravity Forms that allows you to translate it in Spanish.
+This is a Plugin to translate [Gravity Forms](https://www.closemarketing.es/likes/gravityforms/) and just install it and you will get updates of the Plugin right in the Plugins Wordpress Updater.
 
-Just install it and you will get updates of the Plugin right in the Plugins Wordpress Updater.
+Translated Addons included in this plugin
+===========
+AWeber, Campaign Monitor, Fresh Books, Mail Chimp, PayPal, Polls, Quiz, Signature, Survey, and User Registration.
 
-Just Check it out:
+
+You can Download from the Oficial Wordpress Repository:
 
 http://wordpress.org/plugins/gravityforms-es/
 
-Made by http://www.closemarketing.es
+Made by [Closemarketing](https://www.closemarketing.es)
