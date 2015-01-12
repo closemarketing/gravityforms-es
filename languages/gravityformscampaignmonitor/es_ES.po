@@ -7,297 +7,380 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GRAVITY CAMPAIGN\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-22 16:48-0500\n"
-"PO-Revision-Date: 2015-01-12 17:12+0100\n"
+"POT-Creation-Date: 2011-12-23 04:38-0500\n"
+"PO-Revision-Date: 2013-11-09 01:00+0100\n"
 "Last-Translator: David <david@closemarketing.es>\n"
 "Language-Team: CLOSEMARKETING <info@closemarketing.es>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.7.3\n"
+"X-Generator: Poedit 1.5.7\n"
 
-#: ../class-gf-campaignmonitor.php:40
-msgid "Subscribe user to Campaign Monitor only when payment is received."
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:141
+msgid "Gravity Forms "
+msgstr "Gravity Forms "
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:148
+msgid ""
+"There is a new version of Gravity Forms Campaign Monitor Add-On available."
 msgstr ""
-"Suscribe al Usuario en Campaign Monitor sólo cuando se ha recibido el pago."
+"Hay una nueva versión disponible del Addon Campaign Monitor de Gravity Forms."
 
-#: ../class-gf-campaignmonitor.php:49
-msgid "Campaign Monitor Account Information"
-msgstr "Campaign Monitor Información Cuenta"
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:148
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\plugin-upgrade.php:55
+#, php-format
+msgid "View version %s Details"
+msgstr "Ver detalles de la Versión %s"
 
-#: ../class-gf-campaignmonitor.php:50
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:149
 #, php-format
 msgid ""
-"Campaign Monitor is an email marketing software for designers and their "
-"clients. Use Gravity Forms to collect customer information and automatically "
-"add them to your client's Campaign Monitor subscription list. If you don't "
-"have a Campaign Monitor account, you can  %1$ssign up for one here%2$s"
+"%sRegister%s your copy of Gravity Forms to receive access to automatic "
+"upgrades and support. Need a license key? %sPurchase one now%s."
 msgstr ""
-"Campaign Monitor es un software de Email Marketing para diseñadores y "
-"clientes. Utiliza Gravity Forms para recoger información de clientes y "
-"automáticamente añadirlos a tu cuenta de suscripción de Clientes Campaign "
-"Monitor. Si no tienes una de Campaign Monitor, puedes darte de  %1$s alta "
-"aquí. %2$s"
+"%sRegistra%s tu copia de Gravity Forms para recibir acceso automático a "
+"actualizaciones y soporte. ¿Necesitas una clave de licencia? %sCompra Ahora "
+"una%s."
 
-#: ../class-gf-campaignmonitor.php:55
-msgid "API Key"
-msgstr "Llave API"
-
-#: ../class-gf-campaignmonitor.php:63
-msgid "API Client ID"
-msgstr "ID Cliente API"
-
-#: ../class-gf-campaignmonitor.php:79
-msgid ""
-"You can find your unique API key by clicking on the 'Account Settings' link "
-"at the top of your Campaign Monitor screen."
-msgstr ""
-
-#: ../class-gf-campaignmonitor.php:95
-msgid ""
-"(Optional) Enter an API Client ID to limit this Add-On to the specified "
-"client."
-msgstr ""
-"﻿(Opcional) Introduzca un ID de cliente de la API para limitar este Add-on "
-"para el cliente especificado."
-
-#: ../class-gf-campaignmonitor.php:111
-#, php-format
-msgid ""
-"We are unable to login to Campaign Monitor with the provided API key. Please "
-"make sure you have entered a valid API key in the %sSettings Page%s"
-msgstr ""
-
-#: ../class-gf-campaignmonitor.php:127
-msgid "Campaign Monitor Feed"
-msgstr "Conectores con Campaign Monitor"
-
-#: ../class-gf-campaignmonitor.php:132 ../class-gf-campaignmonitor.php:136
-#: ../class-gf-campaignmonitor.php:383
-msgid "Name"
-msgstr "Nombre"
-
-#: ../class-gf-campaignmonitor.php:136
-msgid "Enter a feed name to uniquely identify this setup."
-msgstr ""
-"Introduce el nombre del conector único para identificar esta configuración."
-
-#: ../class-gf-campaignmonitor.php:140 ../class-gf-campaignmonitor.php:145
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:202
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:587
 msgid "Client"
 msgstr "Cliente"
 
-#: ../class-gf-campaignmonitor.php:145
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:202
 msgid ""
 "Select the Campaign Monitor client you would like to add your contacts to."
 msgstr ""
-"Selecciona el Cliente Campaign Monitor que te gustaría añadir a los "
-"contactos."
 
-#: ../class-gf-campaignmonitor.php:149 ../class-gf-campaignmonitor.php:153
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:203
 msgid "Contact List"
 msgstr "Lista Contactos"
 
-#: ../class-gf-campaignmonitor.php:153
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:203
 msgid ""
 "Select the Campaign Monitor list you would like to add your contacts to."
 msgstr ""
-"Selecciona la Lista Campaign Monitor que te gustaría añadir los contactos."
 
-#: ../class-gf-campaignmonitor.php:157 ../class-gf-campaignmonitor.php:160
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:204
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:638
+msgid "Gravity Form"
+msgstr "Gravity Form"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:204
+msgid ""
+"Select the Gravity Form you would like to integrate with Campaign Monitor. "
+"Contacts generated by this form will be automatically added to your Campaign "
+"Monitor account."
+msgstr ""
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:205
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:659
 msgid "Map Fields"
 msgstr "Campos del Mapa"
 
-#: ../class-gf-campaignmonitor.php:160
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:205
 msgid ""
 "Associate your Campaign Monitor custom fields to the appropriate Gravity "
 "Form fields by selecting the appropriate form field from the list."
 msgstr ""
 
-#: ../class-gf-campaignmonitor.php:164
-msgid "Opt In"
-msgstr "Condición Entrada"
-
-#: ../class-gf-campaignmonitor.php:167
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:206
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:681
 msgid "Opt-In Condition"
-msgstr "Añadir Condición"
+msgstr ""
 
-#: ../class-gf-campaignmonitor.php:167
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:206
 msgid ""
 "When the opt-in condition is enabled, form submissions will only be exported "
 "to Campaign Monitor when the condition is met. When disabled all form "
 "submissions will be exported."
 msgstr ""
 
-#: ../class-gf-campaignmonitor.php:171
-msgid "Options"
-msgstr "Opciones"
-
-#: ../class-gf-campaignmonitor.php:253 ../class-gf-campaignmonitor.php:260
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:207
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:737
 msgid "Resubscribe"
 msgstr "Resuscribir"
 
-#: ../class-gf-campaignmonitor.php:260
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:207
 msgid ""
 "When this option is enabled, if the subscriber is in an inactive state or "
 "has previously been unsubscribed, they will be re-added to the active list. "
 "Therefore, this option should be used with caution and only when appropriate."
 msgstr ""
 
-#: ../class-gf-campaignmonitor.php:266
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:218
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:498
+msgid "Campaign Monitor"
+msgstr "Campaign Monitor"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:264
+msgid "Campaign Monitor Account Information"
+msgstr "Campaign Monitor Información Cuenta"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:271
+msgid "API Key"
+msgstr "Llave API"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:276
+msgid ""
+"You can find your unique API key by clicking on the 'Account Settings' link "
+"at the top of your Campaign Monitor screen"
+msgstr ""
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:280
+msgid "API Client ID"
+msgstr "ID Cliente API"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:284
+msgid ""
+"(Optional) Enter a <strong>API Client ID</strong> to limit this Add-On to "
+"the specified client"
+msgstr ""
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:288
+msgid "Save Settings"
+msgstr "Guardar Configuración"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:302
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:305
+msgid "Uninstall Campaign Monitor Add-On"
+msgstr "Desinstalar Addon Campaign Monitor"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:303
+msgid "Warning! This operation deletes ALL Campaign Monitor Feeds."
+msgstr ""
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:305
+msgid ""
+"Warning! ALL Campaign Monitor Feeds will be deleted. This cannot be undone. "
+"\\'OK\\' to delete, \\'Cancel\\' to stop"
+msgstr ""
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:335
+msgid "Feed deleted."
+msgstr "Conector borrado."
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:346
+msgid "Feeds deleted."
+msgstr "Conectores borrados."
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:352
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:353
+msgid "Campaign Monitor Feeds"
+msgstr "Campaign Monitor Feeds"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:354
+msgid "Add New"
+msgstr "Añadir Nuevo"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:364
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:366
+msgid "Bulk action"
+msgstr "Acción masiva"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:367
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:414
+msgid "Delete"
+msgstr "Borrar"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:370
+msgid "Apply"
+msgstr "Aplicar"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:370
+msgid "Delete selected feeds? "
+msgstr "¿Borrar estos conectores?"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:370
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:414
+msgid "\\'Cancel\\' to stop, \\'OK\\' to delete."
+msgstr "\\'Cancelar\\' para parar, \\'OK\\' para borrar."
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:379
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:389
+msgid "Form"
+msgstr "Formulario"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:380
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:390
+msgid "Campaign Monitor Client"
+msgstr "Cliente Campaign Monitor"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:381
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:391
+msgid "Campaign Monitor List"
+msgstr "Lista Campaign Monitor"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:404
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:462
+msgid "Active"
+msgstr "Activar"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:404
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:458
+msgid "Inactive"
+msgstr "Desactivar"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:406
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:409
+msgid "Edit"
+msgstr "Editar"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:414
+msgid "Delete this feed? "
+msgstr "¿Borrar este conector?"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:429
+#, php-format
+msgid ""
+"You don't have any Campaign Monitor feeds configured. Let's go %screate one"
+"%s!"
+msgstr ""
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:438
+#, php-format
+msgid "To get started, please configure your %sCampaign Monitor Settings%s."
+msgstr ""
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:473
+msgid "Ajax error while updating feed"
+msgstr "Error Ajax cuando se actualizaba el conector"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:499
+msgid "Campaign Monitor Feed"
+msgstr "Conectores con Campaign Monitor"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:506
+#, php-format
+msgid ""
+"We are unable to login to Campaign Monitor with the provided API key. Please "
+"make sure you have entered a valid API key in the %sSettings Page%s"
+msgstr ""
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:551
+#, php-format
+msgid "Feed Updated. %sback to list%s"
+msgstr "Conector Actualizado. %svolver al listado%s"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:557
+msgid "Feed could not be updated. Please enter all required information below."
+msgstr ""
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:579
+msgid "Could not get client list from Campaign Monitor."
+msgstr ""
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:589
+msgid "Select a Client"
+msgstr "Seleccionar cliente"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:611
+#, php-format
+msgid ""
+"Your API Client ID is invalid. You can change it in the %ssettings page%s"
+msgstr ""
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:625
+msgid "Contact list"
+msgstr "Lista Clientes"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:641
+msgid "Select a Form"
+msgstr "Seleccionar Formulario"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:687
+msgid "Enable"
+msgstr "Habilitar"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:694
+msgid "Export to Campaign Monitor if "
+msgstr "Exportar a Campaign Monitor si"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:698
+msgid "is"
+msgstr "es"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:699
+msgid "is not"
+msgstr "no es"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:706
+msgid ""
+"To create an Opt-In condition, your form must have a drop down, checkbox or "
+"multiple choice field."
+msgstr ""
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:734
+msgid "Options"
+msgstr "Opciones"
+
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:737
 msgid ""
 "This option will re-subscribe users that have been unsubscribed. Use with "
 "caution and only when appropriate."
 msgstr ""
 
-#: ../class-gf-campaignmonitor.php:384
-msgid "Campaign Monitor Client"
-msgstr "Cliente Campaign Monitor"
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:743
+msgid "Save"
+msgstr "Guardar"
 
-#: ../class-gf-campaignmonitor.php:385
-msgid "Campaign Monitor List"
-msgstr "Lista Campaign Monitor"
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:743
+msgid "Update"
+msgstr "Actualizar"
 
-#: ../class-gf-campaignmonitor.php:413 ../class-gf-campaignmonitor.php:436
-#, fuzzy
-msgid "(List not found in Campaign Monitor"
-msgstr "Exportar a Campaign Monitor si"
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:744
+msgid "Cancel"
+msgstr "Cancelar"
 
-#~ msgid "Gravity Forms "
-#~ msgstr "Gravity Forms "
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:767
+msgid "Ajax error while selecting a client"
+msgstr "Error Ajax cuando se seleccionaba un cliente"
 
-#~ msgid ""
-#~ "There is a new version of Gravity Forms Campaign Monitor Add-On available."
-#~ msgstr ""
-#~ "Hay una nueva versión disponible del Addon Campaign Monitor de Gravity "
-#~ "Forms."
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:819
+msgid "Ajax error while selecting a form"
+msgstr "Error Ajax cuando se seleccionaba un formulario"
 
-#~ msgid "View version %s Details"
-#~ msgstr "Ver detalles de la Versión %s"
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:941
+msgid "Select a List"
+msgstr "Seleccionar Lista"
 
-#~ msgid ""
-#~ "%sRegister%s your copy of Gravity Forms to receive access to automatic "
-#~ "upgrades and support. Need a license key? %sPurchase one now%s."
-#~ msgstr ""
-#~ "%sRegistra%s tu copia de Gravity Forms para recibir acceso automático a "
-#~ "actualizaciones y soporte. ¿Necesitas una clave de licencia? %sCompra "
-#~ "Ahora una%s."
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:1019
+msgid "List Fields"
+msgstr "Listar Campos"
 
-#~ msgid "Gravity Form"
-#~ msgstr "Gravity Form"
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:1019
+msgid "Form Fields"
+msgstr "Campos del Formulario"
 
-#~ msgid "Campaign Monitor"
-#~ msgstr "Campaign Monitor"
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:1040
+msgid "Entry Date"
+msgstr "Introducir Fecha"
 
-#~ msgid "Save Settings"
-#~ msgstr "Guardar Configuración"
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:1041
+msgid "User IP"
+msgstr "IP Usuario"
 
-#~ msgid "Uninstall Campaign Monitor Add-On"
-#~ msgstr "Desinstalar Addon Campaign Monitor"
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:1042
+msgid "Source Url"
+msgstr "URL Origen"
 
-#~ msgid "Feed deleted."
-#~ msgstr "Conector borrado."
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:1050
+msgid "Full"
+msgstr "Todo"
 
-#~ msgid "Feeds deleted."
-#~ msgstr "Conectores borrados."
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:1204
+msgid ""
+"You don't have adequate permission to uninstall the Campaign Monitor Add-On."
+msgstr ""
 
-#~ msgid "Campaign Monitor Feeds"
-#~ msgstr "Campaign Monitor Feeds"
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\campaignmonitor.php:1301
+msgid "Subscribe user to Campaign Monitor only when payment is received."
+msgstr ""
 
-#~ msgid "Add New"
-#~ msgstr "Añadir Nuevo"
-
-#~ msgid "Bulk action"
-#~ msgstr "Acción masiva"
-
-#~ msgid "Delete"
-#~ msgstr "Borrar"
-
-#~ msgid "Apply"
-#~ msgstr "Aplicar"
-
-#~ msgid "Delete selected feeds? "
-#~ msgstr "¿Borrar estos conectores?"
-
-#~ msgid "\\'Cancel\\' to stop, \\'OK\\' to delete."
-#~ msgstr "\\'Cancelar\\' para parar, \\'OK\\' para borrar."
-
-#~ msgid "Form"
-#~ msgstr "Formulario"
-
-#~ msgid "Active"
-#~ msgstr "Activar"
-
-#~ msgid "Inactive"
-#~ msgstr "Desactivar"
-
-#~ msgid "Edit"
-#~ msgstr "Editar"
-
-#~ msgid "Delete this feed? "
-#~ msgstr "¿Borrar este conector?"
-
-#~ msgid "Ajax error while updating feed"
-#~ msgstr "Error Ajax cuando se actualizaba el conector"
-
-#~ msgid "Feed Updated. %sback to list%s"
-#~ msgstr "Conector Actualizado. %svolver al listado%s"
-
-#~ msgid "Select a Client"
-#~ msgstr "Seleccionar cliente"
-
-#~ msgid "Contact list"
-#~ msgstr "Lista Clientes"
-
-#~ msgid "Select a Form"
-#~ msgstr "Seleccionar Formulario"
-
-#~ msgid "Enable"
-#~ msgstr "Habilitar"
-
-#~ msgid "is"
-#~ msgstr "es"
-
-#~ msgid "is not"
-#~ msgstr "no es"
-
-#~ msgid "Save"
-#~ msgstr "Guardar"
-
-#~ msgid "Update"
-#~ msgstr "Actualizar"
-
-#~ msgid "Cancel"
-#~ msgstr "Cancelar"
-
-#~ msgid "Ajax error while selecting a client"
-#~ msgstr "Error Ajax cuando se seleccionaba un cliente"
-
-#~ msgid "Ajax error while selecting a form"
-#~ msgstr "Error Ajax cuando se seleccionaba un formulario"
-
-#~ msgid "Select a List"
-#~ msgstr "Seleccionar Lista"
-
-#~ msgid "List Fields"
-#~ msgstr "Listar Campos"
-
-#~ msgid "Form Fields"
-#~ msgstr "Campos del Formulario"
-
-#~ msgid "Entry Date"
-#~ msgstr "Introducir Fecha"
-
-#~ msgid "User IP"
-#~ msgstr "IP Usuario"
-
-#~ msgid "Source Url"
-#~ msgstr "URL Origen"
-
-#~ msgid "Full"
-#~ msgstr "Todo"
-
-#~ msgid "Oops!! Something went wrong.%sPlease try again or %scontact us%s."
-#~ msgstr ""
-#~ "Oops!! Algo fue mal. %sPor favor intenta otra vez o %scontacta con "
-#~ "nosotros %s."
+#: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformscampaignmonitor\plugin-upgrade.php:74
+#, php-format
+msgid "Oops!! Something went wrong.%sPlease try again or %scontact us%s."
+msgstr ""
+"Oops!! Algo fue mal. %sPor favor intenta otra vez o %scontacta con nosotros "
+"%s."

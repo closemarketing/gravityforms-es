@@ -3,41 +3,45 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: Gravity Forms Signature\n"
 "Report-Msgid-Bugs-To: Pronamic <info@pronamic.nl>\n"
 "POT-Creation-Date: 2013-04-16 16:07+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2013-08-25 22:37+0100\n"
+"Last-Translator: David <david@closemarketing.es>\n"
+"Language-Team: Closemarketing <david@closemarketing.es>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"Language: es_ES\n"
+"X-Poedit-SourceCharset: UTF-8\n"
 
 #: plugin-upgrade.php:53 signature.php:249
 #, php-format
 msgid "View version %s Details"
-msgstr ""
+msgstr "Ver Detalles versión %s"
 
 #: plugin-upgrade.php:72
 #, php-format
 msgid "Oops!! Something went wrong.%sPlease try again or %scontact us%s."
 msgstr ""
+"Oops!! Algo fue mal. %sPor favor intenta otra vez o %scontacta con nosotros "
+"%s."
 
 #: signature.php:183 signature.php:192 signature.php:563
 msgid "Signature"
-msgstr ""
+msgstr "Firma"
 
 #: signature.php:242
 msgid "Gravity Forms "
-msgstr ""
+msgstr "Gravity Forms "
 
 #: signature.php:249
 msgid "There is a new version of Gravity Forms Signature Add-On available."
 msgstr ""
+"Hay una nueva versión disponible de este Addon Gravity Forms Signature."
 
 #: signature.php:250
 #, php-format
@@ -45,103 +49,110 @@ msgid ""
 "%sRegister%s your copy of Gravity Forms to receive access to automatic "
 "upgrades and support. Need a license key? %sPurchase one now%s."
 msgstr ""
+"%sRegistra%s tu copia de Gravity Forms para recibir acceso automático a "
+"actualizaciones y soporte. ¿Necesitas una clave de licencia? %sCompra Ahora "
+"una%s."
 
 #: signature.php:297 signature.php:331
 msgid "Background Color"
-msgstr ""
+msgstr "Color del Fondo"
 
 #: signature.php:297
 msgid "Select the color to be used for the background of the signature area"
-msgstr ""
+msgstr "Selecciona el color que usarás de fondo en el área de la firma"
 
 #: signature.php:298 signature.php:338
 msgid "Border Color"
-msgstr ""
+msgstr "Color del Borde"
 
 #: signature.php:298
 msgid "Select the color to be used for the border around the signature area"
-msgstr ""
+msgstr "Selecciona el color que usarás de borde en el área de la firma"
 
 #: signature.php:299 signature.php:374
 msgid "Pen Color"
-msgstr ""
+msgstr "Color del Lápiz"
 
 #: signature.php:299
 msgid "Select the color of the pen to be used for the signature"
-msgstr ""
+msgstr "Selecciona el color del lápiz que usarás para la firma"
 
 #: signature.php:300
 msgid "Width"
-msgstr ""
+msgstr "Ancho"
 
 #: signature.php:300
 msgid "Enter the width for the signature area in pixels."
-msgstr ""
+msgstr "Introduce el ancho del área de la firma en pixels."
 
 #: signature.php:301 signature.php:357
 msgid "Border Style"
-msgstr ""
+msgstr "Estilo del Borde"
 
 #: signature.php:301
 msgid "Select the border style to be used around the signature area"
-msgstr ""
+msgstr "Selecciona el estilo que usarás de borde en el área de la firma"
 
 #: signature.php:302 signature.php:381
 msgid "Pen Size"
-msgstr ""
+msgstr "Tamaño Lápiz"
 
 #: signature.php:302
 msgid "Select the width of the pen to be used for the signature"
-msgstr ""
+msgstr "Selecciona el ancho del lápiz que usarás para la firma"
 
 #: signature.php:303 signature.php:345
 msgid "Border Width"
-msgstr ""
+msgstr "Ancho del borde"
 
 #: signature.php:303
 msgid "Select the border width to be used around the signature area"
-msgstr ""
+msgstr "Selecciona el ancho del borde que usarás en el área de la firma"
 
 #: signature.php:304
 msgid "Message"
-msgstr ""
+msgstr "Mensaje"
 
 #: signature.php:304
 msgid ""
 "Write the message you would like to be sent. You can insert fields submitted "
 "by the user by selecting them from the 'Insert Variable' drop down."
 msgstr ""
+"Escribe el mensaje que te gustaría enviar. Puedes insertar campos rellenados "
+"por el usuario seleccionandolos en 'Insertar Variable' del desplegable."
 
 #: signature.php:315
 msgid "Field Width"
-msgstr ""
+msgstr "Ancho del Campo"
 
 #: signature.php:511 signature.php:530
 msgid "Click to view"
-msgstr ""
+msgstr "Clic para ver"
 
 #: signature.php:618
 msgid "Download file"
-msgstr ""
+msgstr "Descargar Archivo"
 
 #: signature.php:619
 msgid "Delete file"
-msgstr ""
+msgstr "Borrar Archivo"
 
 #: signature.php:622
 msgid "sign again"
-msgstr ""
+msgstr "firmar otra vez"
 
 #: signature.php:668
 msgid ""
 "'Would you like to delete this file? \\'Cancel\\' to stop. \\'OK\\' to "
 "delete'"
 msgstr ""
+"¿Quieres borrar este archivo? \\'Cancelar\\' para parar, \\'OK\\' para "
+"borrar."
 
 #: signature.php:699
 msgid "Please enter your signature."
-msgstr ""
+msgstr "Por favor, introduzca la firma."
 
 #: signature.php:778
 msgid "There was an issue deleting this signature."
-msgstr ""
+msgstr "Ha habido un problema al borrar la firma."

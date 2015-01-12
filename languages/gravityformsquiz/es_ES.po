@@ -1,0 +1,498 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Pronamic
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Gravity Forms Polls\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-24 15:03+0100\n"
+"PO-Revision-Date: 2014-09-06 17:11+0100\n"
+"Last-Translator: David <david@closemarketing.es>\n"
+"Language-Team: Closemarketing <david@closemarketing.es>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: ../plugin-upgrade.php:53 ../quiz.php:1134
+#, php-format
+msgid "View version %s Details"
+msgstr "Ver Detalles Versión %s"
+
+#: ../plugin-upgrade.php:72
+#, php-format
+msgid "Oops!! Something went wrong.%sPlease try again or %scontact us%s."
+msgstr ""
+"Oops!! Algo fue mal. %sPor favor intenta otra vez o %scontacta con nosotros "
+"%s."
+
+#: ../quiz.php:257 ../quiz.php:795 ../quiz.php:853
+msgid "Pass"
+msgstr "Aprobado"
+
+#: ../quiz.php:257 ../quiz.php:795 ../quiz.php:853
+msgid "Fail"
+msgstr "Suspendido"
+
+#: ../quiz.php:562
+msgid "Drag to re-order"
+msgstr "Arrastra para re-ordenar"
+
+#: ../quiz.php:563
+msgid "add another grade"
+msgstr "añadir otra calificación"
+
+#: ../quiz.php:564
+msgid "remove this grade"
+msgstr "eliminar esta calificación"
+
+#: ../quiz.php:565
+msgid "First Choice"
+msgstr "Primera Elección"
+
+#: ../quiz.php:566
+msgid "Second Choice"
+msgstr "Segunda Elección"
+
+#: ../quiz.php:567
+msgid "Third Choice"
+msgstr "Tercera Elección"
+
+#: ../quiz.php:568
+#, fuzzy
+msgid "Click to toggle as correct/incorrect"
+msgstr "Clic para cambiar"
+
+#: ../quiz.php:569
+msgid "Click to define as correct"
+msgstr "Haz clic para definir el correcto"
+
+#: ../quiz.php:570
+msgid ""
+"Mark an answer as correct by using the checkmark icon to the right of the "
+"answer."
+msgstr ""
+"Marcar respuesta como correcta usando el icono selección a la derecha de la "
+"respuesta."
+
+#: ../quiz.php:571
+msgid "Click to define as incorrect"
+msgstr "Clic para definir el incorrecto"
+
+#: ../quiz.php:572
+msgid "A"
+msgstr "A"
+
+#: ../quiz.php:573
+msgid "B"
+msgstr "B"
+
+#: ../quiz.php:574
+msgid "C"
+msgstr "C"
+
+#: ../quiz.php:575
+msgid "D"
+msgstr "D"
+
+#: ../quiz.php:576
+msgid "E"
+msgstr "E"
+
+#: ../quiz.php:577
+msgid "F"
+msgstr "F"
+
+#: ../quiz.php:578
+msgid ""
+"<strong>Quiz Results:</strong> You Failed!\n"
+"<strong>Correct Answers:</strong> {quiz_score}\n"
+"<strong>Percentage:</strong> {quiz_percent}%"
+msgstr ""
+"<strong>Resultados Test:</strong> ¡Suspendiste!\n"
+"<strong>Respuestas Correctas:</strong> {quiz_score}\n"
+"<strong>Porcentaje:</strong> {quiz_percent}%"
+
+#: ../quiz.php:579
+msgid ""
+"<strong>Quiz Results:</strong> You Passed!\n"
+"<strong>Correct Answers:</strong> {quiz_score}\n"
+"<strong>Percentage:</strong> {quiz_percent}%"
+msgstr ""
+"<strong>Resultados Test:</strong> ¡Aprobaste!\n"
+"<strong>Respuestas Correctas:</strong> {quiz_score}\n"
+"<strong>Porcentaje:</strong> {quiz_percent}%"
+
+#: ../quiz.php:580
+msgid ""
+"<strong>Quiz Grade:</strong> {quiz_grade}\n"
+"<strong>Correct Answers:</strong> {quiz_score}\n"
+"<strong>Percentage:</strong> {quiz_percent}%"
+msgstr ""
+"<strong>Calificación del Test:</strong> {quiz_grade}\n"
+"<strong>Respuestas Correctas:</strong> {quiz_score}\n"
+"<strong>Porcentaje:</strong> {quiz_percent}%"
+
+#: ../quiz.php:650
+msgid "Grading"
+msgstr "Calificación"
+
+#: ../quiz.php:654
+msgid "None"
+msgstr "Nada"
+
+#: ../quiz.php:660
+msgid "Pass/Fail"
+msgstr "Aprobado/Suspendido"
+
+#: ../quiz.php:666
+msgid "Letter"
+msgstr "Letra"
+
+#: ../quiz.php:673 ../quiz.php:900
+msgid "Pass Percentage"
+msgstr "Porcentaje Aprobado"
+
+#: ../quiz.php:682 ../quiz.php:892
+msgid "Quiz Pass Confirmation"
+msgstr "Confirmación Examen Test"
+
+#: ../quiz.php:690 ../quiz.php:704 ../quiz.php:730
+msgid "Disable Auto-formatting"
+msgstr "Desactivar Auto-formato"
+
+#: ../quiz.php:696 ../quiz.php:893
+msgid "Quiz Fail Confirmation"
+msgstr "Confirmación Test Suspendido"
+
+#: ../quiz.php:711 ../quiz.php:899
+msgid "Letter Grades"
+msgstr "Calificación por Letras"
+
+#: ../quiz.php:716
+msgid "Label"
+msgstr "Etiqueta"
+
+#: ../quiz.php:716
+msgid "Percentage"
+msgstr "Porcentaje"
+
+#: ../quiz.php:722
+msgid "Quiz Confirmation"
+msgstr "Confirmación del Test"
+
+#: ../quiz.php:777
+msgid "Quiz Score Total"
+msgstr "Total Puntuación del Test"
+
+#: ../quiz.php:778
+msgid "Quiz Pass/Fail"
+msgstr "Aprobado/Suspendido Test"
+
+#: ../quiz.php:779
+msgid "Quiz Grade"
+msgstr "Calificación Test"
+
+#: ../quiz.php:780
+msgid "Quiz Percentage"
+msgstr "Porcentaje del Test"
+
+#: ../quiz.php:874 ../quiz.php:883
+msgid "Quiz"
+msgstr "Test"
+
+#: ../quiz.php:892
+msgid ""
+"Enter the message that should appear when the user reaches the pass "
+"percentage. This will appear immediately below the form confirmation message."
+msgstr ""
+"Introduce el mensaje que debería aparecer cuando un usuario pasa el "
+"porcentaje. Este aparecerá inmediatamente debajo del mensaje de confirmación "
+"del formulario."
+
+#: ../quiz.php:893
+msgid ""
+"Enter the message that should appear when the user doesn't reach the pass "
+"percentage. This will appear immediately below the form confirmation message."
+msgstr ""
+
+#: ../quiz.php:894
+msgid "Quiz Confirmation Message"
+msgstr "Mensaje de confirmación del Test"
+
+#: ../quiz.php:894
+msgid ""
+"Enter the message that should appear immediately below the form confirmation "
+"message."
+msgstr ""
+
+#: ../quiz.php:896
+msgid "No Grading"
+msgstr "Sin Calificación"
+
+#: ../quiz.php:896
+msgid "Grading will not be used for this form."
+msgstr "La calificación no será utilizada en este formulario."
+
+#: ../quiz.php:897
+msgid "Enable Pass/Fail Grading"
+msgstr "Habilitar Calificación Aprobado/Suspendido"
+
+#: ../quiz.php:897
+msgid ""
+"Select this option to enable the pass/fail grading system for this form."
+msgstr ""
+
+#: ../quiz.php:898
+msgid "Enable Letter Grading"
+msgstr "Habilitar Calificación por Letras"
+
+#: ../quiz.php:898
+msgid "Select this option to enable the letter grading system for this form."
+msgstr ""
+
+#: ../quiz.php:899
+msgid "Define the minimum percentage required for each grade."
+msgstr ""
+
+#: ../quiz.php:900
+msgid "Define the minimum percentage required to pass the quiz."
+msgstr ""
+
+#: ../quiz.php:904 ../quiz.php:985
+msgid "Quiz Question"
+msgstr "Pregunta Test"
+
+#: ../quiz.php:904
+msgid ""
+"Enter the question you would like to ask the user. The user can then answer "
+"the question by selecting from the available choices."
+msgstr ""
+
+#: ../quiz.php:905 ../quiz.php:994
+msgid "Quiz Type"
+msgstr "Tipo Test"
+
+#: ../quiz.php:905
+msgid ""
+"Select the field type you'd like to use for the quiz. Choose radio buttons "
+"or drop down if question only has one correct answer. Choose checkboxes if "
+"your question requires more than one correct choice."
+msgstr ""
+
+#: ../quiz.php:906
+msgid "Randomize Quiz Answers"
+msgstr "Respuestas aleatorias del Test"
+
+#: ../quiz.php:906
+msgid ""
+"Check the box to randomize the order in which the answers are displayed to "
+"the user. This setting affects only the quiz front-end. It will not affect "
+"the order of the results."
+msgstr ""
+
+#: ../quiz.php:907
+msgid "Enable Answer Explanation"
+msgstr "Habilitar explicación respuesta"
+
+#: ../quiz.php:907
+msgid ""
+"Activate this option to display an explanation of the answer along with the "
+"quiz results."
+msgstr ""
+
+#: ../quiz.php:908
+msgid "Quiz Answer Explanation"
+msgstr "Explicación respuesta del Test"
+
+#: ../quiz.php:908
+msgid ""
+"Enter the explanation for the correct answer and/or incorrect answers. This "
+"text will appear below the results for this field."
+msgstr ""
+
+#: ../quiz.php:909 ../quiz.php:1007
+msgid "Quiz Answers"
+msgstr "Respuestas del Test"
+
+#: ../quiz.php:909
+msgid ""
+"Enter the answers for the quiz question. You can mark each choice as correct "
+"by using the radio/checkbox fields on the right."
+msgstr ""
+
+#: ../quiz.php:998
+msgid "Drop Down"
+msgstr "Selección"
+
+#: ../quiz.php:999
+msgid "Radio Buttons"
+msgstr "Botones de opción"
+
+#: ../quiz.php:1000
+msgid "Checkboxes"
+msgstr "Casillas Verificación"
+
+#: ../quiz.php:1013
+msgid "Bulk Add / Predefined Choices"
+msgstr "Añadir Masivo / Acciones predefinidas"
+
+#: ../quiz.php:1026
+msgid "Randomize order of choices"
+msgstr "Orden aleatorio de las opciones"
+
+#: ../quiz.php:1035
+msgid "Enable answer explanation"
+msgstr "Habilitar explicación respuesta"
+
+#: ../quiz.php:1042
+msgid "Quiz answer explanation"
+msgstr "Explicación respuesta del Test"
+
+#: ../quiz.php:1128
+msgid "Gravity Forms "
+msgstr "Gravity Forms "
+
+#: ../quiz.php:1134
+msgid "There is a new version of Gravity Forms Quiz Add-On available."
+msgstr "Hay una nueva versión de Gravity Forms Quiz disponible."
+
+#: ../quiz.php:1135
+#, php-format
+msgid ""
+"%sRegister%s your copy of Gravity Forms to receive access to automatic "
+"upgrades and support. Need a license key? %sPurchase one now%s."
+msgstr ""
+"%sRegistra%s tu copia de Gravity Forms para recibir acceso automático a "
+"actualizaciones y soporte. ¿Necesitas una clave de licencia? %sCompra Ahora "
+"una%s."
+
+#~ msgid "Polls Form Settings"
+#~ msgstr "Configuración Formulario Encuestas"
+
+#~ msgid "Show percentages"
+#~ msgstr "Mostrar Percentajes"
+
+#~ msgid "Show counts"
+#~ msgstr "Mostrar Contadores"
+
+#~ msgid "Style"
+#~ msgstr "Estilo"
+
+#~ msgid "Green"
+#~ msgstr "Verde"
+
+#~ msgid "Blue"
+#~ msgstr "Azul"
+
+#~ msgid "Red"
+#~ msgstr "Rojo"
+
+#~ msgid "Orange"
+#~ msgstr "Naranja"
+
+#~ msgid "Repeat Voters"
+#~ msgstr "Repetición Votos"
+
+#~ msgid "Expires:"
+#~ msgstr "Expira:"
+
+#~ msgid "Never"
+#~ msgstr "Nunca"
+
+#~ msgid "1 hour"
+#~ msgstr "1 hora"
+
+#~ msgid "6 hours"
+#~ msgstr "6 horas"
+
+#~ msgid "12 hours"
+#~ msgstr "12 horas"
+
+#~ msgid "1 day"
+#~ msgstr "1 día"
+
+#~ msgid "1 week"
+#~ msgstr "1 semana"
+
+#~ msgid "1 month"
+#~ msgstr "1 mes"
+
+#~ msgid "Select one"
+#~ msgstr "Seleccionar uno"
+
+#~ msgid "View results"
+#~ msgstr "Ver resultados"
+
+#~ msgid "Back to the poll"
+#~ msgstr "Volver para la encuesta"
+
+#~ msgid "No filters"
+#~ msgstr "Sin filtros"
+
+#~ msgid "Add a field filter"
+#~ msgstr "Añadir un campo para filtro"
+
+#~ msgid "Polls"
+#~ msgstr "Encuestas"
+
+#~ msgid "Poll"
+#~ msgstr "Encuesta"
+
+#~ msgid "Poll Results"
+#~ msgstr "Resultados Encuestas"
+
+#~ msgid "Results"
+#~ msgstr "Resultados"
+
+#~ msgid "Poll Settings"
+#~ msgstr "Configuración Encuestas"
+
+#~ msgid "Show Results Link"
+#~ msgstr "Mostrar Enlace Resultados"
+
+#~ msgid "Title"
+#~ msgstr "Título"
+
+#~ msgid "Select a Form"
+#~ msgstr "Seleccionar Formulario"
+
+#~ msgid "Results only"
+#~ msgstr "Resultados sólo"
+
+#~ msgid "Results Filters"
+#~ msgstr "Filtros de Resultados"
+
+#~ msgid "Filters"
+#~ msgstr "Filtros"
+
+#~ msgid "Date Range"
+#~ msgstr "Rango Fecha"
+
+#~ msgid "Start"
+#~ msgstr "Empezar"
+
+#~ msgid "End"
+#~ msgstr "Finalizar"
+
+#~ msgid "No results."
+#~ msgstr "Sin resultados."
+
+#~ msgid "No results"
+#~ msgstr "Sin resultados"
+
+#~ msgid "Choice"
+#~ msgstr "Elección"
+
+#~ msgid "Frequency"
+#~ msgstr "Frequencia"
+
+#~ msgid "Item"
+#~ msgstr "Item"
+
+#~ msgid "Latest entries:"
+#~ msgstr "Últimas entradas:"
