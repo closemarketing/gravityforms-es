@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Gravity Forms Coupons Add-On\n"
 "POT-Creation-Date: 2013-08-19 14:12-0500\n"
-"PO-Revision-Date: 2014-11-11 23:40+0100\n"
+"PO-Revision-Date: 2015-01-14 09:58+0100\n"
 "Last-Translator: David <david@closemarketing.es>\n"
 "Language-Team: Rocketgenius <customerservice@rocketgenius.com>\n"
 "MIME-Version: 1.0\n"
@@ -70,7 +70,7 @@ msgstr ""
 
 #: ../coupons.php:291 ../coupons.php:875
 msgid "Coupon Amount"
-msgstr ""
+msgstr "Cantidad Cupones"
 
 #: ../coupons.php:291
 msgid "Enter the amount to be deducted from the form total."
@@ -275,11 +275,11 @@ msgstr ""
 
 #: ../coupons.php:948
 msgid "Save Coupon"
-msgstr ""
+msgstr "Guardar Cupón"
 
 #: ../coupons.php:948
 msgid "Update Coupon"
-msgstr ""
+msgstr "Actualizar Cupón"
 
 #: ../coupons.php:981
 msgid "Ajax error while selecting a form"
