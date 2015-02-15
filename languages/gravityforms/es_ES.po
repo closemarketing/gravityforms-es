@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Gravity Forms - Spanish\n"
 "Report-Msgid-Bugs-To: http://www.gravtiyhelp.com\n"
 "POT-Creation-Date: 2015-02-10 21:15:45+00:00\n"
-"PO-Revision-Date: 2015-02-15 10:55+0100\n"
+"PO-Revision-Date: 2015-02-15 11:03+0100\n"
 "Last-Translator: David <david@closemarketing.es>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -9216,13 +9216,10 @@ msgstr ""
 "administradores cuando se ve la entrada."
 
 #: tooltips.php:108
-#, fuzzy
 msgid ""
 "Create rules to dynamically display or hide this field based on values from another "
 "field."
-msgstr ""
-"Crear reglas para mostrar de forma dinámica u ocultar el botón de envío basado en los "
-"valores de otro campo"
+msgstr "Crear reglas para mostrar de forma dinámica u ocultar los valores de otro campo"
 
 #: tooltips.php:109
 msgid "Enable Enhanced UI"
