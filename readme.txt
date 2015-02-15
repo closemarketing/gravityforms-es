@@ -35,7 +35,7 @@ WordPress installation and then activate the Plugin from Plugins page.
 == Developers ==
 
 
-*	gravityforms 1.8.9
+*	gravityforms 1.9.1
 *	gravityformscampaignmonitor 2.1
 *	gravityformsmailchimp 2.4
 *	gravityformspaypal 1.8

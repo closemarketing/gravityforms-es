@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Gravity Forms User Registration\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-07-16 05:47-0500\n"
-"PO-Revision-Date: 2013-11-09 01:01+0100\n"
+"PO-Revision-Date: 2015-01-12 22:13+0100\n"
 "Last-Translator: David <david@closemarketing.es>\n"
 "Language-Team: Closemarketing <david@closemarketing.es>\n"
 "Language: es_ES\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
 "X-Poedit-Basepath: .\n"
-"X-Generator: Poedit 1.5.7\n"
+"X-Generator: Poedit 1.7.3\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wp-content\\plugins"
 "\\gravityformsuserregistration\n"
@@ -69,6 +69,8 @@ msgid ""
 "Select the Gravity Form you would like to use to register users for your "
 "WordPress website."
 msgstr ""
+"﻿Selecciona el formulario Gravity que desea utilizar para registrar a los "
+"usuarios de tu sitio web WordPress."
 
 #: C:\xampp\htdocs\wp-content\plugins\gravityformsuserregistration/userregistration.php:224
 #: C:\xampp\htdocs\wp-content\plugins\gravityformsuserregistration/userregistration.php:660
@@ -138,7 +140,7 @@ msgstr ""
 #: C:\xampp\htdocs\wp-content\plugins\gravityformsuserregistration/userregistration.php:231
 #: C:\xampp\htdocs\wp-content\plugins\gravityformsuserregistration/userregistration.php:723
 msgid "Set As Post Author"
-msgstr ""
+msgstr "﻿Establecer como Autor de Entrada"
 
 #: C:\xampp\htdocs\wp-content\plugins\gravityformsuserregistration/userregistration.php:231
 msgid ""
@@ -473,11 +475,11 @@ msgstr ""
 #: C:\xampp\htdocs\wp-content\plugins\gravityformsuserregistration/userregistration.php:2016
 #, php-format
 msgid "Set User as %s"
-msgstr ""
+msgstr "Establecer Usuario como %s"
 
 #: C:\xampp\htdocs\wp-content\plugins\gravityformsuserregistration/userregistration.php:2025
 msgid "Update <strong>site</strong> when subscription is cancelled."
-msgstr ""
+msgstr "Actualizar <strong>sitio</strong> cuando la suscripción se cancela."
 
 #: C:\xampp\htdocs\wp-content\plugins\gravityformsuserregistration/userregistration.php:2028
 msgid "Deactivate"
