@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Gravity Forms - Spanish\n"
 "Report-Msgid-Bugs-To: http://www.gravtiyhelp.com\n"
 "POT-Creation-Date: 2015-02-10 21:15:45+00:00\n"
-"PO-Revision-Date: 2015-02-15 11:03+0100\n"
+"PO-Revision-Date: 2015-02-18 10:15+0100\n"
 "Last-Translator: David <david@closemarketing.es>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -467,14 +467,12 @@ msgid "Include results if {0} match:"
 msgstr "Incluir resultados si {0} encaja:"
 
 #: common.php:3520
-#, fuzzy
 msgid "Custom Choices"
 msgstr "Introducir opciones"
 
 #: common.php:3521
-#, fuzzy
 msgid "Predefined Choices"
-msgstr "Añadir Masivo / Acciones predefinidas"
+msgstr "Elecciones predefinidas"
 
 #: common.php:3655
 msgid "Any form field"
@@ -642,7 +640,6 @@ msgid "Pound Sterling"
 msgstr "Pound Sterling"
 
 #: currency.php:128
-#, fuzzy
 msgid "Russian Ruble"
 msgstr "Rublo Ruso"
 
@@ -651,7 +648,6 @@ msgid "Singapore Dollar"
 msgstr "Dolar de Singapur"
 
 #: currency.php:130
-#, fuzzy
 msgid "South African Rand"
 msgstr "Rand sudafricano"
 
@@ -2971,7 +2967,7 @@ msgstr "Etiqueta del Campo"
 
 #: form_detail.php:1894
 msgid "Visible (%s)"
-msgstr ""
+msgstr "Visible (%s)"
 
 #: form_detail.php:1900 tooltips.php:36 tooltips.php:88
 msgid "Description Placement"
@@ -2989,7 +2985,7 @@ msgstr "Ubicación de la etiqueta"
 #: form_detail.php:1941
 #, fuzzy
 msgid "Custom Validation Message"
-msgstr "Mensaje de Validación"
+msgstr "Custom Validation Message"
 
 #: form_detail.php:1953
 msgid "Custom CSS Class"
@@ -3274,9 +3270,8 @@ msgid "Sorry. This form is no longer available."
 msgstr "Lo sentimos. Este formulario no se encuentra disponible."
 
 #: form_display.php:2581
-#, fuzzy
 msgid "Send Email"
-msgstr "¿Enviar Email?"
+msgstr "Enviar Email"
 
 #: form_display.php:2582 includes/fields/class-gf-field-email.php:48
 msgid "Please enter a valid email address."
@@ -3345,14 +3340,14 @@ msgstr[1] "La entrada ha sido borrada."
 #: form_list.php:92
 msgid "%s form has been marked as active."
 msgid_plural "%s forms have been marked as active."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s formulario has sido marcado activo."
+msgstr[1] "%s formularios han sido marcados activos."
 
 #: form_list.php:98
 msgid "%s form has been marked as inactive."
 msgid_plural "%s forms have been marked as inactive."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s formulario has sido marcado desactivado."
+msgstr[1] "%s formularios han sido marcados desactivos."
 
 #: form_list.php:189 tooltips.php:34
 msgid "Form Description"
@@ -3550,19 +3545,16 @@ msgid "Button conditional logic"
 msgstr "Botón siguiente de Lógica Condicional"
 
 #: form_settings.php:564
-#, fuzzy
 msgid "Save and Continue Later"
-msgstr "Guardar como"
+msgstr "Guardar y Continuar después"
 
 #: form_settings.php:569 form_settings.php:897
-#, fuzzy
 msgid "Save and Continue"
-msgstr "Guardar como"
+msgstr "Guardar y Continuar"
 
 #: form_settings.php:573
-#, fuzzy
 msgid "Enable Save and Continue"
-msgstr "Guardar como"
+msgstr "Habilitar Guardar y Continuar"
 
 #: form_settings.php:587
 msgid ""
@@ -3581,9 +3573,8 @@ msgid ""
 msgstr ""
 
 #: form_settings.php:604
-#, fuzzy
 msgid "Link text"
-msgstr "Enlace a"
+msgstr "Texto Enlace"
 
 #: form_settings.php:626
 msgid "total entries"
@@ -3705,19 +3696,16 @@ msgid ""
 msgstr ""
 
 #: form_settings.php:1120 notification.php:149
-#, fuzzy
 msgid "Save &amp; Continue Link"
-msgstr "Guardar como"
+msgstr "Guardar &amp; Continuar con Enlace"
 
 #: form_settings.php:1121 notification.php:150
-#, fuzzy
 msgid "Save &amp; Continue Token"
-msgstr "Guardar como"
+msgstr "Guardar &amp; Continuar con Clave"
 
 #: form_settings.php:1125
-#, fuzzy
 msgid "Save &amp; Continue Email Input"
-msgstr "Guardar como"
+msgstr "Guardar &amp; Continuar con Entrada email"
 
 #: form_settings.php:1161
 msgid "Save Confirmation"
@@ -3778,9 +3766,8 @@ msgid "You must select a Confirmation Page."
 msgstr "Debes seleccionar una página de confirmación."
 
 #: form_settings.php:1485
-#, fuzzy
 msgid "You must specify a valid Redirect URL."
-msgstr "Debes especificar una URL a redireccionar."
+msgstr "Debes especificar una URL válida para redireccionar."
 
 #: form_settings.php:1506
 msgid "Confirmation saved successfully. %sBack to confirmations.%s"
@@ -3791,13 +3778,12 @@ msgid "Confirmation deleted."
 msgstr "Mensaje de confirmación eliminado."
 
 #: form_settings.php:1610
-#, fuzzy
 msgid "Save and Continue Email"
-msgstr "Guardar como"
+msgstr "Email Guardar y Continuar"
 
 #: form_settings.php:1614
 msgid "Link to continue {form_title}"
-msgstr ""
+msgstr "Enlace para continuar {form_title}"
 
 #: form_settings.php:1615
 msgid ""
@@ -3808,9 +3794,8 @@ msgid ""
 msgstr ""
 
 #: form_settings.php:1634
-#, fuzzy
 msgid "Save and Continue Confirmation"
-msgstr "Guardar como"
+msgstr "Confirmación Guardar y Continuar"
 
 #: form_settings.php:1637
 msgid ""
@@ -3972,9 +3957,8 @@ msgid ""
 msgstr ""
 
 #: gravityforms.php:1675
-#, fuzzy
 msgid "Please select a form."
-msgstr "Por favor seleccione un formulario"
+msgstr "Por favor selecciona un formulario."
 
 #: gravityforms.php:1863
 msgid "Add-On browser is currently unavailable. Please try again later."
@@ -4063,9 +4047,8 @@ msgid "Specify the starting tab index for the fields of this form."
 msgstr ""
 
 #: gravityforms.php:2852
-#, fuzzy
 msgid "Select an action"
-msgstr "Selecciona Tipo de Transacción"
+msgstr "Selecciona una acción"
 
 #: gravityforms.php:2864
 msgid "Select an action for this shortcode. Actions are added by some add-ons."
@@ -4236,9 +4219,8 @@ msgid "This add-on needs to be updated. Please contact the developer."
 msgstr ""
 
 #: includes/addon/class-gf-addon.php:2974
-#, fuzzy
 msgid "%s Settings"
-msgstr "Configuración"
+msgstr "Configuración %s "
 
 #: includes/addon/class-gf-addon.php:3079 settings.php:491
 msgid "Uninstall"
@@ -4321,9 +4303,8 @@ msgid "Your version of %s is up to date."
 msgstr "Tu actual versión de Gravity Forms está actualizada."
 
 #: includes/addon/class-gf-feed-addon.php:477 includes/addon/class-gf-feed-addon.php:575
-#, fuzzy
 msgid "%s Feeds"
-msgstr "Conectores"
+msgstr "Conectores %s"
 
 #: includes/addon/class-gf-feed-addon.php:516
 msgid "Feed Settings"
@@ -4805,8 +4786,8 @@ msgstr ""
 #: includes/addon/class-gf-payment-addon.php:2161
 msgid "1 item"
 msgid_plural "%s items"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 artículo"
+msgstr[1] "%s artículos"
 
 #: includes/addon/class-gf-payment-addon.php:2178
 msgid "Go to the first page"
@@ -9690,41 +9671,37 @@ msgid "Tab Index Start"
 msgstr "Tab-Index Start"
 
 #. Plugin URI of the plugin/theme
-#, fuzzy
 msgid "http://www.gravityforms.com"
-msgstr ""
-"Uy!! Algo salió mal. <br />Por favor intente de nuevo o <a href='http://www."
-"gravityforms.com'>contactenos (Gravity Forms)</a>."
+msgstr "http://www.gravityforms.com"
 
 #. Description of the plugin/theme
 msgid "Easily create web forms and manage form entries within the WordPress admin."
 msgstr ""
+"Crea fácilmente formularios y gestiona entradas de formulario dentro del Admin de "
+"WordPress."
 
 #. Author of the plugin/theme
 msgid "rocketgenius"
-msgstr ""
+msgstr "rocketgenius"
 
 #. Author URI of the plugin/theme
 msgid "http://www.rocketgenius.com"
-msgstr ""
+msgstr "http://www.rocketgenius.com"
 
 #: includes/addon/class-gf-payment-addon.php:1491
-#, fuzzy
 msgctxt "toolbar label"
 msgid "Sales"
 msgstr "Ventas"
 
 #: includes/addon/class-gf-payment-addon.php:1492
-#, fuzzy
 msgctxt "metabox title"
 msgid "Filter"
 msgstr "Filtro"
 
 #: includes/addon/class-gf-payment-addon.php:2194
-#, fuzzy
 msgctxt "paging"
 msgid "%1$s of %2$s"
-msgstr "Nombre del asistente: %1$s %2$s"
+msgstr "%1$s de %2$s"
 
 #: includes/fields/class-gf-field-address.php:451
 msgctxt "Country"
