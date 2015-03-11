@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Gravity Forms - Spanish\n"
 "Report-Msgid-Bugs-To: http://www.gravtiyhelp.com\n"
 "POT-Creation-Date: 2015-02-10 21:15:45+00:00\n"
-"PO-Revision-Date: 2015-02-18 10:15+0100\n"
+"PO-Revision-Date: 2015-03-11 17:24+0100\n"
 "Last-Translator: David <david@closemarketing.es>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -2961,7 +2961,6 @@ msgid "Below inputs"
 msgstr "Debajo del Campo"
 
 #: form_detail.php:1890
-#, fuzzy
 msgid "Field Label Visibility"
 msgstr "Etiqueta del Campo"
 
