@@ -4,7 +4,7 @@ Plugin Name: Gravity Forms (Spanish)
 Plugin URI: http://www.closemarketing.es/servicios/wordpress-plugins/gravity-forms-es/
 Description: Extends the Gravity Forms plugin and add-ons with the Spanish language
 
-Version: 1.6
+Version: 1.7
 Requires at least: 3.0
 
 Author: Closemarketing
