@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Gravity Forms - Spanish\n"
 "Report-Msgid-Bugs-To: http://www.gravtiyhelp.com\n"
 "POT-Creation-Date: 2015-04-20 16:14:32+00:00\n"
-"PO-Revision-Date: 2015-04-22 17:16+0100\n"
+"PO-Revision-Date: 2015-04-27 00:03+0100\n"
 "Last-Translator: David <david@closemarketing.es>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -4218,9 +4218,8 @@ msgid "Selected"
 msgstr "Seleccionado"
 
 #: includes/addon/class-gf-addon.php:1841
-#, fuzzy
 msgid "Add Custom Key"
-msgstr "Añadir personalizado"
+msgstr "Agregar clave personalizada"
 
 #: includes/addon/class-gf-addon.php:2017
 msgid "Update Settings"
@@ -4268,9 +4267,8 @@ msgstr ""
 "\\'OK\\' para borrar, \\'Cancel\\' para parar."
 
 #: includes/addon/class-gf-addon.php:3494
-#, fuzzy
 msgid "Uninstall %s Add-On"
-msgstr "Desinstalar Addon"
+msgstr "Desinstalar la Extensión %s"
 
 #: includes/addon/class-gf-addon.php:3500
 msgid "Uninstall  Add-On"
@@ -5392,7 +5390,6 @@ msgid "Ethiopia"
 msgstr "Etiopía"
 
 #: includes/fields/class-gf-field-address.php:450
-#, fuzzy
 msgid "Faroe Islands"
 msgstr "Faroe Islands"
 
@@ -5818,7 +5815,7 @@ msgstr "Singapore"
 
 #: includes/fields/class-gf-field-address.php:452
 msgid "Sint Maarten"
-msgstr ""
+msgstr "San Martín"
 
 #: includes/fields/class-gf-field-address.php:452
 msgid "Slovakia"
@@ -6225,9 +6222,8 @@ msgid "ETHIOPIA"
 msgstr "ETIOPÍA"
 
 #: includes/fields/class-gf-field-address.php:527
-#, fuzzy
 msgid "FAROE ISLANDS"
-msgstr "Faroe Islands"
+msgstr "ISLAS FEROE"
 
 #: includes/fields/class-gf-field-address.php:528
 msgid "FIJI"
@@ -6647,7 +6643,7 @@ msgstr "SINGAPORE"
 
 #: includes/fields/class-gf-field-address.php:633
 msgid "SINT MAARTEN"
-msgstr ""
+msgstr "San Martín"
 
 #: includes/fields/class-gf-field-address.php:634
 msgid "SLOVAKIA"
@@ -7269,7 +7265,7 @@ msgstr "El archivo excede el máximo. Máximo tamaño archivo: %dMB"
 
 #: includes/fields/class-gf-field-fileupload.php:53
 msgid "There was an error while uploading the file. Error code: %d"
-msgstr ""
+msgstr "Hubo un error al cargar el archivo. Código de error: %d"
 
 #: includes/fields/class-gf-field-fileupload.php:70
 #: includes/fields/class-gf-field-fileupload.php:84 includes/upload.php:104
@@ -7562,9 +7558,8 @@ msgid "Your request has been sent to %s."
 msgstr "%s ha sido notificado según has solicitado"
 
 #: includes/locking/class-gf-locking.php:490
-#, fuzzy
 msgid "Take Over"
-msgstr "Empezar desde allí"
+msgstr "Retomar"
 
 #: includes/locking/class-gf-locking.php:491
 msgid "Request Control"
@@ -8346,13 +8341,15 @@ msgstr ""
 
 #: settings.php:190
 msgid "Valid Key : Your license key has been successfully validated."
-msgstr ""
+msgstr "Clave válida: Tu clave de licencia ha sido validada con éxito."
 
 #: settings.php:192
 msgid ""
 "Invalid or Expired Key : Please make sure you have entered the correct value and that "
 "your key is not expired."
 msgstr ""
+"No válido o caducado clave: por favor asegúrese de que ha introducido el valor "
+"correcto y que no se haya superado su clave."
 
 #: settings.php:198
 msgid "The license key is used for access to automatic upgrades and support."
@@ -8491,6 +8488,8 @@ msgid ""
 "Gravity Forms requires WordPress v%s or greater. You must upgrade WordPress in order "
 "to use this version of Gravity Forms."
 msgstr ""
+"Gravity Forms requiere WordPress v%s o mayor. Debe actualizar WordPress para poder "
+"utilizar esta versión de formas de gravedad."
 
 #: settings.php:415
 msgid "Gravity Forms Version"
@@ -9357,7 +9356,6 @@ msgid "Previous Button Text"
 msgstr "Texto del Botón de Atrás"
 
 #: tooltips.php:121
-#, fuzzy
 msgid "Enter the text you would like to appear on the page previous button."
 msgstr ""
 "Introduce el texto que te gustaría que apareciera en el formulario de botón de atrás "
@@ -9368,7 +9366,6 @@ msgid "Previous Button Image"
 msgstr "Imagen del Botón Previo"
 
 #: tooltips.php:122
-#, fuzzy
 msgid "Enter the path to an image you would like to use as the page previous button."
 msgstr ""
 "Introduce la ruta de la imagen que te gustaría que se utilizase como botón de atrás en "
@@ -9379,22 +9376,20 @@ msgid "Next Button Conditional Logic"
 msgstr "Botón siguiente de Lógica Condicional"
 
 #: tooltips.php:123
-#, fuzzy
 msgid ""
 "Create rules to dynamically display or hide the page's Next Button based on values "
 "from another field."
 msgstr ""
 "Crear reglas para mostrar de forma dinámica u ocultar de la página siguiente botón "
-"basada en los valores de otro campo"
+"basada en los valores de otro campo."
 
 #: tooltips.php:124
-#, fuzzy
 msgid ""
 "Create rules to dynamically display or hide the submit button based on values from "
 "another field."
 msgstr ""
 "Crear reglas para mostrar de forma dinámica u ocultar el botón de envío basado en los "
-"valores de otro campo"
+"valores de otro campo."
 
 #: tooltips.php:125
 msgid ""
@@ -9753,49 +9748,41 @@ msgid "http://www.rocketgenius.com"
 msgstr "http://www.rocketgenius.com"
 
 #: common.php:3581
-#, fuzzy
 msgctxt "Conditional Logic"
 msgid "All"
 msgstr "Todos"
 
 #: common.php:3582
-#, fuzzy
 msgctxt "Conditional Logic"
 msgid "Any"
-msgstr "Cualquier"
+msgstr "Cualquiera"
 
 #: entry_list.php:777
-#, fuzzy
 msgctxt "Entry List"
 msgid "All"
 msgstr "Todos"
 
 #: entry_list.php:781
-#, fuzzy
 msgctxt "Entry List"
 msgid "Unread"
 msgstr "No leídos"
 
 #: entry_list.php:785
-#, fuzzy
 msgctxt "Entry List"
 msgid "Starred"
 msgstr "Favoritos"
 
 #: form_list.php:307
-#, fuzzy
 msgctxt "Form List"
 msgid "All"
 msgstr "Todos"
 
 #: form_list.php:311
-#, fuzzy
 msgctxt "Form List"
 msgid "Active"
-msgstr "Activar"
+msgstr "Activo"
 
 #: form_list.php:315
-#, fuzzy
 msgctxt "Form List"
 msgid "Inactive"
 msgstr "Inactivo"
@@ -9811,10 +9798,9 @@ msgid "Filter"
 msgstr "Filtro"
 
 #: includes/addon/class-gf-payment-addon.php:1943
-#, fuzzy
 msgctxt "regarding a payment method"
 msgid "Any"
-msgstr "Cualquier"
+msgstr "Cualquiera"
 
 #: includes/addon/class-gf-payment-addon.php:2267
 msgctxt "paging"
@@ -9838,16 +9824,14 @@ msgid "Georgia"
 msgstr "Georgia"
 
 #: includes/fields/class-gf-field-date.php:133 js.php:866
-#, fuzzy
 msgctxt "Abbreviation: Month"
 msgid "MM"
 msgstr "MM"
 
 #: includes/fields/class-gf-field-time.php:136 js.php:890
-#, fuzzy
 msgctxt "Abbreviation: Minutes"
 msgid "MM"
-msgstr "MM"
+msgstr "MN"
 
 #~ msgid "Client IP Address"
 #~ msgstr "Dirección IP del cliente"
