@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Gravity Forms - Spanish\n"
 "Report-Msgid-Bugs-To: http://www.gravtiyhelp.com\n"
 "POT-Creation-Date: 2015-07-02 18:21+0100\n"
-"PO-Revision-Date: 2015-07-02 18:22+0100\n"
+"PO-Revision-Date: 2015-07-02 18:26+0100\n"
 "Last-Translator: David <david@closemarketing.es>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -1824,9 +1824,8 @@ msgid "Select Categories"
 msgstr "Seleccione las Categorías"
 
 #: form_detail.php:1015
-#, fuzzy
 msgid "Display placeholder"
-msgstr "Etiqueta dentro del Campo"
+msgstr "Etiqueta en el Campo"
 
 #: form_detail.php:1021
 msgid "Placeholder Label"
@@ -2926,8 +2925,7 @@ msgstr "Encima del Campo"
 msgid "Below inputs"
 msgstr "Debajo del Campo"
 
-#: form_detail.php:1895
-#, fuzzy
+#: form_detail.php:1890
 msgid "Field Label Visibility"
 msgstr "Etiqueta del Campo"
 
@@ -5100,7 +5098,7 @@ msgstr "Error actualizando el título"
 
 #: includes/api.php:238
 msgid "Property key incorrect"
-msgstr ""
+msgstr "Clave de propiedad incorrecto"
 
 #: includes/api.php:292
 msgid "Invalid form objects"
@@ -5910,7 +5908,7 @@ msgstr "Singapore"
 
 #: includes/fields/class-gf-field-address.php:458
 msgid "Sint Maarten"
-msgstr ""
+msgstr "San Martín"
 
 #: includes/fields/class-gf-field-address.php:458
 msgid "Slovakia"
@@ -6741,7 +6739,7 @@ msgstr "SINGAPORE"
 
 #: includes/fields/class-gf-field-address.php:639
 msgid "SINT MAARTEN"
-msgstr ""
+msgstr "San Martín"
 
 #: includes/fields/class-gf-field-address.php:640
 msgid "SLOVAKIA"
@@ -7462,7 +7460,7 @@ msgstr "Apellidos"
 
 #: includes/fields/class-gf-field-name.php:99
 msgid "Name suffix"
-msgstr ""
+msgstr "Sufijo"
 
 #: includes/fields/class-gf-field-name.php:111 js.php:842
 msgid "Prefix"
