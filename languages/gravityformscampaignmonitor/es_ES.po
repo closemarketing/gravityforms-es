@@ -8,25 +8,22 @@ msgstr ""
 "Project-Id-Version: GRAVITY CAMPAIGN\n"
 "Report-Msgid-Bugs-To: http://www.gravtiyhelp.com\n"
 "POT-Creation-Date: 2015-04-20 16:19:46+00:00\n"
-"PO-Revision-Date: 2015-04-22 17:20+0100\n"
+"PO-Revision-Date: 2015-07-09 21:46+0200\n"
 "Last-Translator: David <david@closemarketing.es>\n"
 "Language-Team: CLOSEMARKETING <info@closemarketing.es>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.7.6\n"
+"X-Generator: Poedit 1.8.2\n"
 
 #: class-gf-campaignmonitor.php:40
-#, fuzzy
 msgid "Subscribe user to Campaign Monitor only when payment is received."
-msgstr ""
-"Suscribe al Usuario en Campaign Monitor sólo cuando se ha recibido el pago."
+msgstr "Suscribir usuario Campaign Monitor sólo cuando se recibe el pago."
 
 #: class-gf-campaignmonitor.php:97
-#, fuzzy
 msgid "Campaign Monitor Add-On v3.0"
-msgstr "Desinstalar Addon Campaign Monitor"
+msgstr "Addon Campaign Monitor v3.0"
 
 #: class-gf-campaignmonitor.php:98
 msgid ""
@@ -36,9 +33,8 @@ msgid ""
 msgstr ""
 
 #: class-gf-campaignmonitor.php:103
-#, fuzzy
 msgid "Manage Campaign Monitor Contextually"
-msgstr "Cliente Campaign Monitor"
+msgstr "Manejar contextualmente Campaign Monitor"
 
 #: class-gf-campaignmonitor.php:104
 msgid ""
@@ -46,6 +42,9 @@ msgid ""
 "within the Form Settings for the Form with which you would like to integrate "
 "Campaign Monitor."
 msgstr ""
+"Los conectores de Campaign Monitor ahora se acceden mediante el submenú de "
+"Campaign Monitor dentro de la configuración de forma para el formulario con "
+"el que quieres integrar a Campaign Monitor."
 
 #: class-gf-campaignmonitor.php:114
 msgid "I understand this change, dismiss this message!"
@@ -116,7 +115,6 @@ msgid "Name"
 msgstr "Nombre"
 
 #: class-gf-campaignmonitor.php:218
-#, fuzzy
 msgid "Enter a feed name to uniquely identify this setup."
 msgstr ""
 "Introduce el nombre del conector único para identificar esta configuración."
@@ -196,6 +194,8 @@ msgid ""
 "This option will re-subscribe users that have been unsubscribed. Use with "
 "caution and only when appropriate."
 msgstr ""
+"Esta opción será volver a suscribirse los usuarios que han sido no "
+"suscritos. Utilice con precaución y sólo cuando proceda."
 
 #: class-gf-campaignmonitor.php:457
 msgid "Campaign Monitor Client"
@@ -223,6 +223,9 @@ msgid ""
 "Integrates Gravity Forms with Campaign Monitor allowing form submissions to "
 "be automatically sent to your Campaign Monitor account"
 msgstr ""
+"Seleccione el formulario gravity que le gustaría integrar con Campaign "
+"Monitor. Contactos generados por este formulario se añadirán automáticamente "
+"a tu cuenta de Campaign Monitor."
 
 #. Author of the plugin/theme
 msgid "rocketgenius"
