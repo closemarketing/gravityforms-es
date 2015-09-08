@@ -10,7 +10,7 @@ Requires at least: 3.0
 Author: Closemarketing
 Author URI: http://www.closemarketing.es/
 
-Text Domain: gravityforms_es
+Text Domain: gravityforms
 Domain Path: /languages/
 
 License: GPL
@@ -134,8 +134,7 @@ class GravityFormsESPlugin {
 	 * @param string $domain
 	 */
 	public function load_textdomain_mofile( $mo_file, $domain ) {
-		// First do quick check if an Spanish .MO file is loaded
-		if ( strpos( $mo_file, 'es_ES.mo' ) !== false ) {
+
 			$domains = array(
 				'gravityforms'                 => array(
 					'languages/gravityforms-es_ES.mo'                 => 'gravityforms/es_ES.mo'
@@ -158,6 +157,9 @@ class GravityFormsESPlugin {
 				'gravityformsuserregistration' => array(
 					'languages/gravityformsuserregistration-es_ES.mo' => 'gravityformsuserregistration/es_ES.mo'
 				),
+				'gravityformsaweber' => array(
+					'languages/gravityformsaweber-es_ES.mo' => 'gravityformsaweber/es_ES.mo'
+				),
 				'gravityformsquiz' => array(
 					'languages/gravityformsquiz-es_ES.mo' => 'gravityformsquiz/es_ES.mo'
 				)
@@ -176,7 +178,6 @@ class GravityFormsESPlugin {
 					}
 				}
 			}
-		}
 
 		return $mo_file;
 	}
