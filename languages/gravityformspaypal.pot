@@ -1,26 +1,24 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Pronamic
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Gravity Forms Pay Pal\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-11-01 12:14-0400\n"
-"PO-Revision-Date: 2014-01-03 00:40+0100\n"
-"Last-Translator: David <david@closemarketing.es>\n"
-"Language-Team: Closemarketing <david@closemarketing.es>\n"
-"Language: es_ES\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.3\n"
-"X-Poedit-SourceCharset: UTF-8\n"
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:141
 msgid "Gravity Forms "
-msgstr "Gravity Forms "
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:148
 msgid "There is a new version of Gravity Forms PayPal Add-On available."
@@ -43,12 +41,12 @@ msgstr ""
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:561
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:976
 msgid "PayPal"
-msgstr "PayPal"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:204
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1061
 msgid "PayPal Email Address"
-msgstr "Email PayPal"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:204
 msgid "Enter the PayPal email address where payment should be received."
@@ -57,7 +55,7 @@ msgstr ""
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:205
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1072
 msgid "Mode"
-msgstr "Modo"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:205
 msgid ""
@@ -70,7 +68,7 @@ msgstr ""
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:352
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1081
 msgid "Transaction Type"
-msgstr "Tipo Transacción"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:206
 msgid ""
@@ -81,7 +79,7 @@ msgstr ""
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:207
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1091
 msgid "Gravity Form"
-msgstr "Gravity Form"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:207
 msgid "Select which Gravity Forms you would like to integrate with PayPal."
@@ -90,7 +88,7 @@ msgstr ""
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:208
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1200
 msgid "Customer"
-msgstr "Cliente"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:208
 msgid ""
@@ -100,7 +98,7 @@ msgstr ""
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:209
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1211
 msgid "Page Style"
-msgstr "Estilo Página"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:209
 msgid ""
@@ -111,7 +109,7 @@ msgstr ""
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:210
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1215
 msgid "Continue Button Label"
-msgstr "Etiqueta del Botón Continuar"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:210
 msgid ""
@@ -122,7 +120,7 @@ msgstr ""
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:211
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1219
 msgid "Cancel URL"
-msgstr "URL Cancelar"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:211
 msgid ""
@@ -133,7 +131,7 @@ msgstr ""
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:212
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1224
 msgid "Options"
-msgstr "Opciones"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:212
 msgid "Turn on or off the available PayPal checkout options."
@@ -142,7 +140,7 @@ msgstr ""
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:213
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1124
 msgid "Recurring Amount"
-msgstr "Cantidad recurrente"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:213
 msgid ""
@@ -153,7 +151,7 @@ msgstr ""
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:214
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1131
 msgid "Billing Cycle"
-msgstr "Ciclo Facturación"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:214
 msgid ""
@@ -177,7 +175,7 @@ msgstr ""
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1167
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1178
 msgid "Trial Period"
-msgstr "Período Prueba"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:216
 msgid ""
@@ -188,7 +186,7 @@ msgstr ""
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:217
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1174
 msgid "Trial Amount"
-msgstr "Cantidad de Prueba"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:217
 msgid "Enter the trial period amount or leave it blank for a free trial."
@@ -201,7 +199,7 @@ msgstr ""
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:219
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1268
 msgid "PayPal Condition"
-msgstr "Condición PayPal"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:219
 msgid ""
@@ -212,11 +210,11 @@ msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:291
 msgid "Feed deleted."
-msgstr "Conector borrado."
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:302
 msgid "Feeds deleted."
-msgstr "Conectores Borrados"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:308
 msgid "PayPal Transactions"
@@ -224,11 +222,11 @@ msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:310
 msgid "PayPal Forms"
-msgstr "Formularios PayPal"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:314
 msgid "Add New"
-msgstr "Añadir Nuevo"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:327
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:329
@@ -238,25 +236,25 @@ msgstr ""
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:330
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:392
 msgid "Delete"
-msgstr "Borrar"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:333
 msgid "Apply"
-msgstr "Aplicar"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:333
 msgid "Delete selected feeds? "
-msgstr "¿Borrar Conectores seleccionados?"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:333
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:392
 msgid "\\'Cancel\\' to stop, \\'OK\\' to delete."
-msgstr "\\'Cancelar\\' para parar, \\'OK\\' para borrar."
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:342
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:351
 msgid "Form"
-msgstr "Formulario"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:365
 #, php-format
@@ -266,49 +264,49 @@ msgstr ""
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:375
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:445
 msgid "Active"
-msgstr "Activo"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:375
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:441
 msgid "Inactive"
-msgstr "Desactivo"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:377
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:380
 msgid "Edit"
-msgstr "Editar"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:384
 msgid "View Stats"
-msgstr "Ver Estadísticas"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:384
 msgid "Stats"
-msgstr "Estadísticas"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:388
 msgid "View Entries"
-msgstr "Ver Entradas"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:388
 msgid "Entries"
-msgstr "Entradas"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:392
 msgid "Delete this feed? "
-msgstr "¿Borrar conector?"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:400
 msgid "Product and Services"
-msgstr "Productos y Servicios"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:404
 msgid "Donation"
-msgstr "Donación"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:408
 msgid "Subscription"
-msgstr "Suscripción"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:421
 #, php-format
@@ -321,7 +319,7 @@ msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:487
 msgid "PayPal Settings"
-msgstr "Configuración PayPal"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:489
 msgid ""
@@ -376,19 +374,19 @@ msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:562
 msgid "PayPal Stats"
-msgstr "Estadísticas PayPal"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:566
 msgid "Daily"
-msgstr "Diarias"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:567
 msgid "Weekly"
-msgstr "Semanal"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:568
 msgid "Monthly"
-msgstr "Mensual"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:589
 msgid "No payments have been made yet."
@@ -396,23 +394,23 @@ msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:652
 msgid "Week "
-msgstr "Semana"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:674
 msgid "Total Orders"
-msgstr "Total Pedidos"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:679
 msgid "Total Donations"
-msgstr "Total Donaciones"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:684
 msgid "Active Subscriptions"
-msgstr "Suscripciones Activas"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:692
 msgid "Total Revenue"
-msgstr "Total Beneficio"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:711
 msgid ""
@@ -424,25 +422,25 @@ msgstr ""
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:831
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:902
 msgid "New Subscriptions"
-msgstr "Nuevas Suscripciones"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:763
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:831
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:902
 msgid "Renewals"
-msgstr "Renovaciones"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:766
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:834
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:905
 msgid "Orders"
-msgstr "Pedidos"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:769
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:837
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:908
 msgid "Revenue"
-msgstr "Beneficio"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:788
 msgid "Orders Today"
@@ -454,95 +452,95 @@ msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:796
 msgid "Subscriptions Today"
-msgstr "Suscripciones Hoy"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:800
 msgid "Revenue Today"
-msgstr "Beneficios Hoy"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:837
 msgid "Week"
-msgstr "Semana"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:857
 msgid "Orders this Week"
-msgstr "Pedidos esta semana"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:861
 msgid "Donations this Week"
-msgstr "Donaciones esta semana"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:865
 msgid "Subscriptions this Week"
-msgstr "Suscripciones esta semana"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:870
 msgid "Revenue this Week"
-msgstr "Beneficio esta semana"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:927
 msgid "Orders this Month"
-msgstr "Pedidos este mes"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:931
 msgid "Donations this Month"
-msgstr "Donaciones este Mes"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:935
 msgid "Subscriptions this Month"
-msgstr "Suscripciones este Mes"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:939
 msgid "Revenue this Month"
-msgstr "Beneficios este Mes"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:953
 msgid "Jan"
-msgstr "Ene"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:953
 msgid "Feb"
-msgstr "Feb"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:953
 msgid "Mar"
-msgstr "Mar"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:953
 msgid "Apr"
-msgstr "Abr"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:953
 msgid "May"
-msgstr "May"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:953
 msgid "Jun"
-msgstr "Jun"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:953
 msgid "Jul"
-msgstr "Jul"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:953
 msgid "Aug"
-msgstr "Ago"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:953
 msgid "Sep"
-msgstr "Sep"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:953
 msgid "Oct"
-msgstr "Oct"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:953
 msgid "Nov"
-msgstr "Nov"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:953
 msgid "Dec"
-msgstr "Dic"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:977
 msgid "PayPal Transaction Settings"
@@ -561,11 +559,11 @@ msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1075
 msgid "Production"
-msgstr "Producción"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1078
 msgid "Test"
-msgstr "Test"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1084
 msgid "Select a transaction type"
@@ -577,15 +575,15 @@ msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1086
 msgid "Donations"
-msgstr "Donaciones"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1087
 msgid "Subscriptions"
-msgstr "Suscripciones"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1094
 msgid "Select a form"
-msgstr "Seleccionar un formulario"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1114
 msgid ""
@@ -602,26 +600,26 @@ msgstr ""
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1142
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1189
 msgid "day(s)"
-msgstr "dia(s)"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1143
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1190
 msgid "week(s)"
-msgstr "semana(s)"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1144
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1191
 msgid "month(s)"
-msgstr "mes(es)"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1145
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1192
 msgid "year(s)"
-msgstr "año(s)"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1152
 msgid "Infinite"
-msgstr "Infinito"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1163
 msgid "Try to bill again after failed attempt."
@@ -630,7 +628,7 @@ msgstr ""
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1169
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1275
 msgid "Enable"
-msgstr "Habilitar"
+msgstr ""
 
 #: C:\xampp\htdocs\wp3\wp-content\plugins\gravityformspaypal\paypal.php:1229
 msgid "Do not prompt buyer to include a shipping address."
@@ -915,15 +913,3 @@ msgstr ""
 #, php-format
 msgid "Oops!! Something went wrong.%sPlease try again or %scontact us%s."
 msgstr ""
-
-#~ msgid "Amount"
-#~ msgstr "Cantidad"
-
-#~ msgid "Date"
-#~ msgstr "Fecha"
-
-#~ msgid "Status"
-#~ msgstr "Estado"
-
-#~ msgid "Please wait..."
-#~ msgstr "Por favor espere..."

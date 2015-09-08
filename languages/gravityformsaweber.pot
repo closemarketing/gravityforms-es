@@ -3,35 +3,32 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GRAVITY CAMPAIGN\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-08-03 13:10-0400\n"
-"PO-Revision-Date: 2015-01-15 00:11+0100\n"
-"Last-Translator: David <david@closemarketing.es>\n"
-"Language-Team: CLOSEMARKETING <info@closemarketing.es>\n"
-"Language: es_ES\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.7.3\n"
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:135
 msgid "Gravity Forms "
-msgstr "Gravity Forms "
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:142
-#, fuzzy
 msgid "There is a new version of Gravity Forms AWeber Add-On available."
 msgstr ""
-"Hay una nueva versión disponible del Addon Campaign Monitor de Gravity Forms."
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:142
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\plugin-upgrade.php:55
 #, php-format
 msgid "View version %s Details"
-msgstr "Ver detalles de la Versión %s"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:143
 #, php-format
@@ -39,14 +36,11 @@ msgid ""
 "%sRegister%s your copy of Gravity Forms to receive access to automatic "
 "upgrades and support. Need a license key? %sPurchase one now%s."
 msgstr ""
-"%sRegistra%s tu copia de Gravity Forms para recibir acceso automático a "
-"actualizaciones y soporte. ¿Necesitas una clave de licencia? %sCompra Ahora "
-"una%s."
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:198
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:600
 msgid "Account"
-msgstr "Cuenta"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:198
 msgid "Select the AWeber account you would like to add your contacts to."
@@ -54,7 +48,7 @@ msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:199
 msgid "Contact List"
-msgstr "Lista Contactos"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:199
 msgid "Select the AWeber list you would like to add your contacts to."
@@ -63,7 +57,7 @@ msgstr ""
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:200
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:636
 msgid "Gravity Form"
-msgstr "Gravity Form"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:200
 msgid ""
@@ -74,7 +68,7 @@ msgstr ""
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:201
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:657
 msgid "Map Fields"
-msgstr "Campos del Mapa"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:201
 msgid ""
@@ -85,7 +79,7 @@ msgstr ""
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:202
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:679
 msgid "Opt-In Condition"
-msgstr "Condición de Entrada"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:202
 msgid ""
@@ -97,16 +91,15 @@ msgstr ""
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:213
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:505
 msgid "AWeber"
-msgstr "AWeber"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:272
-#, fuzzy
 msgid "AWeber Account Information"
-msgstr "Campaign Monitor Información Cuenta"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:278
 msgid "Click here to retrieve your Authorization code"
-msgstr "﻿Haga clic aquí para escribir el código de autorización"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:280
 msgid ""
@@ -117,7 +110,7 @@ msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:285
 msgid "Authorization code"
-msgstr "﻿Código Autorización"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:290
 msgid ""
@@ -127,13 +120,12 @@ msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:295
 msgid "Save Settings"
-msgstr "Guardar Configuración"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:309
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:312
-#, fuzzy
 msgid "Uninstall AWeber Add-On"
-msgstr "Desinstalar Addon Campaign Monitor"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:310
 msgid "Warning! This operation deletes ALL AWeber Feeds."
@@ -147,53 +139,53 @@ msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:342
 msgid "Feed deleted."
-msgstr "Conector borrado."
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:353
 msgid "Feeds deleted."
-msgstr "Conectores borrados."
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:359
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:360
 msgid "AWeber Feeds"
-msgstr "Conectores AWeber"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:361
 msgid "Add New"
-msgstr "Añadir Nuevo"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:371
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:373
 msgid "Bulk action"
-msgstr "Acción masiva"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:374
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:421
 msgid "Delete"
-msgstr "Borrar"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:377
 msgid "Apply"
-msgstr "Aplicar"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:377
 msgid "Delete selected feeds? "
-msgstr "¿Borrar estos conectores?"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:377
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:421
 msgid "\\'Cancel\\' to stop, \\'OK\\' to delete."
-msgstr "\\'Cancelar\\' para parar, \\'OK\\' para borrar."
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:386
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:396
 msgid "Form"
-msgstr "Formulario"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:387
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:397
 msgid "AWeber Account"
-msgstr "Cuenta AWeber"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:388
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:398
@@ -203,25 +195,25 @@ msgstr ""
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:411
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:469
 msgid "Active"
-msgstr "Activar"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:411
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:465
 msgid "Inactive"
-msgstr "Desactivar"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:413
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:416
 msgid "Edit"
-msgstr "Editar"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:421
 msgid "Delete this feed? "
-msgstr "¿Borrar este conector?"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:480
 msgid "Ajax error while updating feed"
-msgstr "Error Ajax cuando se actualizaba el conector"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:506
 msgid "AWeber Feed"
@@ -231,14 +223,14 @@ msgstr ""
 #, php-format
 msgid ""
 "We are unable to login to AWeber with the provided Authorization code. "
-"Please make sure you have entered a valid Authorization code in the "
-"%sSettings Page%s"
+"Please make sure you have entered a valid Authorization code in the %"
+"sSettings Page%s"
 msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:558
 #, php-format
 msgid "Feed Updated. %sback to list%s"
-msgstr "Conector Actualizado. %svolver al listado%s"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:564
 msgid "Feed could not be updated. Please enter all required information below."
@@ -250,32 +242,31 @@ msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:602
 msgid "Select a Client"
-msgstr "Seleccionar cliente"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:623
 msgid "Contact list"
-msgstr "Lista Clientes"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:639
 msgid "Select a Form"
-msgstr "Seleccionar Formulario"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:685
 msgid "Enable"
-msgstr "Habilitar"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:692
-#, fuzzy
 msgid "Export to AWeber if "
-msgstr "Exportar a Campaign Monitor si"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:696
 msgid "is"
-msgstr "es"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:697
 msgid "is not"
-msgstr "no es"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:704
 msgid ""
@@ -285,52 +276,51 @@ msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:732
 msgid "Save"
-msgstr "Guardar"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:732
 msgid "Update"
-msgstr "Actualizar"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:733
 msgid "Cancel"
-msgstr "Cancelar"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:756
-#, fuzzy
 msgid "Ajax error while selecting an account"
-msgstr "Error Ajax cuando se seleccionaba un cliente"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:809
 msgid "Ajax error while selecting a form"
-msgstr "Error Ajax cuando se seleccionaba un formulario"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:924
 msgid "Select a List"
-msgstr "Seleccionar Lista"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:998
 msgid "List Fields"
-msgstr "Listar Campos"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:998
 msgid "Form Fields"
-msgstr "Campos del Formulario"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:1019
 msgid "Entry Date"
-msgstr "Introducir Fecha"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:1020
 msgid "User IP"
-msgstr "IP Usuario"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:1021
 msgid "Source Url"
-msgstr "URL Origen"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:1029
 msgid "Full"
-msgstr "Todo"
+msgstr ""
 
 #: C:\Users\acancado\Rocketgenius\Sites\wp3\wp-content\plugins\gravityformsaweber\aweber.php:1143
 msgid "You don't have adequate permission to uninstall the AWeber Add-On."
@@ -340,35 +330,3 @@ msgstr ""
 #, php-format
 msgid "Oops!! Something went wrong.%sPlease try again or %scontact us%s."
 msgstr ""
-"Oops!! Algo fue mal. %sPor favor intenta otra vez o %scontacta con nosotros "
-"%s."
-
-#~ msgid "Client"
-#~ msgstr "Cliente"
-
-#~ msgid "Resubscribe"
-#~ msgstr "Resuscribir"
-
-#~ msgid "Campaign Monitor"
-#~ msgstr "Campaign Monitor"
-
-#~ msgid "API Key"
-#~ msgstr "Llave API"
-
-#~ msgid "API Client ID"
-#~ msgstr "ID Cliente API"
-
-#~ msgid "Campaign Monitor Feeds"
-#~ msgstr "Campaign Monitor Feeds"
-
-#~ msgid "Campaign Monitor Client"
-#~ msgstr "Cliente Campaign Monitor"
-
-#~ msgid "Campaign Monitor List"
-#~ msgstr "Lista Campaign Monitor"
-
-#~ msgid "Campaign Monitor Feed"
-#~ msgstr "Conectores con Campaign Monitor"
-
-#~ msgid "Options"
-#~ msgstr "Opciones"
