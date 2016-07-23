@@ -4,7 +4,11 @@ Plugin Name: Gravity Forms (Spanish)
 Plugin URI: http://www.closemarketing.es/servicios/wordpress-plugins/gravity-forms-es/
 Description: Extends the Gravity Forms plugin and add-ons with the Spanish language
 
+<<<<<<< HEAD
 Version: 1.7
+=======
+Version: 2.0
+>>>>>>> master
 Requires at least: 3.0
 
 Author: Closemarketing
@@ -50,8 +54,6 @@ class GravityFormsESPlugin {
 
 		// Priority is set to 8, beceasu the Signature Add-On is using priority 9
 		add_action( 'init', array( $this, 'init' ), 8 );
-
-		add_filter( 'load_textdomain_mofile', array( $this, 'load_textdomain_mofile' ), 10, 2 );
 
 		add_filter( 'gform_admin_pre_render',       array( $this, 'gform_admin_pre_render' ) );
 		add_filter( 'gform_currencies',             array( $this, 'gform_currencies' ) );
@@ -123,10 +125,41 @@ class GravityFormsESPlugin {
 
 		// Load plugin text domain - Gravity Forms user registration Add-On
 		load_plugin_textdomain( 'gravityformsuserregistration', false, $rel_path );
-	}
 
-	////////////////////////////////////////////////////////////
+		// Load plugin text domain - Gravity Forms Aweber
+		load_plugin_textdomain( 'gravityformsaweber', false, $rel_path );
 
+		// Load plugin text domain - Gravity Forms Coupons
+		load_plugin_textdomain( 'gravityformscoupons', false, $rel_path );
+
+		// Load plugin text domain - Gravity Forms Campaign Monitor
+		load_plugin_textdomain( 'gravityformscampaignmonitor', false, $rel_path );
+
+		// Load plugin text domain - Gravity Forms Fresh Books
+		load_plugin_textdomain( 'gravityformsfreshbooks', false, $rel_path );
+
+		// Load plugin text domain - Gravity Forms Mail Chimp
+		load_plugin_textdomain( 'gravityformsmailchimp', false, $rel_path );
+
+		// Load plugin text domain - Gravity Forms Paypal
+		load_plugin_textdomain( 'gravityformspaypal', false, $rel_path );
+
+		// Load plugin text domain - Gravity Forms Polls
+		load_plugin_textdomain( 'gravityformspolls', false, $rel_path );
+
+		// Load plugin text domain - Gravity Forms Quiz
+		load_plugin_textdomain( 'gravityformsquiz', false, $rel_path );
+
+		// Load plugin text domain - Gravity Forms Signature
+		load_plugin_textdomain( 'gravityformssignature', false, $rel_path );
+
+		// Load plugin text domain - Gravity Forms Slack
+		load_plugin_textdomain( 'gravityformsslack', false, $rel_path );
+
+		// Load plugin text domain - Gravity Forms Survey
+		load_plugin_textdomain( 'gravityformssurvey', false, $rel_path );
+
+<<<<<<< HEAD
 	/**
 	 * Load text domain MO file
 	 *
@@ -178,8 +211,9 @@ class GravityFormsESPlugin {
 					}
 				}
 			}
+=======
+>>>>>>> master
 
-		return $mo_file;
 	}
 
 	////////////////////////////////////////////////////////////

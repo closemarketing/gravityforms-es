@@ -2,10 +2,17 @@
 Contributors: closemarketing
 Tags: gravityforms, gravity, form, forms, gravity forms, translation, spanish, espanol, español, es, es_ES
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZYGC6AT5JFQVE
+<<<<<<< HEAD
 Requires at least: 3.0
 Tested up to: 4.2
 Stable tag: 1.7
 Version: 1.7
+=======
+Requires at least: 3.9
+Tested up to: 4.5.2
+Stable tag: 2.0
+Version: 2.0
+>>>>>>> master
 
 This WordPress plugin extends the Gravity Forms plugin with the Spanish translation.
 
@@ -21,7 +28,25 @@ that issue for all the Spanish WordPress and Gravity Forms users!
 Do you want to contribute to this translation? I’ve made a Transifex Project in order to share it:
 [Translation for Gravity Forms](https://www.transifex.com/closemarketing/gravity-forms-spanish/)
 
+List of GravityForms addons translated:
+- Gravity Forms (es)
+- Gravity Forms user registration Add-On
+- Gravity Forms Aweber
+- Gravity Forms Coupons
+- Gravity Forms Campaign Monitor
+- Gravity Forms Fresh Books
+- Gravity Forms Mail Chimp
+- Gravity Forms Paypal
+- Gravity Forms Polls
+- Gravity Forms Quiz
+- Gravity Forms Signature
+- Gravity Forms Slack
+- Gravity Forms Survey
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
 > Este plugin requiere de <a href="https://www.closemarketing.es/likes/gravityforms/">Gravity Forms plugin</a>. <strong>¿No utilizas Gravity Forms? <a href="http://www.closemarketing.es/likes/gravityforms/">Compra este plugin</a></strong> y empieza con los formularios en tu página wordpress de una manera revolucionaria!
 
 Los desarrolladores de [Gravity Forms](http://www.closemarketing.es/likes/gravityforms/) no se han enfocado en la traducción de este plugin. En cambio, si lo hace para las funcionalidades de este plugin. Por ello, encontrarás que hay actualizaciones constantes, pero sin embargo, en cada actualización automática, si has subido manualmente una traducción, esta será borrada. Este plugin arregla este problema para todos los usuarios de habla Hispana y usuarios de Gravity Forms!
@@ -29,11 +54,33 @@ Los desarrolladores de [Gravity Forms](http://www.closemarketing.es/likes/gravit
 Ayuda a su traducción en la siguiente página de Transifex:
 [Translation for Gravity Forms](https://www.transifex.com/closemarketing/gravity-forms-spanish/)
 
+<<<<<<< HEAD
 Others Plugins:
 * [Gravity Forms CRM Addon](http://codecanyon.net/item/gravity-forms-crm-addon/10521695)
 * [Gravity Forms in Spanish](https://wordpress.org/plugins/gravityforms-es/)
 * [Clean HTML in Editor](https://wordpress.org/plugins/clean-html/)
 * [Send SMS to Wordpress Users via Arsys](https://wordpress.org/plugins/send-sms-arsys/) 
+=======
+Lista de Addons GravityForms traducidos:
+- Gravity Forms (es)
+- Gravity Forms user registration Add-On
+- Gravity Forms Aweber
+- Gravity Forms Coupons
+- Gravity Forms Campaign Monitor
+- Gravity Forms Fresh Books
+- Gravity Forms Mail Chimp
+- Gravity Forms Paypal
+- Gravity Forms Polls
+- Gravity Forms Quiz
+- Gravity Forms Signature
+- Gravity Forms Slack
+- Gravity Forms Survey
+
+Otros plugins:
+* [Gravity Forms CRM Addon](http://codecanyon.net/item/gravity-forms-crm-addon/10521695)
+* [Clean HTML in Editor](https://wordpress.org/plugins/clean-html/)
+* [Send SMS to Wordpress Users via Arsys](https://wordpress.org/plugins/send-sms-arsys/)
+>>>>>>> master
 
 == Installation ==
 
@@ -46,6 +93,17 @@ WordPress installation and then activate the Plugin from Plugins page.
 
 == Changelog ==
 
+<<<<<<< HEAD
+=======
+= 2.0.0 =
+*   Updated for Gravity Forms 2.0.
+*	Updated All Translations for new Versions.
+
+= 1.8.0 =
+*   Fixed directory problem.
+*	Updated All Translations for new Versions.
+
+>>>>>>> master
 = 1.7.0 =
 *	Updated All Translations for new Versions.
 
