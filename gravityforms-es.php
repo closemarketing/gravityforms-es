@@ -10,7 +10,7 @@ Requires at least: 3.0
 Author: Closemarketing
 Author URI: http://www.closemarketing.es/
 
-Text Domain: gfes
+Text Domain: gravityforms-es
 Domain Path: /languages/
 
 License: GPL
@@ -116,7 +116,7 @@ class GravityFormsESPlugin {
 			$this->is_spanish = ( ICL_LANGUAGE_CODE == 'es' );
 		}
 		// Load plugin text domain - Gravity Forms (es)
-		load_plugin_textdomain( 'gravityforms_es', false, $rel_path );
+		load_plugin_textdomain( 'gravityforms-es', false, $rel_path );
 
 		// Load plugin text domain - Gravity Forms user registration Add-On
 		load_plugin_textdomain( 'gravityformsuserregistration', false, $rel_path );
@@ -154,8 +154,10 @@ class GravityFormsESPlugin {
 		// Load plugin text domain - Gravity Forms Survey
 		load_plugin_textdomain( 'gravityformssurvey', false, $rel_path );
 
-		//Load Gravity Forms Strings
+		//Load Gravity Forms Strings to Wordpress translate ORG
 		require( 'translations/gravityforms.php' );
+		require( 'translations/gravityformscoupons.php' );
+		require( 'translations/gravityformsquiz.php' );
 	}
 
 	////////////////////////////////////////////////////////////
@@ -190,10 +192,10 @@ class GravityFormsESPlugin {
 		wp_register_script( 'gravityforms-es-forms', plugins_url( 'js/forms-es.js', $this->file ) );
 
 		wp_localize_script( 'gravityforms-es-forms', 'gravityFormsNlL10n', array(
-			'formTitle'           => __( 'Untitled Form', 'gravityforms_es' ) ,
-			'formDescription'     => __( 'We would love to hear from you! Please fill out this form and we will get in touch with you shortly.', 'gravityforms_es' ) ,
-			'confirmationMessage' => __( 'Thanks for contacting us! We will get in touch with you shortly.', 'gravityforms_es' ) ,
-			'buttonText'          => __( 'Submit', 'gravityforms_es' )
+			'formTitle'           => __( 'Untitled Form', 'gravityforms-es' ) ,
+			'formDescription'     => __( 'We would love to hear from you! Please fill out this form and we will get in touch with you shortly.', 'gravityforms-es' ) ,
+			'confirmationMessage' => __( 'Thanks for contacting us! We will get in touch with you shortly.', 'gravityforms-es' ) ,
+			'buttonText'          => __( 'Submit', 'gravityforms-es' )
 		) );
 
 		wp_print_scripts( array( 'gravityforms-es-forms' ) );
@@ -210,7 +212,7 @@ class GravityFormsESPlugin {
 	 */
 	public function gform_currencies( $currencies ) {
 		$currencies['EUR'] = array(
-			'name'               => __( 'Euro', 'gravityforms_es' ),
+			'name'               => __( 'Euro', 'gravityforms-es' ),
 			'symbol_left'        => '€',
 			'symbol_right'       => '',
 			'symbol_padding'     => ' ',
@@ -232,10 +234,10 @@ class GravityFormsESPlugin {
 	public function gform_address_types( $address_types ) {
 		// @see http://www.gravityhelp.com/forums/topic/add-custom-field-to-address-field-set
 		$address_types['es'] = array(
-			'label'       => __( 'Spain', 'gravityforms_es' ),
-			'country'     => __( 'Spain', 'gravityforms_es' ),
-			'zip_label'   => __( 'Postal Code', 'gravityforms_es' ),
-			'state_label' => __( 'Province', 'gravityforms_es' ),
+			'label'       => __( 'Spain', 'gravityforms-es' ),
+			'country'     => __( 'Spain', 'gravityforms-es' ),
+			'zip_label'   => __( 'Postal Code', 'gravityforms-es' ),
+			'state_label' => __( 'Province', 'gravityforms-es' ),
 			'states'      => array_merge( array( '' ), self::get_spanish_provinces() )
 		);
 
@@ -251,58 +253,58 @@ class GravityFormsESPlugin {
 	 */
 	public static function get_spanish_provinces() {
 		return array(
-			__( 'Albacete', 'gravityforms_es' ),
-			__( 'Alicante', 'gravityforms_es' ),
-			__( 'Almería', 'gravityforms_es' ),
-			__( 'Asturias', 'gravityforms_es' ),
-			__( 'Ávila', 'gravityforms_es' ),
-			__( 'Badajoz', 'gravityforms_es' ),
-			__( 'Barcelona', 'gravityforms_es' ),
-			__( 'Burgos', 'gravityforms_es' ),
-			__( 'Cáceres', 'gravityforms_es' ),
-			__( 'Cádiz', 'gravityforms_es' ),
-			__( 'Cantabria', 'gravityforms_es' ),
-			__( 'Castellón', 'gravityforms_es' ),
-			__( 'Ceuta', 'gravityforms_es' ),
-			__( 'Ciudad Real', 'gravityforms_es' ),
-			__( 'Córdoba', 'gravityforms_es' ),
-			__( 'Coruña (La)', 'gravityforms_es' ),
-			__( 'Cuenca', 'gravityforms_es' ),
-			__( 'Girona', 'gravityforms_es' ),
-			__( 'Granada', 'gravityforms_es' ),
-			__( 'Guadalajara', 'gravityforms_es' ),
-			__( 'Guipuzcoa', 'gravityforms_es' ),
-			__( 'Huelva', 'gravityforms_es' ),
-			__( 'Huesca', 'gravityforms_es' ),
-			__( 'Islas Baleares', 'gravityforms_es' ),
-			__( 'Jaén', 'gravityforms_es' ),
-			__( 'León', 'gravityforms_es' ),
-			__( 'Lleida', 'gravityforms_es' ),
-			__( 'Lugo', 'gravityforms_es' ),
-			__( 'Madrid', 'gravityforms_es' ),
-			__( 'Málaga', 'gravityforms_es' ),
-			__( 'Melilla', 'gravityforms_es' ),
-			__( 'Murcia', 'gravityforms_es' ),
-			__( 'Navarra', 'gravityforms_es' ),
-			__( 'Orense', 'gravityforms_es' ),
-			__( 'Palencia', 'gravityforms_es' ),
-			__( 'Palmas (Las)', 'gravityforms_es' ),
-			__( 'Pontevedra', 'gravityforms_es' ),
-			__( 'provincia', 'gravityforms_es' ),
-			__( 'Rioja (La)', 'gravityforms_es' ),
-			__( 'Salamanca', 'gravityforms_es' ),
-			__( 'Santa Cruz de Tenerife', 'gravityforms_es' ),
-			__( 'Segovia', 'gravityforms_es' ),
-			__( 'Sevilla', 'gravityforms_es' ),
-			__( 'Soria', 'gravityforms_es' ),
-			__( 'Tarragona', 'gravityforms_es' ),
-			__( 'Teruel', 'gravityforms_es' ),
-			__( 'Toledo', 'gravityforms_es' ),
-			__( 'Valencia', 'gravityforms_es' ),
-			__( 'Valladolid', 'gravityforms_es' ),
-			__( 'Vizcaya', 'gravityforms_es' ),
-			__( 'Zamora', 'gravityforms_es' ),
-			__( 'Zaragoza', 'gravityforms_es' )
+			__( 'Albacete', 'gravityforms-es' ),
+			__( 'Alicante', 'gravityforms-es' ),
+			__( 'Almería', 'gravityforms-es' ),
+			__( 'Asturias', 'gravityforms-es' ),
+			__( 'Ávila', 'gravityforms-es' ),
+			__( 'Badajoz', 'gravityforms-es' ),
+			__( 'Barcelona', 'gravityforms-es' ),
+			__( 'Burgos', 'gravityforms-es' ),
+			__( 'Cáceres', 'gravityforms-es' ),
+			__( 'Cádiz', 'gravityforms-es' ),
+			__( 'Cantabria', 'gravityforms-es' ),
+			__( 'Castellón', 'gravityforms-es' ),
+			__( 'Ceuta', 'gravityforms-es' ),
+			__( 'Ciudad Real', 'gravityforms-es' ),
+			__( 'Córdoba', 'gravityforms-es' ),
+			__( 'Coruña (La)', 'gravityforms-es' ),
+			__( 'Cuenca', 'gravityforms-es' ),
+			__( 'Girona', 'gravityforms-es' ),
+			__( 'Granada', 'gravityforms-es' ),
+			__( 'Guadalajara', 'gravityforms-es' ),
+			__( 'Guipuzcoa', 'gravityforms-es' ),
+			__( 'Huelva', 'gravityforms-es' ),
+			__( 'Huesca', 'gravityforms-es' ),
+			__( 'Islas Baleares', 'gravityforms-es' ),
+			__( 'Jaén', 'gravityforms-es' ),
+			__( 'León', 'gravityforms-es' ),
+			__( 'Lleida', 'gravityforms-es' ),
+			__( 'Lugo', 'gravityforms-es' ),
+			__( 'Madrid', 'gravityforms-es' ),
+			__( 'Málaga', 'gravityforms-es' ),
+			__( 'Melilla', 'gravityforms-es' ),
+			__( 'Murcia', 'gravityforms-es' ),
+			__( 'Navarra', 'gravityforms-es' ),
+			__( 'Orense', 'gravityforms-es' ),
+			__( 'Palencia', 'gravityforms-es' ),
+			__( 'Palmas (Las)', 'gravityforms-es' ),
+			__( 'Pontevedra', 'gravityforms-es' ),
+			__( 'provincia', 'gravityforms-es' ),
+			__( 'Rioja (La)', 'gravityforms-es' ),
+			__( 'Salamanca', 'gravityforms-es' ),
+			__( 'Santa Cruz de Tenerife', 'gravityforms-es' ),
+			__( 'Segovia', 'gravityforms-es' ),
+			__( 'Sevilla', 'gravityforms-es' ),
+			__( 'Soria', 'gravityforms-es' ),
+			__( 'Tarragona', 'gravityforms-es' ),
+			__( 'Teruel', 'gravityforms-es' ),
+			__( 'Toledo', 'gravityforms-es' ),
+			__( 'Valencia', 'gravityforms-es' ),
+			__( 'Valladolid', 'gravityforms-es' ),
+			__( 'Vizcaya', 'gravityforms-es' ),
+			__( 'Zamora', 'gravityforms-es' ),
+			__( 'Zaragoza', 'gravityforms-es' )
 		);
 	}
 
