@@ -114,7 +114,7 @@ class GravityFormsESPlugin {
 		//require( 'translations/gravityformscoupons.php' );
 		//require( 'translations/gravityformsquiz.php' );
 
-		$arraydomains = array('gravityformsuserregistration', 'gravityformsaweber', 'gravityformscoupons', 'gravityformscampaignmonitor', 'gravityformsfreshbooks', 'gravityformsmailchimp', 'gravityformspaypal', 'gravityformspolls', 'gravityformsquiz', 'gravityformssignature', 'gravityformsslack', 'gravityformssurvey');
+		$arraydomains = array('gravityformsaweber', 'gravityformscoupons', 'gravityformscampaignmonitor', 'gravityformsfreshbooks', 'gravityformsmailchimp', 'gravityformspaypal', 'gravityformspolls', 'gravityformsquiz', 'gravityformssignature', 'gravityformsslack', 'gravityformssurvey', 'gravityformsuserregistration', 'gravityformszapier');
 
 		foreach ($arraydomains as $domain) {
 			//Detects if plugin is active. Then its "textdomain" is loaded.
