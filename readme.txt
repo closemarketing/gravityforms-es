@@ -23,19 +23,21 @@ Do you want to contribute to this translation? I’ve made a Transifex Project i
 
 List of GravityForms addons translated:
 - Gravity Forms (worpdress translation)
-- Gravity Forms user registration Add-On
 - Gravity Forms Aweber
 - Gravity Forms Coupons
 - Gravity Forms Campaign Monitor
 - Gravity Forms Fresh Books
 - Gravity Forms Mail Chimp
+- Gravity Forms Partials Entries
 - Gravity Forms Paypal
+- Gravity Forms Paypal Payments PRO
 - Gravity Forms Polls
 - Gravity Forms Quiz
 - Gravity Forms Signature
 - Gravity Forms Slack
 - Gravity Forms Survey
 - Gravity Forms Zapier
+- Gravity Forms user registration Add-On
 
 Others Plugins:
 * [Gravity Forms CRM Addon](http://codecanyon.net/item/gravity-forms-crm-addon/10521695)

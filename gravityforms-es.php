@@ -102,6 +102,7 @@ class GravityFormsESPlugin {
 	 */
 	public function init() {
 		$rel_path = dirname( plugin_basename( $this->file ) ) . '/languages/';
+		include_once( ABSPATH . 'wp-admin/includes/plugin.php' );
 
 		// Determine language
 		if ( $this->language == null ) {
@@ -114,7 +115,7 @@ class GravityFormsESPlugin {
 		//require( 'translations/gravityformscoupons.php' );
 		//require( 'translations/gravityformsquiz.php' );
 
-		$arraydomains = array('gravityformsaweber', 'gravityformscoupons', 'gravityformscampaignmonitor', 'gravityformsfreshbooks', 'gravityformsmailchimp', 'gravityformspaypal', 'gravityformspolls', 'gravityformsquiz', 'gravityformssignature', 'gravityformsslack', 'gravityformssurvey', 'gravityformsuserregistration', 'gravityformszapier');
+		$arraydomains = array('gravityformsaweber', 'gravityformscoupons', 'gravityformscampaignmonitor', 'gravityformsfreshbooks', 'gravityformsmailchimp','gravityformspartialentries', 'gravityformspaypal','gravityformspaypalpaymentspro', 'gravityformspolls', 'gravityformsquiz', 'gravityformssignature', 'gravityformsslack', 'gravityformssurvey', 'gravityformsuserregistration', 'gravityformszapier');
 
 		foreach ($arraydomains as $domain) {
 			//Detects if plugin is active. Then its "textdomain" is loaded.
