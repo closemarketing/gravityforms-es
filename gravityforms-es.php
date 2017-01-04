@@ -47,7 +47,6 @@ class GravityFormsESPlugin {
 	 */
 	public function __construct( $file ) {
 		$this->file = $file;
-
 		// Priority is set to 8, beceasu the Signature Add-On is using priority 9
 		add_action( 'init', array( $this, 'init' ), 8 );
 
@@ -110,52 +109,26 @@ class GravityFormsESPlugin {
 			$this->is_spanish = ( $this->language == 'es' || $this->language == 'es_ES' );
 		}
 
-		// The ICL_LANGUAGE_CODE constant is defined from an plugin, so this constant
-		// is not always defined in the first 'load_textdomain_mofile' filter call
-		if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
-			$this->is_spanish = ( ICL_LANGUAGE_CODE == 'es' );
-		}
-		// Load plugin text domain - Gravity Forms (es)
-		load_plugin_textdomain( 'gfes', false, $rel_path );
+		//Load Gravity Forms Strings to Wordpress translate ORG
+		require( 'translations/gravityforms.php' );
+		//require( 'translations/gravityformscoupons.php' );
+		//require( 'translations/gravityformsquiz.php' );
 
-		// Load plugin text domain - Gravity Forms user registration Add-On
-		load_plugin_textdomain( 'gravityformsuserregistration', false, $rel_path );
+		$arraydomains = array('gravityformsuserregistration', 'gravityformsaweber', 'gravityformscoupons', 'gravityformscampaignmonitor', 'gravityformsfreshbooks', 'gravityformsmailchimp', 'gravityformspaypal', 'gravityformspolls', 'gravityformsquiz', 'gravityformssignature', 'gravityformsslack', 'gravityformssurvey');
 
-		// Load plugin text domain - Gravity Forms Aweber
-		load_plugin_textdomain( 'gravityformsaweber', false, $rel_path );
+		foreach ($arraydomains as $domain) {
+			//Detects if plugin is active. Then its "textdomain" is loaded.
+			$plugin = $domain.'/'.$domain.'.php';
+			if( is_plugin_active($plugin) ) {
+				load_plugin_textdomain( $domain, false, $rel_path );
+			}
+		} //foreach
 
-		// Load plugin text domain - Gravity Forms Coupons
-		load_plugin_textdomain( 'gravityformscoupons', false, $rel_path );
+		// Load plugin text domain - Translate WordPress ORG
+		$domain = 'gfes';
+		$locale = apply_filters( 'plugin_locale', get_locale(), $domain );
+		load_textdomain( 'gravityforms', trailingslashit( WP_LANG_DIR ) . 'plugins/'. $domain . '-' . $locale . '.mo' );
 
-		// Load plugin text domain - Gravity Forms Campaign Monitor
-		load_plugin_textdomain( 'gravityformscampaignmonitor', false, $rel_path );
-
-		// Load plugin text domain - Gravity Forms Fresh Books
-		load_plugin_textdomain( 'gravityformsfreshbooks', false, $rel_path );
-
-		// Load plugin text domain - Gravity Forms Mail Chimp
-		load_plugin_textdomain( 'gravityformsmailchimp', false, $rel_path );
-
-		// Load plugin text domain - Gravity Forms Paypal
-		load_plugin_textdomain( 'gravityformspaypal', false, $rel_path );
-
-		// Load plugin text domain - Gravity Forms Polls
-		load_plugin_textdomain( 'gravityformspolls', false, $rel_path );
-
-		// Load plugin text domain - Gravity Forms Quiz
-		load_plugin_textdomain( 'gravityformsquiz', false, $rel_path );
-
-		// Load plugin text domain - Gravity Forms Signature
-		load_plugin_textdomain( 'gravityformssignature', false, $rel_path );
-
-		// Load plugin text domain - Gravity Forms Slack
-		load_plugin_textdomain( 'gravityformsslack', false, $rel_path );
-
-		// Load plugin text domain - Gravity Forms Survey
-		load_plugin_textdomain( 'gravityformssurvey', false, $rel_path );
-
-		//Load Gravity Forms Strings
-		//require_once plugin_dir_path( __FILE__) . 'translations/gravityforms.php' ;
 	}
 
 	////////////////////////////////////////////////////////////
@@ -183,23 +156,6 @@ class GravityFormsESPlugin {
 
 	////////////////////////////////////////////////////////////
 
-	/**
-	 * Gravity Forms admin pre render
-	 */
-	public function gform_admin_pre_render( $form ) {
-		wp_register_script( 'gravityforms-es-forms', plugins_url( 'js/forms-es.js', $this->file ) );
-
-		wp_localize_script( 'gravityforms-es-forms', 'gravityFormsNlL10n', array(
-			'formTitle'           => __( 'Untitled Form', 'gfes' ) ,
-			'formDescription'     => __( 'We would love to hear from you! Please fill out this form and we will get in touch with you shortly.', 'gfes' ) ,
-			'confirmationMessage' => __( 'Thanks for contacting us! We will get in touch with you shortly.', 'gfes' ) ,
-			'buttonText'          => __( 'Submit', 'gfes' )
-		) );
-
-		wp_print_scripts( array( 'gravityforms-es-forms' ) );
-
-		return $form;
-	}
 
 	////////////////////////////////////////////////////////////
 
