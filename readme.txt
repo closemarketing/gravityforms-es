@@ -36,8 +36,8 @@ List of GravityForms addons translated:
 - Gravity Forms Signature
 - Gravity Forms Slack
 - Gravity Forms Survey
+- Gravity Forms user registration
 - Gravity Forms Zapier
-- Gravity Forms user registration Add-On
 
 Others Plugins:
 * [Gravity Forms CRM Addon](http://codecanyon.net/item/gravity-forms-crm-addon/10521695)
@@ -100,7 +100,7 @@ WordPress installation and then activate the Plugin from Plugins page.
 == Links ==
 
 *	[Closemarketing](http://www.closemarketing.es/)
-*	[Pronamic Dutch Translation](http://pronamic.eu/)
+*	[Pronamic Dutch Translation](https://pronamic.eu/)
 
 
 == Closemarketing plugins ==
