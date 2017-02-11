@@ -10,7 +10,7 @@ Requires at least: 3.0
 Author: Closemarketing
 Author URI: http://www.closemarketing.es/
 
-Text Domain: gfes
+Text Domain: gravityforms-es
 Domain Path: /languages/
 
 License: GPL
@@ -50,7 +50,6 @@ class GravityFormsESPlugin {
 		// Priority is set to 8, beceasu the Signature Add-On is using priority 9
 		add_action( 'init', array( $this, 'init' ), 8 );
 
-		add_filter( 'gform_admin_pre_render',       array( $this, 'gform_admin_pre_render' ) );
 		add_filter( 'gform_currencies',             array( $this, 'gform_currencies' ) );
 		add_filter( 'gform_address_types',          array( $this, 'gform_address_types' ) );
 		add_filter( 'gform_address_display_format', array( $this, 'gform_address_display_format' ) );
@@ -112,8 +111,6 @@ class GravityFormsESPlugin {
 
 		//Load Gravity Forms Strings to Wordpress translate ORG
 		require( 'translations/gravityforms.php' );
-		//require( 'translations/gravityformscoupons.php' );
-		//require( 'translations/gravityformsquiz.php' );
 
 		$arraydomains = array('gravityformsaweber', 'gravityformscoupons', 'gravityformscampaignmonitor', 'gravityformsfreshbooks', 'gravityformsmailchimp','gravityformspartialentries', 'gravityformspaypal','gravityformspaypalpaymentspro', 'gravityformspolls', 'gravityformsquiz', 'gravityformssignature', 'gravityformsslack', 'gravityformssurvey', 'gravityformsuserregistration', 'gravityformszapier');
 
@@ -126,7 +123,7 @@ class GravityFormsESPlugin {
 		} //foreach
 
 		// Load plugin text domain - Translate WordPress ORG
-		$domain = 'gfes';
+		$domain = 'gravityforms-es';
 		$locale = apply_filters( 'plugin_locale', get_locale(), $domain );
 		load_textdomain( 'gravityforms', trailingslashit( WP_LANG_DIR ) . 'plugins/'. $domain . '-' . $locale . '.mo' );
 
