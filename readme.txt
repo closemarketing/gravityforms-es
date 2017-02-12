@@ -3,9 +3,9 @@ Contributors: closemarketing
 Tags: gravityforms, gravity, form, forms, gravity forms, translation, spanish, espanol, español, es, es_ES
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZYGC6AT5JFQVE
 Requires at least: 3.9
-Tested up to: 4.5.2
-Stable tag: 2.1
-Version: 2.1
+Tested up to: 4.7.2
+Stable tag: 2.0.2
+Version: 2.0.2
 
 This WordPress plugin extends the Gravity Forms plugin with the Spanish translation.
 
@@ -18,32 +18,30 @@ Therefore there are regular updates of the Gravity Forms plugin. However, after 
 automatic update, the manually placed Spanish translations are deleted. This plugin fixes
 that issue for all the Spanish WordPress and Gravity Forms users!
 
-Do you want to contribute to this translation? I’ve made a Transifex Project in order to share it:
-[Translation for Gravity Forms](https://www.transifex.com/closemarketing/gravity-forms-spanish/)
-
 List of GravityForms addons translated:
-- Gravity Forms (worpdress translation)
-- Gravity Forms Aweber
-- Gravity Forms Coupons
-- Gravity Forms Campaign Monitor
-- Gravity Forms Fresh Books
-- Gravity Forms Mail Chimp
-- Gravity Forms Partials Entries
-- Gravity Forms Paypal
-- Gravity Forms Paypal Payments PRO
-- Gravity Forms Polls
-- Gravity Forms Quiz
-- Gravity Forms Signature
-- Gravity Forms Slack
-- Gravity Forms Survey
-- Gravity Forms user registration
-- Gravity Forms Zapier
+*   Gravity Forms (worpdress translation)
+*   Gravity Forms Aweber
+*   Gravity Forms Coupons
+*   Gravity Forms Campaign Monitor
+*   Gravity Forms Fresh Books
+*   Gravity Forms Mail Chimp
+*   Gravity Forms Partials Entries
+*   Gravity Forms Paypal
+*   Gravity Forms Paypal Payments PRO
+*   Gravity Forms Polls
+*   Gravity Forms Quiz
+*   Gravity Forms Signature
+*   Gravity Forms Slack
+*   Gravity Forms Survey
+*   Gravity Forms user registration
+*   Gravity Forms Zapier
 
 Others Plugins:
-* [Gravity Forms CRM Addon](http://codecanyon.net/item/gravity-forms-crm-addon/10521695)
-* [Gravity Forms in Spanish](https://wordpress.org/plugins/gravityforms-es/)
-* [Clean HTML in Editor](https://wordpress.org/plugins/clean-html/)
-* [Send SMS to Wordpress Users via Arsys](https://wordpress.org/plugins/send-sms-arsys/)
+*   [Gravity Forms CRM Addon](http://codecanyon.net/item/gravity-forms-crm-addon/10521695)
+*   [Widgets SO Genesis](https://wordpress.org/plugins/widgets-so-genesis/)
+*   [Gravity Forms in Spanish](https://wordpress.org/plugins/gravityforms-es/)
+*   [Clean HTML in Editor](https://wordpress.org/plugins/clean-html/)
+*   [Send SMS to Wordpress Users via Arsys](https://wordpress.org/plugins/send-sms-arsys/)
 
 == Installation ==
 
