@@ -1,13 +1,13 @@
-# Copyright 2009-2016 Rocketgenius, Inc.
+# Copyright 2009-2018 Rocketgenius, Inc.
 msgid ""
 msgstr ""
-"Project-Id-Version: Gravity Forms Partial Entries 1.0\n"
+"Project-Id-Version: Gravity Forms Partial Entries Add-On 1.2\n"
 "Report-Msgid-Bugs-To: http://www.gravtiyhelp.com\n"
-"POT-Creation-Date: 2016-09-23 16:23:51+00:00\n"
+"POT-Creation-Date: 2018-04-09 20:15:00+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Rocketgenius <customerservice@rocketgenius.com>\n"
 "Language-Team: Rocketgenius <customerservice@rocketgenius.com>\n"
 "X-Generator: Gravity Forms Build Server\n"
@@ -44,7 +44,7 @@ msgstr ""
 msgid "Partial Entries"
 msgstr ""
 
-#: class-gf-partial-entries.php:209
+#: class-gf-partial-entries.php:209 class-gf-partial-entries.php:240
 msgid "Enable"
 msgstr ""
 
@@ -60,10 +60,6 @@ msgstr ""
 
 #: class-gf-partial-entries.php:238
 msgid "Conditional Logic"
-msgstr ""
-
-#: class-gf-partial-entries.php:240
-msgid "Enable Conditional Logic"
 msgstr ""
 
 #: class-gf-partial-entries.php:241
@@ -82,7 +78,7 @@ msgstr ""
 msgid "Partial Entry ID"
 msgstr ""
 
-#: class-gf-partial-entries.php:330 class-gf-partial-entries.php:1121
+#: class-gf-partial-entries.php:330 class-gf-partial-entries.php:1136
 msgid "Progress: required fields"
 msgstr ""
 
@@ -98,68 +94,68 @@ msgstr ""
 msgid "Saved"
 msgstr ""
 
-#: class-gf-partial-entries.php:650 class-gf-partial-entries.php:762
+#: class-gf-partial-entries.php:662 class-gf-partial-entries.php:774
 msgid "Open saved form"
 msgstr ""
 
-#: class-gf-partial-entries.php:756
+#: class-gf-partial-entries.php:768
 msgid "Progress: %s"
 msgstr ""
 
-#: class-gf-partial-entries.php:763
+#: class-gf-partial-entries.php:775
 msgid "Last Saved: %s "
 msgstr ""
 
-#: class-gf-partial-entries.php:914
+#: class-gf-partial-entries.php:928
 msgid "Default Filter"
 msgstr ""
 
-#: class-gf-partial-entries.php:915
+#: class-gf-partial-entries.php:929
 msgid "Number of entries per page:"
 msgstr ""
 
-#: class-gf-partial-entries.php:917
+#: class-gf-partial-entries.php:931
 msgid "Apply"
 msgstr ""
 
-#: class-gf-partial-entries.php:1077
+#: class-gf-partial-entries.php:1091
 msgid "Enable Condition"
 msgstr ""
 
-#: class-gf-partial-entries.php:1103
+#: class-gf-partial-entries.php:1117
 msgid "Process this feed if"
 msgstr ""
 
-#: class-gf-partial-entries.php:1114
+#: class-gf-partial-entries.php:1128
 msgid "Progress: all fields"
 msgstr ""
 
-#: class-gf-partial-entries.php:1175
+#: class-gf-partial-entries.php:1190
 msgid "Please note that your information is saved on our server as you enter it."
 msgstr ""
 
-#: class-gf-partial-entries.php:1205
+#: class-gf-partial-entries.php:1220
 msgid "File Uploads will not be included in the partial entries."
 msgstr ""
 
-#: class-gf-partial-entries.php:1213
+#: class-gf-partial-entries.php:1228
 msgid "The Credit Card field values will not be included in the partial entries."
 msgstr ""
 
-#: class-gf-partial-entries.php:1233
+#: class-gf-partial-entries.php:1248
 msgid "Partial Entries: Saved"
 msgstr ""
 
-#: class-gf-partial-entries.php:1234
+#: class-gf-partial-entries.php:1249
 msgid "Partial Entries: Updated"
 msgstr ""
 
 #. Plugin Name of the plugin/theme
-msgid "Gravity Forms Partial Entries"
+msgid "Gravity Forms Partial Entries Add-On"
 msgstr ""
 
 #. Plugin URI of the plugin/theme
-msgid "http://www.gravityforms.com"
+msgid "https://www.gravityforms.com"
 msgstr ""
 
 #. Description of the plugin/theme
@@ -170,17 +166,21 @@ msgstr ""
 msgid "rocketgenius"
 msgstr ""
 
+#. Author URI of the plugin/theme
+msgid "https://www.rocketgenius.com"
+msgstr ""
+
 #: class-gf-partial-entries.php:285
 msgctxt "Threshold setting"
 msgid "%s of %s"
 msgstr ""
 
-#: class-gf-partial-entries.php:839
+#: class-gf-partial-entries.php:853
 msgctxt "Entry List"
 msgid "Complete"
 msgstr ""
 
-#: class-gf-partial-entries.php:850
+#: class-gf-partial-entries.php:864
 msgctxt "Entry List"
 msgid "Partial"
 msgstr ""

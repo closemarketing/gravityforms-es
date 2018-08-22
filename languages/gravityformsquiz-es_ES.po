@@ -1,0 +1,6960 @@
+# Translation of Plugins - Gravity Forms (Spanish) - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Gravity Forms (Spanish) - Development (trunk) package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugins - Gravity Forms (Spanish) - Development (trunk)\n"
+"Report-Msgid-Bugs-To: http://www.gravtiyhelp.com\n"
+"POT-Creation-Date: 2016-08-31 20:12:13+00:00\n"
+"PO-Revision-Date: 2018-08-22 18:30+0200\n"
+"Last-Translator: David <david@closemarketing.es>\n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.1.1\n"
+
+#: class-gf-quiz.php:321 class-gf-quiz.php:353
+msgid "Drag to re-order"
+msgstr ""
+
+#: class-gf-quiz.php:322 class-gf-quiz.php:354
+msgid "add another grade"
+msgstr "añadir otra calificación"
+
+#: class-gf-quiz.php:323 class-gf-quiz.php:355
+msgid "remove this grade"
+msgstr "eliminar esta calificación"
+
+#: class-gf-quiz.php:324
+msgid "First Choice"
+msgstr "Primera opción"
+
+#: class-gf-quiz.php:325
+msgid "Second Choice"
+msgstr "Segunda opción"
+
+#: class-gf-quiz.php:326
+msgid "Third Choice"
+msgstr "Tercera opción"
+
+#: class-gf-quiz.php:327
+msgid "Click to toggle as correct/incorrect"
+msgstr ""
+
+#: class-gf-quiz.php:328
+#, fuzzy
+#| msgid "Click to edit post"
+msgid "Click to define as correct"
+msgstr "Clic para editar entrada"
+
+#: class-gf-quiz.php:329
+msgid ""
+"Mark an answer as correct by using the checkmark icon to the right of the "
+"answer."
+msgstr ""
+
+#: class-gf-quiz.php:330
+#, fuzzy
+#| msgid "Click to edit post"
+msgid "Click to define as incorrect"
+msgstr "Clic para editar entrada"
+
+#: class-gf-quiz.php:388
+msgid "No filters"
+msgstr "Sin filtros"
+
+#: class-gf-quiz.php:389
+msgid "Add a field filter"
+msgstr ""
+
+#: class-gf-quiz.php:390
+#, fuzzy
+#| msgid "Remove a condition"
+msgid "Remove a field filter"
+msgstr "Eliminar una condición"
+
+#: class-gf-quiz.php:391
+msgid "Error retrieving results. Please contact support."
+msgstr ""
+
+#: class-gf-quiz.php:447 class-gf-quiz.php:1675 class-gf-quiz.php:1693
+#: class-gf-quiz.php:2667
+msgid "Quiz Results"
+msgstr "Resultados del cuestionario"
+
+#: class-gf-quiz.php:608
+msgid "Total Entries"
+msgstr "Total entradas"
+
+#: class-gf-quiz.php:609
+msgid "Average Score"
+msgstr "Puntuación media"
+
+#: class-gf-quiz.php:610
+#, fuzzy
+#| msgid "Average score"
+msgid "Average Percentage"
+msgstr "Puntuación media"
+
+#: class-gf-quiz.php:613
+msgid "Pass Rate"
+msgstr ""
+
+#: class-gf-quiz.php:629
+msgid "Score Frequencies"
+msgstr "Frecuencias de puntuación"
+
+#: class-gf-quiz.php:633
+#, fuzzy
+#| msgid "Bad request"
+msgid "Grade Frequencies"
+msgstr "Petición errónea"
+
+#: class-gf-quiz.php:667
+msgid "Response"
+msgstr "Respuesta"
+
+#: class-gf-quiz.php:667
+msgid "Count"
+msgstr "Contador"
+
+#: class-gf-quiz.php:668
+msgid "Correct"
+msgstr "Correcto"
+
+#: class-gf-quiz.php:669
+msgid "Incorrect"
+msgstr "Incorrecto"
+
+#: class-gf-quiz.php:696
+msgid "Correct:"
+msgstr "Correcto:"
+
+#: class-gf-quiz.php:700
+msgid "Incorrect:"
+msgstr "Incorrecto:"
+
+#: class-gf-quiz.php:728
+msgid "No entries for this field"
+msgstr "No hay entradas para este campo"
+
+#: class-gf-quiz.php:736
+msgid "Choice"
+msgstr "Selección"
+
+#: class-gf-quiz.php:737 class-gf-quiz.php:777 class-gf-quiz.php:853
+#: class-gf-quiz.php:900 class-gf-quiz.php:917
+msgid "Frequency"
+msgstr "Frecuencia"
+
+#: class-gf-quiz.php:738
+msgid "Frequency (Correct)"
+msgstr "Frecuencia (correcta)"
+
+#: class-gf-quiz.php:853 class-gf-quiz.php:914 class-gf-quiz.php:1724
+#: class-gf-quiz.php:2552
+msgid "Score"
+msgstr "Puntuación"
+
+#: class-gf-quiz.php:900 class-gf-quiz.php:1730 class-gf-quiz.php:2558
+msgid "Grade"
+msgstr ""
+
+#: class-gf-quiz.php:960
+msgid "Quiz Results: "
+msgstr "Resultados del cuestionario: "
+
+#: class-gf-quiz.php:965
+msgid "Quiz Score: "
+msgstr ""
+
+#: class-gf-quiz.php:970
+msgid "All Quiz Results"
+msgstr "Todos los resultados del cuestionario"
+
+#: class-gf-quiz.php:971 class-gf-quiz.php:1385
+#, fuzzy
+#| msgid "Form Total"
+msgid "Quiz Score Total"
+msgstr "Total formulario"
+
+#: class-gf-quiz.php:972
+msgid "Quiz Score Percentage"
+msgstr ""
+
+#: class-gf-quiz.php:973 class-gf-quiz.php:1403
+msgid "Quiz Grade"
+msgstr "Puntuación cuestionario"
+
+#: class-gf-quiz.php:974 class-gf-quiz.php:1412
+msgid "Quiz Pass/Fail"
+msgstr ""
+
+#: class-gf-quiz.php:1027 class-gf-quiz.php:1503 class-gf-quiz.php:1728
+#: class-gf-quiz.php:2575
+msgid "Pass"
+msgstr "Aprobado"
+
+#: class-gf-quiz.php:1027 class-gf-quiz.php:1503 class-gf-quiz.php:1728
+#: class-gf-quiz.php:2575
+msgid "Fail"
+msgstr "Suspenso"
+
+#: class-gf-quiz.php:1140
+msgid "Select one"
+msgstr "Selecciona uno"
+
+#: class-gf-quiz.php:1394
+msgid "Quiz Percentage"
+msgstr "Porcentaje del cuestionario"
+
+#: class-gf-quiz.php:1724 class-gf-quiz.php:1957
+msgid "Percentage"
+msgstr "Porcentaje"
+
+#: class-gf-quiz.php:1728 class-gf-quiz.php:1836 class-gf-quiz.php:2555
+msgid "Pass/Fail"
+msgstr ""
+
+#: class-gf-quiz.php:1751 includes/class-gf-field-quiz.php:19
+msgid "Quiz"
+msgstr "Cuestionario"
+
+#: class-gf-quiz.php:1777
+msgid "Quiz Settings"
+msgstr "Ajustes del cuestionario"
+
+#: class-gf-quiz.php:1781
+msgid "General"
+msgstr "General"
+
+#: class-gf-quiz.php:1785
+#, fuzzy
+#| msgid "Select a field"
+msgid "Shuffle quiz fields"
+msgstr "Selecciona un campo"
+
+#: class-gf-quiz.php:1788
+#, fuzzy
+#| msgid "Select Fields"
+msgid "Shuffle Fields"
+msgstr "Selecciona los campos"
+
+#: class-gf-quiz.php:1788
+msgid ""
+"Display the quiz fields in a random order. This doesn't affect the position "
+"of the other fields on the form."
+msgstr ""
+
+#: class-gf-quiz.php:1791
+msgid "Instant feedback"
+msgstr ""
+
+#: class-gf-quiz.php:1794
+msgid "Instant Feedback"
+msgstr ""
+
+#: class-gf-quiz.php:1794
+msgid ""
+"Display the correct answers plus explanations immediately after selecting an "
+"answer. Once an answer has been selected it can't be changed unless the form "
+"is reloaded. This setting only applies to radio button quiz fields and it is "
+"intended for training applications and trivial quizzes. It should not be "
+"considered a secure option for testing."
+msgstr ""
+
+#: class-gf-quiz.php:1800
+msgid "Grading"
+msgstr ""
+
+#: class-gf-quiz.php:1815
+msgid "Disable Auto-Formatting"
+msgstr "Desactivar autoformato"
+
+#: class-gf-quiz.php:1815
+msgid ""
+"When enabled, auto-formatting will insert paragraph breaks automatically. "
+"Disable auto-formatting when using HTML to create the confirmation content."
+msgstr ""
+
+#: class-gf-quiz.php:1835
+msgid "None"
+msgstr "Ninguno"
+
+#: class-gf-quiz.php:1835
+msgid "No Grading"
+msgstr "Sin calificación"
+
+#: class-gf-quiz.php:1835
+#, fuzzy
+#| msgid "Edit settings for this form"
+msgid "Grading will not be used for this form."
+msgstr "Editar ajustes para este formulario"
+
+#: class-gf-quiz.php:1836
+#, fuzzy
+#| msgid "Enable Password Strength"
+msgid "Enable Pass/Fail Grading"
+msgstr "Habilitar seguridad contraseña"
+
+#: class-gf-quiz.php:1836
+#, fuzzy
+#| msgid ""
+#| "Check this option to require a user to be logged in to view this form."
+msgid ""
+"Select this option to enable the pass/fail grading system for this form."
+msgstr ""
+"Marca esta opción para obligar al usuario a iniciar sesión para ver este "
+"formulario."
+
+#: class-gf-quiz.php:1837
+msgid "Letter"
+msgstr "Letra"
+
+#: class-gf-quiz.php:1837
+#, fuzzy
+#| msgid "Enable entry limit"
+msgid "Enable Letter Grading"
+msgstr "Habilitar límite de entradas"
+
+#: class-gf-quiz.php:1837
+#, fuzzy
+#| msgid ""
+#| "Check this option to require a user to be logged in to view this form."
+msgid "Select this option to enable the letter grading system for this form."
+msgstr ""
+"Marca esta opción para obligar al usuario a iniciar sesión para ver este "
+"formulario."
+
+#: class-gf-quiz.php:1847
+msgid "Pass Percentage"
+msgstr ""
+
+#: class-gf-quiz.php:1847
+msgid "Define the minimum percentage required to pass the quiz."
+msgstr ""
+
+#: class-gf-quiz.php:1871 class-gf-quiz.php:1973
+#, fuzzy
+#| msgid "Duplicate this confirmation"
+msgid "Display quiz confirmation"
+msgstr "Duplicar esta confirmación"
+
+#: class-gf-quiz.php:1872 class-gf-quiz.php:1974
+#, fuzzy
+#| msgid "Save Confirmation"
+msgid "Display Confirmation"
+msgstr "Guardar confirmación"
+
+#: class-gf-quiz.php:1872 class-gf-quiz.php:1974
+msgid ""
+"Activate this setting to configure a confirmation message to be displayed "
+"after submitting the quiz. The message will appear below the confirmation "
+"configured on the Confirmations tab. When this setting is activated any page "
+"redirects configured on the Confirmations tab will be ignored."
+msgstr ""
+
+#: class-gf-quiz.php:1884
+#, fuzzy
+#| msgid "Save Confirmation"
+msgid "Quiz Pass Confirmation"
+msgstr "Guardar confirmación"
+
+#: class-gf-quiz.php:1903 class-gf-quiz.php:1937 class-gf-quiz.php:2006
+msgid "Disable Auto-formatting"
+msgstr "Desactivar autoformato"
+
+#: class-gf-quiz.php:1917
+#, fuzzy
+#| msgid "Enable Email Confirmation"
+msgid "Quiz Fail Confirmation"
+msgstr "Habilitar confirmación de Email"
+
+#: class-gf-quiz.php:1951 class-gf-quiz.php:2055
+msgid "Letter Grades"
+msgstr "Calificación por letras"
+
+#: class-gf-quiz.php:1956
+msgid "Label"
+msgstr "Etiqueta"
+
+#: class-gf-quiz.php:1986
+msgid "Quiz Confirmation"
+msgstr "Confirmación del cuestionario"
+
+#: class-gf-quiz.php:2055
+msgid "Define the minimum percentage required for each grade."
+msgstr ""
+
+#: class-gf-quiz.php:2059 class-gf-quiz.php:2088
+msgid "Quiz Question"
+msgstr ""
+
+#: class-gf-quiz.php:2059
+msgid ""
+"Enter the question you would like to ask the user. The user can then answer "
+"the question by selecting from the available choices."
+msgstr ""
+
+#: class-gf-quiz.php:2060
+msgid "Quiz Type"
+msgstr "Tipo de cuestionario"
+
+#: class-gf-quiz.php:2060
+msgid ""
+"Select the field type you'd like to use for the quiz. Choose radio buttons "
+"or drop down if question only has one correct answer. Choose checkboxes if "
+"your question requires more than one correct choice."
+msgstr ""
+
+#: class-gf-quiz.php:2061
+msgid "Randomize Quiz Answers"
+msgstr ""
+
+#: class-gf-quiz.php:2061
+msgid ""
+"Check the box to randomize the order in which the answers are displayed to "
+"the user. This setting affects only the quiz front-end. It will not affect "
+"the order of the results."
+msgstr ""
+
+#: class-gf-quiz.php:2062
+#, fuzzy
+#| msgid "Enable Animation"
+msgid "Enable Answer Explanation"
+msgstr "Habilitar animación"
+
+#: class-gf-quiz.php:2062
+msgid ""
+"Activate this option to display an explanation of the answer along with the "
+"quiz results."
+msgstr ""
+
+#: class-gf-quiz.php:2063
+msgid "Quiz Answer Explanation"
+msgstr ""
+
+#: class-gf-quiz.php:2063
+msgid ""
+"Enter the explanation for the correct answer and/or incorrect answers. This "
+"text will appear below the results for this field."
+msgstr ""
+
+#: class-gf-quiz.php:2064 class-gf-quiz.php:2128
+msgid "Quiz Answers"
+msgstr ""
+
+#: class-gf-quiz.php:2064
+msgid ""
+"Enter the answers for the quiz question. You can mark each choice as correct "
+"by using the radio/checkbox fields on the right."
+msgstr ""
+
+#: class-gf-quiz.php:2065
+#, fuzzy
+#| msgid "Average Score"
+msgid "Weighted Score"
+msgstr "Puntuación media"
+
+#: class-gf-quiz.php:2065
+msgid ""
+"Weighted scores allow complex scoring systems in which each choice is "
+"awarded a different score. Weighted scores are awarded regardless of whether "
+"the response is correct or incorrect so be sure to allocate higher scores to "
+"correct answers. If this setting is disabled then the response will be "
+"awarded a score of 1 if correct and 0 if incorrect."
+msgstr ""
+
+#: class-gf-quiz.php:2102
+#, fuzzy
+#| msgid "Field Type"
+msgid "Quiz Field Type"
+msgstr "Tipo campo"
+
+#: class-gf-quiz.php:2107
+msgid "Drop Down"
+msgstr "Desplegable"
+
+#: class-gf-quiz.php:2108
+msgid "Radio Buttons"
+msgstr "Botones selección"
+
+#: class-gf-quiz.php:2109
+msgid "Checkboxes"
+msgstr "Casillas"
+
+#: class-gf-quiz.php:2119
+msgid ""
+"weighted\r\n"
+"\t\t\t\t\t\tscore"
+msgstr ""
+
+#: class-gf-quiz.php:2125
+msgid "show values"
+msgstr "mostrar valores"
+
+#: class-gf-quiz.php:2136
+msgid "Bulk Add / Predefined Choices"
+msgstr "Añadir por lotes / Opciones predefinidas"
+
+#: class-gf-quiz.php:2152
+#, fuzzy
+#| msgid "Name Prefix Choices"
+msgid "Randomize order of choices"
+msgstr "Opciones prefijo de nombre"
+
+#: class-gf-quiz.php:2162
+#, fuzzy
+#| msgid "Enable animations"
+msgid "Enable answer explanation"
+msgstr "Habilitar transiciones"
+
+#: class-gf-quiz.php:2169
+msgid "Quiz answer explanation"
+msgstr ""
+
+#: class-gf-quiz.php:2226
+msgid ""
+"<strong>Quiz Results:</strong> You Failed!\n"
+"<strong>Score:</strong> {quiz_score}\n"
+"<strong>Percentage:</strong> {quiz_percent}%"
+msgstr ""
+
+#: class-gf-quiz.php:2229
+msgid ""
+"<strong>Quiz Results:</strong> You Passed!\n"
+"<strong>Score:</strong> {quiz_score}\n"
+"<strong>Percentage:</strong> {quiz_percent}%"
+msgstr ""
+
+#: class-gf-quiz.php:2232
+msgid ""
+"<strong>Quiz Grade:</strong> {quiz_grade}\n"
+"<strong>Score:</strong> {quiz_score}\n"
+"<strong>Percentage:</strong> {quiz_percent}%"
+msgstr ""
+
+#: class-gf-quiz.php:2510 class-gf-quiz.php:2538
+msgid "Quiz Entries"
+msgstr "Entradas del examen"
+
+#: class-gf-quiz.php:2535
+#, fuzzy
+#| msgid "This form does not have any entries yet."
+msgid "This contact has not submitted any quiz entries yet."
+msgstr "Este formulario no tiene ninguna entrada todavía."
+
+#: class-gf-quiz.php:2543
+msgid "Entry Id"
+msgstr "ID Entrada"
+
+#: class-gf-quiz.php:2546
+msgid "Date"
+msgstr "Fecha"
+
+#: class-gf-quiz.php:2549
+msgid "Form"
+msgstr "Formulario"
+
+#. Plugin Name of the plugin/theme
+#, fuzzy
+#| msgid "Gravity Forms Widget"
+msgid "Gravity Forms Quiz Add-On"
+msgstr "Widget de Gravity Forms"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.gravityforms.com"
+msgstr "http://www.gravityforms.com"
+
+#. Description of the plugin/theme
+#, fuzzy
+#| msgid "Add Gravity Form"
+msgid "Quiz Add-on for Gravity Forms"
+msgstr "Añadir Gravity Form"
+
+#. Author of the plugin/theme
+#| msgid "rocketgenius"
+msgid "Rocketgenius"
+msgstr "Rocketgenius"
+
+#. Author URI of the plugin/theme
+msgid "http://www.rocketgenius.com"
+msgstr "http://www.rocketgenius.com"
+
+#~ msgid "http://www.closemarketing.es/"
+#~ msgstr "http://www.closemarketing.es/"
+
+#~ msgid "Closemarketing"
+#~ msgstr "Closemarketing"
+
+#~ msgid ""
+#~ "Extends the Gravity Forms plugin and add-ons with the Spanish language"
+#~ msgstr "Extiende el plugin Gravity Forms y sus addons con idioma español"
+
+#~ msgid ""
+#~ "http://www.closemarketing.es/servicios/wordpress-plugins/gravity-forms-es/"
+#~ msgstr ""
+#~ "http://www.closemarketing.es/servicios/wordpress-plugins/gravity-forms-es/"
+
+#~ msgid "Gravity Forms (Spanish)"
+#~ msgstr "Gravity Forms (Spanish)"
+
+#~ msgid "MM"
+#~ msgstr "MM"
+
+#~ msgid "GEORGIA"
+#~ msgstr "GEORGIA"
+
+#~ msgid "Georgia"
+#~ msgstr "Georgia"
+
+#~ msgid "Filter"
+#~ msgstr "Filtro"
+
+#~ msgid "Any"
+#~ msgstr "Cualquiera"
+
+#~ msgid "All"
+#~ msgstr "Todo"
+
+#~ msgid "Gravity Forms"
+#~ msgstr "Gravity Forms"
+
+#~ msgid "Tab Index Start"
+#~ msgstr "Inicio índice de tabulador"
+
+#~ msgid "Disable script output"
+#~ msgstr "Desactivar inserción de scripts"
+
+#~ msgid "Contact Us"
+#~ msgstr "Contacta con nosotros"
+
+#~ msgid "Your version of Gravity Forms is up to date."
+#~ msgstr "Tu versión de Gravity Forms está actualizada."
+
+#~ msgid "Gravity Forms Updates"
+#~ msgstr "Actualizaciones de Gravity Forms"
+
+#~ msgid "You don't have permissions to view this page"
+#~ msgstr "No tienes los permisos para ver esta página."
+
+#~ msgid "Use Rich Text Editor"
+#~ msgstr "Usar editor enriquecido"
+
+#~ msgid "Enter text to display at the top of the progress bar."
+#~ msgstr ""
+#~ "Introduce el texto a mostrar en la parte superior de la barra de progreso."
+
+#~ msgid "Progress Bar Completion Text"
+#~ msgstr "Texto al completar"
+
+#~ msgid "Progress Bar Confirmation Display"
+#~ msgstr "Mostrar barra de progreso en confirmación"
+
+#~ msgid "Override Notifications"
+#~ msgstr "Anular notificaciones"
+
+#~ msgid "Tab Index Start Value"
+#~ msgstr "Valor inicial del índice de tabulador"
+
+#~ msgid "Entries Conversion"
+#~ msgstr "Conversión de entradas"
+
+#~ msgid "reCaptcha Secret Key"
+#~ msgstr "Clave privada de reCaptcha "
+
+#~ msgid "reCaptcha Site Key"
+#~ msgstr "Clave de sitio de reCAPTCHA"
+
+#~ msgid "Settings License Key"
+#~ msgstr "Ajustes licencia"
+
+#~ msgid "Export Date Range"
+#~ msgstr "Rango de fechas de exportación"
+
+#~ msgid "Select the fields you would like to include in the export."
+#~ msgstr "Selecciona los campos que te gustaría incluir en la exportación."
+
+#~ msgid "Export Selected Fields"
+#~ msgstr "Exportar campos seleccionados"
+
+#~ msgid "Filter the entries by adding conditions."
+#~ msgstr "Filtrar las entradas añadiendo condiciones."
+
+#~ msgid "Select the forms you would like to export."
+#~ msgstr "Selecciona los formularios que quieras exportar."
+
+#~ msgid "Export Selected Forms"
+#~ msgstr "Exportar formularios seleccionados."
+
+#~ msgid "Export Selected Form"
+#~ msgstr "Exportar formulario seleccionado"
+
+#~ msgid "Standard Fields provide basic form functionality."
+#~ msgstr "Los campos estándar proveen una funcionalidad básica al formulario."
+
+#~ msgid "Select which Product this field is tied to."
+#~ msgstr "Selecciona a qué producto está vinculado este campo."
+
+#~ msgid "Product Field"
+#~ msgstr "Campo de producto"
+
+#~ msgid "Disable Quantity"
+#~ msgstr "Desactivar cantidad"
+
+#~ msgid "Enter the base price for this product."
+#~ msgstr "Introduce el precio base para este producto."
+
+#~ msgid "Base Price"
+#~ msgstr "Precio base"
+
+#~ msgid "Enter the content (Text or HTML) to be displayed on the form."
+#~ msgstr ""
+#~ "Introduce el contenido (Texto o HTML) para mostrarlo en el formulario."
+
+#~ msgid "Incoming Field Data"
+#~ msgstr "Campo de datos de entrada"
+
+#~ msgid "Check this option to set this image as the post's Featured Image."
+#~ msgstr ""
+#~ "Marca esta opción para establecer esta imagen como la imagen destada de "
+#~ "la entrada."
+
+#~ msgid "Image Meta"
+#~ msgstr "Metadatos de imagen"
+
+#~ msgid "Use Current User as Author"
+#~ msgstr "Usar usuario actual como autor"
+
+#~ msgid ""
+#~ "Check this option to format and insert merge tags into the Post Title."
+#~ msgstr ""
+#~ "Marca esta opción para dar formato e introducir etiquetas de inserción en "
+#~ "el título de la entrada."
+
+#~ msgid "Post Title Template"
+#~ msgstr "Plantilla de título de entrada"
+
+#~ msgid "Post Content Template"
+#~ msgstr "Plantilla de contenido de entrada"
+
+#~ msgid "Post Author"
+#~ msgstr "Autor de la entrada"
+
+#~ msgid "Next Button Conditional Logic"
+#~ msgstr "Condición del botón siguiente"
+
+#~ msgid "Previous Button Image"
+#~ msgstr "Imagen botón anterior"
+
+#~ msgid "Enter the text you would like to appear on the page previous button."
+#~ msgstr ""
+#~ "Introduce el texto que te gustaría usar para el botón de página anterior."
+
+#~ msgid "Previous Button Text"
+#~ msgstr "Texto botón anterior"
+
+#~ msgid "Next Button Image"
+#~ msgstr "Imagen botón siguiente"
+
+#~ msgid "Enter the text you would like to appear on the page next button."
+#~ msgstr ""
+#~ "Introduce el texto que te gustaría usar para el botón de siguiente página."
+
+#~ msgid "Next Button Text"
+#~ msgstr "Texto botón siguiente"
+
+#~ msgid "Progress Bar Style"
+#~ msgstr "Estilo barra de progreso"
+
+#~ msgid "Page Conditional Logic"
+#~ msgstr "Lógica condicional de la página"
+
+#~ msgid "\"Other\" Choice"
+#~ msgstr "Opción \"Otra\""
+
+#~ msgid "Enable Enhanced UI"
+#~ msgstr "Activar IU mejorada"
+
+#~ msgid "Enable Choice Values"
+#~ msgstr "Activar valores de opciones"
+
+#~ msgid "Field Choices"
+#~ msgstr "Opciones del campo"
+
+#~ msgid "reCaptcha Language"
+#~ msgstr "Idioma reCaptcha"
+
+#~ msgid "Validation Message"
+#~ msgstr "Mensaje de validación"
+
+#~ msgid "Activated by Default"
+#~ msgstr "Activada por defecto"
+
+#~ msgid "Use Values Submitted in a Different Field"
+#~ msgstr "Usar valores enviados en un campo diferente"
+
+#~ msgid ""
+#~ "If you would like to pre-populate the value of a field, enter it here."
+#~ msgstr "Si te gustaría pre-rellenar el valor de un campo, introdúcelo aquí."
+
+#~ msgid "Label Visibility"
+#~ msgstr "Visibilidad de etiqueta"
+
+#~ msgid ""
+#~ "Enter values in this setting to override the Sub-Label for each field."
+#~ msgstr ""
+#~ "Introduce valores en este ajuste para anular la subetiqueta para cada "
+#~ "campo."
+
+#~ msgid "Admin Label"
+#~ msgstr "Etiqueta de administración"
+
+#~ msgid "Specify how many decimal places the number should be rounded to."
+#~ msgstr ""
+#~ "Especifica a cuántas posiciones decimales se debe redondear el número."
+
+#~ msgid "Number Range"
+#~ msgstr "Rango numérico"
+
+#~ msgid "Required Field"
+#~ msgstr "Campo obligatorio"
+
+#~ msgid "Field Description"
+#~ msgstr "Descripción del campo"
+
+#~ msgid "Phone Number Format"
+#~ msgstr "Formato número teléfono"
+
+#~ msgid "Allowed File Extensions"
+#~ msgstr "Extensiones permitidas"
+
+#~ msgid "Field Date Format"
+#~ msgstr "Formato fecha del campo"
+
+#~ msgid "Select the style you would like to use for the credit card icons."
+#~ msgstr ""
+#~ "Selecciona el estilo que quieres usar para los iconos de las tarjetas de "
+#~ "crédito."
+
+#~ msgid "Field Name Format"
+#~ msgstr "Formato del campo nombre"
+
+#~ msgid "Hide State/Province/Region"
+#~ msgstr "Ocultar Estado/Provincia/Región"
+
+#~ msgid "Hide Province Field"
+#~ msgstr "Ocultar campo provincia"
+
+#~ msgid "Hide State Field"
+#~ msgstr "Ocultar Estado"
+
+#~ msgid "Hide Address Line 2"
+#~ msgstr "Ocultar segunda línea de dirección"
+
+#~ msgid "Hide Country"
+#~ msgstr "Ocultar país"
+
+#~ msgid "Default Province"
+#~ msgstr "Provincia predeterminada"
+
+#~ msgid "Default State"
+#~ msgstr "Estado predeterminado"
+
+#~ msgid "Select the type of address you would like to use."
+#~ msgstr "Selecciona el tipo de dirección que quieres utilizar."
+
+#~ msgid "Enter the maximum number of rows that users are allowed to add."
+#~ msgstr "Introduce el número máximo de filas que el usuario puede añadir."
+
+#~ msgid "Select the type of field from the available form fields."
+#~ msgstr "Selecciona el tipo de campo de los disponibles."
+
+#~ msgid "Field type"
+#~ msgstr "Tipo de campo"
+
+#~ msgid "Select the type of CAPTCHA you would like to use."
+#~ msgstr "Selecciona el tipo de CAPTCHA que quieres utilizar."
+
+#~ msgid "CAPTCHA Type"
+#~ msgstr "Tipo CAPTCHA"
+
+#~ msgid "Recaptcha Theme"
+#~ msgstr "Plantilla reCAPTCHA"
+
+#~ msgid "Disable Default Margins"
+#~ msgstr "Desactivar márgenes predeterminados"
+
+#~ msgid "Pass Data Via Query String"
+#~ msgstr "Pasar datos vía Query String"
+
+#~ msgid "Redirect Form to URL"
+#~ msgstr "Redireccionar a URL"
+
+#~ msgid "Redirect Form to Page"
+#~ msgstr "Redireccionar a una página"
+
+#~ msgid "Confirmation Message Text"
+#~ msgstr "Mensaje confirmación"
+
+#~ msgid ""
+#~ "Enter the URL of a custom image to replace the default 'add item' icon."
+#~ msgstr ""
+#~ "Introduce la URL de la imagen personalizada a reemplazar por defecto en "
+#~ "el icono 'añadir item'."
+
+#~ msgid "Form CSS Class Name"
+#~ msgstr "Clase CSS"
+
+#~ msgid "Form Button Image"
+#~ msgstr "Imagen del botón de envío"
+
+#~ msgid "Enter the text you would like to appear on the form submit button."
+#~ msgstr ""
+#~ "Introduce el texto que quieres que aparezca en el botón de envío del "
+#~ "formulario."
+
+#~ msgid "Form Button Text"
+#~ msgstr "Texto botón"
+
+#~ msgid "Form Label Placement"
+#~ msgstr "Emplazamiento de las etiquetas"
+
+#~ msgid "Enter the title of your form."
+#~ msgstr "Introduce el título de tu formulario."
+
+#~ msgid "Enable Anti-spam honeypot"
+#~ msgstr "Habilitar Anti-spam Honeypot"
+
+#~ msgid "Schedule a time period the form is active."
+#~ msgstr ""
+#~ "Programar un período de tiempo durante el cual el formulario estará "
+#~ "activo."
+
+#~ msgid "Schedule Form"
+#~ msgstr "Programar formulario"
+
+#~ msgid "Limit Number of Entries"
+#~ msgstr "Limitar el número de entradas"
+
+#~ msgid "Limit Form Activity"
+#~ msgstr "Limitar actividad del formulario"
+
+#~ msgid "Blind Carbon Copy Addresses"
+#~ msgstr "Direcciones para copia oculta"
+
+#~ msgid "From Email Address"
+#~ msgstr "Email remitente"
+
+#~ msgid "Routing"
+#~ msgstr "Enrutamiento"
+
+#~ msgid ""
+#~ "Enter the email address you would like the notification email sent to."
+#~ msgstr ""
+#~ "Introduce la dirección de email a la que te gustaría que se envíe el "
+#~ "email de notificación."
+
+#~ msgid "Send To Email Address"
+#~ msgstr "Enviar a Email"
+
+#~ msgid "Site Secret"
+#~ msgstr "Clave secreta"
+
+#~ msgid "Debug Information"
+#~ msgstr "Información de debug"
+
+#~ msgid "Gravity Forms Version"
+#~ msgstr "Versión Gravity Forms"
+
+#~ msgid "WordPress Version"
+#~ msgstr "Versión WordPress"
+
+#~ msgid "Gravity Forms requires MySQL 5 or above."
+#~ msgstr "Gravity Forms requiere MySQL 5 o superior"
+
+#~ msgid "MySQL Version"
+#~ msgstr "Versión MYSQL"
+
+#~ msgid "Gravity Forms requires PHP 5 or above."
+#~ msgstr "Gravity Forms requiere PHP 5 o superior."
+
+#~ msgid "PHP Version"
+#~ msgstr "Versión PHP"
+
+#~ msgid "Installation Status"
+#~ msgstr "Estado Instalación"
+
+#~ msgid "Save Settings"
+#~ msgstr "Guardar ajustes"
+
+#~ msgid "Secret Key"
+#~ msgstr "Clave secreta"
+
+#~ msgid "%sSign up%s for a free account to get the key."
+#~ msgstr "%sRegístrate%s para obtener una cuenta gratuita"
+
+#~ msgid "Required only if you decide to use the reCAPTCHA field."
+#~ msgstr "Sólo se requiere si usted decide utilizar el campo de reCAPTCHA."
+
+#~ msgid "Site Key"
+#~ msgstr "Clave del sitio"
+
+#~ msgid "Read more about reCAPTCHA"
+#~ msgstr "Lee mas sobre reCAPTCHA"
+
+#~ msgid "reCAPTCHA Settings"
+#~ msgstr "Ajustes de reCAPTCHA"
+
+#~ msgid "Background updates"
+#~ msgstr "Actualizaciones automáticas"
+
+#~ msgid "Output HTML5"
+#~ msgstr "Uso de HTML5"
+
+#~ msgid "Output CSS"
+#~ msgstr "Insertar CSS"
+
+#~ msgid ""
+#~ "The license key is used for access to automatic upgrades and support."
+#~ msgstr ""
+#~ "La licencia se usa para las actualizaciones automáticas y el soporte."
+
+#~ msgid "Valid Key : Your license key has been successfully validated."
+#~ msgstr "Licencia válida: Tu licencia ha sido validada correctamente."
+
+#~ msgid "Support License Key"
+#~ msgstr "Licencia de soporte"
+
+#~ msgid "General Settings"
+#~ msgstr "Ajustes generales"
+
+#~ msgid "Settings Updated"
+#~ msgstr "Ajustes actualizados"
+
+#~ msgid "You don't have adequate permission to edit settings."
+#~ msgstr "No tienes los permisos adecuados para editar los ajustes."
+
+#~ msgid "This operation deletes ALL Gravity Forms data."
+#~ msgstr "Esta operación borra TODOS los datos de Gravity Forms."
+
+#~ msgid "You don't have adequate permission to uninstall Gravity Forms."
+#~ msgstr "No tienes los permisos necesarios para desinstalar Gravity Forms."
+
+#~ msgid "Uninstall Gravity Forms"
+#~ msgstr "Desinstalar Gravity Forms"
+
+#~ msgid "Inactive Columns"
+#~ msgstr "Columnas inactivas"
+
+#~ msgid "Active Columns"
+#~ msgstr "Columnas activas"
+
+#~ msgid "Oops! We could not locate your form. Please try again."
+#~ msgstr ""
+#~ "¡Vaya! No hemos podido localizar tu formulario. Por favor inténtalo de "
+#~ "nuevo."
+
+#~ msgid "Print Preview"
+#~ msgstr "Imprimir vista previa"
+
+#~ msgid "close window"
+#~ msgstr "cerrar ventana"
+
+#~ msgid "Bulk Print"
+#~ msgstr "Impresión por lotes"
+
+#~ msgid "Form Id and Lead Id are required parameters."
+#~ msgstr "El id del formulario y de la entrada son parámetros obligatorios."
+
+#~ msgid "You don't have adequate permission to view entries."
+#~ msgstr "No tienes los permisos necesarios para ver las entradas."
+
+#~ msgid "dismiss"
+#~ msgstr "descartar"
+
+#~ msgid "show structure"
+#~ msgstr "Mostrar estructura"
+
+#~ msgid "display grid"
+#~ msgstr "Mostrar cuadrícula"
+
+#~ msgid "Form Preview"
+#~ msgstr "Previsualización del formulario"
+
+#~ msgid "You don't have adequate permission to preview forms."
+#~ msgstr "No tienes el permiso adecuado para previsualizar formularios."
+
+#~ msgid "This form doesn't have any notifications. Let's go %screate one%s."
+#~ msgstr ""
+#~ "Este formulario no tiene ninguna notificación. Vamos a %screar una%s."
+
+#~ msgid "Undefined Service"
+#~ msgstr "Servicio no definido"
+
+#~ msgid "WARNING: You are about to delete this notification."
+#~ msgstr "ATENCIÓN: Estás a punto de borrar esta notificación."
+
+#~ msgid "Delete this notification"
+#~ msgstr "Borrar esta notificación"
+
+#~ msgid "Duplicate this notification"
+#~ msgstr "Duplicar esta notificación"
+
+#~ msgid "Service"
+#~ msgstr "Servicio"
+
+#~ msgid ""
+#~ "Please enter a valid email address or merge tag in the Reply To field."
+#~ msgstr ""
+#~ "Introduce una dirección de email válida o etiqueta de inserción en el "
+#~ "campo Responder a."
+
+#~ msgid "Please enter a valid email address or merge tag in the BCC field."
+#~ msgstr ""
+#~ "Introduce una dirección de email válida o una etiqueta de inserción en el "
+#~ "campo BCC."
+
+#~ msgid "Save and continue email is requested"
+#~ msgstr "Email de guardar y continuar solicitado"
+
+#~ msgid "Form is saved"
+#~ msgstr "Formulario guardado"
+
+#~ msgid "Form is submitted"
+#~ msgstr "Formulario enviado"
+
+#~ msgid "WordPress"
+#~ msgstr "WordPress"
+
+#~ msgid "Enable conditional logic"
+#~ msgstr "Activar lógica condicional"
+
+#~ msgid "Disable auto-formatting"
+#~ msgstr "Desactivar auto-formato"
+
+#~ msgid "Auto-formatting"
+#~ msgstr "Auto-formato"
+
+#~ msgid "Please enter a message for the notification email"
+#~ msgstr "Introduce un mensaje para el email de notificación"
+
+#~ msgid "Please enter a subject for the notification email"
+#~ msgstr "Introduce un asunto para el email de notificación"
+
+#~ msgid "Subject"
+#~ msgstr "Asunto"
+
+#~ msgid "BCC"
+#~ msgstr "BCC"
+
+#~ msgid "Reply To"
+#~ msgstr "Responder a"
+
+#~ msgid "From Email"
+#~ msgstr "Email remitente"
+
+#~ msgid "From Name"
+#~ msgstr "Nombre remitente"
+
+#~ msgid "Select an email field"
+#~ msgstr "Selecciona un campo de email"
+
+#~ msgid "Send to Field"
+#~ msgstr "Enviar a campo"
+
+#~ msgid "Please enter a valid email address"
+#~ msgstr "Introduce una dirección de e-mail válida"
+
+#~ msgid "Send to Email"
+#~ msgstr "Enviar a Email"
+
+#~ msgid "Configure Routing"
+#~ msgstr "Configurar enrutamiento"
+
+#~ msgid "Event"
+#~ msgstr "Evento"
+
+#~ msgid "Email Service"
+#~ msgstr "Servicio de email"
+
+#~ msgid "There was an issue duplicating this notification."
+#~ msgstr "Hubo un problema al duplicar esta notificación."
+
+#~ msgid "Notification duplicates."
+#~ msgstr "Notificación duplicada."
+
+#~ msgid "There was an issue deleting this notification."
+#~ msgstr "Hubo un error al borrar esta notificación."
+
+#~ msgid "Notification deleted."
+#~ msgstr "Notificación borrada."
+
+#~ msgid "Ajax error while updating notification"
+#~ msgstr "Error de Ajax al actualizar la notificación"
+
+#~ msgid "Update Notification"
+#~ msgstr "Actualizar notificación"
+
+#~ msgid "Save Notification"
+#~ msgstr "Guardar notificación"
+
+#~ msgid "Enter value"
+#~ msgstr "Introduce un valor"
+
+#~ msgid "if"
+#~ msgstr "si"
+
+#~ msgid "Send to"
+#~ msgstr "Enviar a"
+
+#~ msgid "Notification saved successfully. %sBack to notifications.%s"
+#~ msgstr ""
+#~ "Notificación guardada correctamente. %sVolver a las notificaciones.%s"
+
+#~ msgid "Ajax error while changing input type"
+#~ msgstr "Error AJAX al cambiar el tipo de entrada"
+
+#~ msgid "Ajax error while adding field"
+#~ msgstr "Error AJAX al añadir el campo"
+
+#~ msgid "You must add a product field to the form first"
+#~ msgstr "Debes añadir un campo de producto primero"
+
+#~ msgid "Only one credit card field can be added to the form"
+#~ msgstr "Solo se puede añadir un campo de tarjeta de crédito al formulario"
+
+#~ msgid "Only one Post Excerpt field can be added to the form"
+#~ msgstr "Solo se puede añadir un campo de extracto al formulario"
+
+#~ msgid "Only one Post Title field can be added to the form"
+#~ msgstr "Solo se puede añadir un campo de título de entrada al formulario"
+
+#~ msgid "Only one Post Content field can be added to the form"
+#~ msgstr "Solo se puede añadir un campo de contenido de entrada al formulario"
+
+#~ msgid "Only one Shipping field can be added to the form"
+#~ msgstr "Solo se puede añadir un campo de envío al formulario"
+
+#~ msgid "Only one reCAPTCHA field can be added to the form"
+#~ msgstr "Sólo se puede añadir un campo reCAPTCHA al formulario"
+
+#~ msgid "Rev."
+#~ msgstr "Rev."
+
+#~ msgid "Prof."
+#~ msgstr "Prof."
+
+#~ msgid "Dr."
+#~ msgstr "Dr."
+
+#~ msgid "Ms."
+#~ msgstr "Srta."
+
+#~ msgid "Miss"
+#~ msgstr "Sra."
+
+#~ msgid "Mrs."
+#~ msgstr "Sra."
+
+#~ msgid "Mr."
+#~ msgstr "Sr."
+
+#~ msgid "AM/PM"
+#~ msgstr "AM/PM"
+
+#~ msgid "Donation"
+#~ msgstr "Donación"
+
+#~ msgid "Third Option"
+#~ msgstr "Tercera opción"
+
+#~ msgid "Second Option"
+#~ msgstr "Segunda opción"
+
+#~ msgid "First Option"
+#~ msgstr "Primera opción"
+
+#~ msgid "Product Name"
+#~ msgstr "Nombre producto"
+
+#~ msgid "Captcha"
+#~ msgstr "Captcha"
+
+#~ msgid "Post Custom Field"
+#~ msgstr "Campo personalizado entrada"
+
+#~ msgid "Post Tags"
+#~ msgstr "Etiquetas entrada"
+
+#~ msgid "Post Excerpt"
+#~ msgstr "Extracto entrada"
+
+#~ msgid "Post Body"
+#~ msgstr "Cuerpo entrada"
+
+#~ msgid "Post Title"
+#~ msgstr "Título entrada"
+
+#~ msgid "Hidden Field"
+#~ msgstr "Campo oculto"
+
+#~ msgid "Card Type"
+#~ msgstr "Tipo tarjeta"
+
+#~ msgid "State / Province"
+#~ msgstr "Estado/Provincia"
+
+#~ msgid "Untitled"
+#~ msgstr "Sin nombre"
+
+#~ msgid "HTML Block"
+#~ msgstr "Bloque HTML"
+
+#~ msgid "Section Break"
+#~ msgstr "Salto de sección"
+
+#~ msgid "Ajax error while saving form"
+#~ msgstr "Error de Ajax mientras se guardaba el formulario"
+
+#~ msgid "Column 3"
+#~ msgstr "Columna 3"
+
+#~ msgid "Column 2"
+#~ msgstr "Columna 2"
+
+#~ msgid "Column 1"
+#~ msgstr "Columna 1"
+
+#~ msgid "Deleted Field"
+#~ msgstr "Campo borrado"
+
+#~ msgid "Same as previous"
+#~ msgstr "Igual que el anterior"
+
+#~ msgid "Custom Sub-Label"
+#~ msgstr "Subetiqueta personalizada"
+
+#~ msgid "Sub-Label:"
+#~ msgstr "Subetiqueta:"
+
+#~ msgid "Placeholder:"
+#~ msgstr "Marcador de contenido:"
+
+#~ msgid "Default Value:"
+#~ msgstr "Valor predeterminado:"
+
+#~ msgid "Parameter Name"
+#~ msgstr "Nombre parámetro"
+
+#~ msgid "Parameter Name:"
+#~ msgstr "Nombre parámetro:"
+
+#~ msgid "Select a category"
+#~ msgstr "Seleccionar una categoría"
+
+#~ msgid "Completed"
+#~ msgstr "Completado"
+
+#~ msgid "Item has been saved."
+#~ msgstr "El elemento ha sido guardado."
+
+#~ msgid ""
+#~ "This custom choice name is already in use. Please enter another name."
+#~ msgstr ""
+#~ "Esta elección personalizada ya está en uso. Por favor selecciona otro "
+#~ "nombre."
+
+#~ msgid "Please enter name."
+#~ msgstr "Introduce un nombre."
+
+#~ msgid "Item has been deleted."
+#~ msgstr "El elemento ha sido borrado."
+
+#~ msgid "Delete this custom choice list? 'OK' to delete, 'Cancel' to abort."
+#~ msgstr ""
+#~ "¿Borrar este listado de opciones personalizado? 'Ok' para borrar, "
+#~ "'Cancelar' para abortar."
+
+#~ msgid "Back"
+#~ msgstr "Volver"
+
+#~ msgid "Not set"
+#~ msgstr "No establecido"
+
+#~ msgid "Global Settings"
+#~ msgstr "Ajustes globales"
+
+#~ msgid "Protect your form entries from spam using Akismet."
+#~ msgstr "Protege tus formularios contra el spam usando Akismet."
+
+#~ msgid "No"
+#~ msgstr "No"
+
+#~ msgid "Yes"
+#~ msgstr "Sí"
+
+#~ msgid "Akismet Integration"
+#~ msgstr "Integración Akismet"
+
+#~ msgid "Off"
+#~ msgstr "Desactivado"
+
+#~ msgid "On"
+#~ msgstr "Activado"
+
+#~ msgid "No-Conflict Mode"
+#~ msgstr "Modo sin conflictos"
+
+#~ msgid "Select a Currency"
+#~ msgstr "Selecciona una moneda"
+
+#~ msgid "Please accept the terms"
+#~ msgstr "Por favor acepta las condiciones"
+
+#~ msgid "Please enter a valid license key."
+#~ msgstr "Por favor introduce una clave de licencia válida."
+
+#~ msgid "I understand the risks"
+#~ msgstr "Entiendo los riesgos"
+
+#~ msgid "Enter Your License Key"
+#~ msgstr "Introduce tu clave de licencia"
+
+#~ msgid "Create A Form"
+#~ msgstr "Crear un formulario"
+
+#~ msgid "Installation Complete"
+#~ msgstr "Instalación completada"
+
+#~ msgid "Congratulations! Click the 'Create A Form' button to get started."
+#~ msgstr ""
+#~ "¡Felicidades! Haz clic en el botón 'Crear un formulario' para comenzar."
+
+#~ msgid "Disabled"
+#~ msgstr "Desactivado"
+
+#~ msgid "Please accept the terms."
+#~ msgstr "Por favor acepta las condiciones."
+
+#~ msgid "Background Updates"
+#~ msgstr "Actualizaciones en segundo plano"
+
+#~ msgid "I Understand and Accept the Risk"
+#~ msgstr "Lo entiendo y acepto el riesgo"
+
+#~ msgid "Are you sure?"
+#~ msgstr "¿Estás seguro?"
+
+#~ msgid "Turn off background updates"
+#~ msgstr "Desactivar actualizaciones en segundo plano"
+
+#~ msgid "Keep background updates enabled"
+#~ msgstr "Mantener actualizaciones en segundo plano activadas"
+
+#~ msgid ""
+#~ "Updates will only be available if you have entered a valid License Key"
+#~ msgstr ""
+#~ "Las actualizaciones sólo estarán disponibles si has introducido una clave "
+#~ "de licencia válida"
+
+#~ msgid "Welcome to Gravity Forms"
+#~ msgstr "Bienvenido a Gravity Forms"
+
+#~ msgid "Internal Error"
+#~ msgstr "Error interno"
+
+#~ msgid "Not implemented"
+#~ msgstr "No implementado"
+
+#~ msgid "Not found"
+#~ msgstr "No encontrado"
+
+#~ msgid "Forbidden"
+#~ msgstr "Prohibido"
+
+#~ msgid "Permission denied"
+#~ msgstr "Permiso denegado"
+
+#~ msgid "Not authorized"
+#~ msgstr "No autorizado"
+
+#~ msgid "Entries deleted successfully: %d"
+#~ msgstr "Entradas borradas correctamente: %d"
+
+#~ msgid "Form updated successfully"
+#~ msgstr "Formulario actualizado correctamente."
+
+#~ msgid "Forms updated successfully"
+#~ msgstr "Formularios actualizados correctamente."
+
+#~ msgid "Property values should be sent as an array"
+#~ msgstr "Los valores de la propiedad deberían ser enviados como un array"
+
+#~ msgid "No property values were found in the request body"
+#~ msgstr ""
+#~ "No se encontraron valores para la propiedad en el cuerpo de la petición"
+
+#~ msgid "Success"
+#~ msgstr "Correcto"
+
+#~ msgid "Entry updated successfully"
+#~ msgstr "Entrada actualizada correctamente"
+
+#~ msgid "Entries updated successfully"
+#~ msgstr "Entradas actualizadas correctamente"
+
+#~ msgid "Forms deleted successfully: %d"
+#~ msgstr "Formularios borrados correctamente: %d"
+
+#~ msgid "Feeds updated: %d"
+#~ msgstr "Feeds actualizados: %d"
+
+#~ msgid "Feeds deleted successfully: %d"
+#~ msgstr "Feeds borrados correctamente: %d"
+
+#~ msgid "Open developer tools"
+#~ msgstr "Abrir herramientas para desarrolladores"
+
+#~ msgid "Show/hide QR Code"
+#~ msgstr "Mostrar/ocultar código QR"
+
+#~ msgid "Permalinks are not in the correct format."
+#~ msgstr "Los enlaces permanentes no tienen el formato correcto."
+
+#~ msgid "Developer tools"
+#~ msgstr "Herramientas para desarrolladores"
+
+#~ msgid "Impersonate account"
+#~ msgstr "Suplantar cuenta"
+
+#~ msgid "QR Code"
+#~ msgstr "Código QR"
+
+#~ msgid "Private API Key"
+#~ msgstr "Clave API privada"
+
+#~ msgid "Public API Key"
+#~ msgstr "Clave API pública"
+
+#~ msgid "Authentication"
+#~ msgstr "Autenticación"
+
+#~ msgid "Enable access to the API"
+#~ msgstr "Activar acceso a la API"
+
+#~ msgid "Requirements check"
+#~ msgstr "Lista de requisitos"
+
+#~ msgid "Gravity Forms API Settings"
+#~ msgstr "Ajustes de API de Gravity Forms"
+
+#~ msgid "Upload unsuccessful"
+#~ msgstr "Subida fallida"
+
+#~ msgid "Failed to move uploaded file."
+#~ msgstr "No se pudo mover el archivo."
+
+#~ msgid "Failed to open output stream."
+#~ msgstr "Fallo al abrir el canal de salida."
+
+#~ msgid "Failed to open input stream."
+#~ msgstr "Fallo al abrir el canal de entrada."
+
+#~ msgid "Failed to open temp directory."
+#~ msgstr "No se pudo abrir el directorio temporal."
+
+#~ msgid "Failed to upload file."
+#~ msgstr "Error al subir el archivo."
+
+#~ msgid "Insert Form"
+#~ msgstr "Insertar formulario"
+
+#~ msgid "Advanced Options"
+#~ msgstr "Opciones avanzadas"
+
+#~ msgid "Insert A Form"
+#~ msgstr "Insertar un formulario"
+
+#~ msgid "%s has requested permission to take over control of these settings."
+#~ msgstr "%s ha solicitado permiso para tomar el control de estos ajustes."
+
+#~ msgid "%s has requested permission to take over control of this entry."
+#~ msgstr "%s ha solicitado permiso para tomar el control de esta entrada."
+
+#~ msgid "%s has requested permission to take over control of this form."
+#~ msgstr "%s ha solicitado permiso para tomar el control de este formulario."
+
+#~ msgid "Reject Request"
+#~ msgstr "Denegar petición"
+
+#~ msgid "Request Control"
+#~ msgstr "Solicitar control"
+
+#~ msgid "Take Over"
+#~ msgstr "Tomar control"
+
+#~ msgid "Your request has been sent to %s."
+#~ msgstr "Tu solicitud ha sido enviada a %s."
+
+#~ msgid "Your request was rejected"
+#~ msgstr "Tu solicitud ha sido denegada"
+
+#~ msgid "Request again"
+#~ msgstr "Solicitar de nuevo"
+
+#~ msgid "Pending"
+#~ msgstr "Pendiente"
+
+#~ msgid "You now have control"
+#~ msgstr "Ahora tienes el control"
+
+#~ msgid "%s has requested permission to take over control."
+#~ msgstr "%s ha solicitado permiso para tomar el control."
+
+#~ msgid "%s has taken over and is currently editing."
+#~ msgstr "%s ha tomado el control y está editando actualmente."
+
+#~ msgid "%s is currently editing"
+#~ msgstr "%s está editando actualmente"
+
+#~ msgid "Accept"
+#~ msgstr "Aceptar"
+
+#~ msgid "click to expand and edit the options for this field"
+#~ msgstr "clic para expandir y editar las opciones para este campo"
+
+#~ msgid "Field ID"
+#~ msgstr "ID del campo"
+
+#~ msgid "click to delete this field"
+#~ msgstr "clic para borrar este campo"
+
+#~ msgid "click to duplicate this field"
+#~ msgstr "clic para duplicar este campo"
+
+#~ msgid "Please enter a valid Website URL (e.g. http://www.gravityforms.com)."
+#~ msgstr ""
+#~ "Por favor introduce una URL válida (p.ej. http://www.gravityforms.com)."
+
+#~ msgid "HH"
+#~ msgstr "HH"
+
+#~ msgid "PM"
+#~ msgstr "PM"
+
+#~ msgid "AM"
+#~ msgstr "AM"
+
+#~ msgid "Please enter a valid time."
+#~ msgstr "Introduce una hora válida."
+
+#~ msgid "Single Line Text"
+#~ msgstr "Línea de texto"
+
+#~ msgid "Shipping"
+#~ msgstr "Envío"
+
+#~ msgid "Section"
+#~ msgstr "Sección"
+
+#~ msgid "Quantity"
+#~ msgstr "Cantidad"
+
+#~ msgid "Tags"
+#~ msgstr "Etiquetas"
+
+#~ msgid "File"
+#~ msgstr "Archivo"
+
+#~ msgid "delete"
+#~ msgstr "borrar"
+
+#~ msgid "Post Image"
+#~ msgstr "Imagen entrada"
+
+#~ msgid "Excerpt"
+#~ msgstr "Extracto"
+
+#~ msgid "Custom Field"
+#~ msgstr "Campo personal."
+
+#~ msgid "Body"
+#~ msgstr "Cuerpo"
+
+#~ msgid "Phone format:"
+#~ msgstr "Formato del número de teléfono:"
+
+#~ msgid "Confirm Password"
+#~ msgstr "Confirmar contraseña"
+
+#~ msgid "Enter Password"
+#~ msgstr "Introduce la constraseña"
+
+#~ msgid "Your passwords do not match."
+#~ msgstr "Tus contraseñas no concuerdan."
+
+#~ msgid "top of new page"
+#~ msgstr "principio de la nueva página"
+
+#~ msgid "PAGE BREAK"
+#~ msgstr "SALTO DE PÁGINA"
+
+#~ msgid "end of page"
+#~ msgstr "fin de página"
+
+#~ msgid "Option"
+#~ msgstr "Opción"
+
+#~ msgid "Please enter a valid number"
+#~ msgstr "Introduce un número válido"
+
+#~ msgid "Please enter a value less than or equal to %s."
+#~ msgstr "Introduce un valor menor o igual a %s."
+
+#~ msgid "Please enter a value greater than or equal to %s."
+#~ msgstr "Introduce un valor mayor o igual a %s."
+
+#~ msgid "Please enter a value between %s and %s."
+#~ msgstr "Introduce un valor entre %s y %s."
+
+#~ msgid "Please enter a valid quantity. Quantity cannot contain decimals."
+#~ msgstr ""
+#~ "Introduce una cantidad válida. La cantidad no puede contener decimales."
+
+#~ msgid "Name prefix"
+#~ msgstr "Prefijo nombre"
+
+#~ msgid "Suffix"
+#~ msgstr "Sufijo"
+
+#~ msgid "Last"
+#~ msgstr "Apellidos"
+
+#~ msgid "Middle"
+#~ msgstr "Segundo nombre"
+
+#~ msgid "First"
+#~ msgstr "Nombre"
+
+#~ msgid "Prefix"
+#~ msgstr "Prefijo"
+
+#~ msgid "Name suffix"
+#~ msgstr "Sufijo nombre"
+
+#~ msgid "Last name"
+#~ msgstr "Apellidos"
+
+#~ msgid "Middle name"
+#~ msgstr "Segundo nombre"
+
+#~ msgid "First name"
+#~ msgstr "Nombre"
+
+#~ msgid "This field is required. Please enter the first and last name."
+#~ msgstr ""
+#~ "Este campo es obligatorio. Por favor introduce el nombre y los apellidos."
+
+#~ msgid "Click to select..."
+#~ msgstr "Clic para seleccionar..."
+
+#~ msgid "Add a row"
+#~ msgstr "Añadir fila"
+
+#~ msgid "HTML Content"
+#~ msgstr "Contenido HTML"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "Click to view"
+#~ msgstr "Clic para ver"
+
+#~ msgid "%d files"
+#~ msgstr "%d archivos"
+
+#~ msgid "Delete file"
+#~ msgstr "Borrar archivo"
+
+#~ msgid "Download file"
+#~ msgstr "Descargar archivo"
+
+#~ msgid "Select files"
+#~ msgstr "Selecciona archivos"
+
+#~ msgid "Drop files here or"
+#~ msgstr "Suelta archivos aquí o"
+
+#~ msgid "Allowed Files"
+#~ msgstr "Archivos permitidos"
+
+#~ msgid "Accepted file types: %s."
+#~ msgstr "Tipos de archivos aceptados: %s."
+
+#~ msgid ""
+#~ "The uploaded file type is not allowed. Must be one of the following: %s"
+#~ msgstr ""
+#~ "El tipo de archivo subido no está permitido. Debe ser uno de los "
+#~ "siguientes: %s."
+
+#~ msgid "The uploaded file type is not allowed."
+#~ msgstr "El tipo de archivo subido no está permitido."
+
+#~ msgid "There was an error while uploading the file. Error code: %d"
+#~ msgstr "Hubo un error al subir el archivo. Código de error: %d"
+
+#~ msgid "File exceeds size limit. Maximum file size: %dMB"
+#~ msgstr "El archivo excede el límite. Tamaño de archivo máximo: %dMB"
+
+#~ msgid "Confirm Email"
+#~ msgstr "Confirmar email"
+
+#~ msgid "Enter Email"
+#~ msgstr "Introduce un email"
+
+#~ msgid "Your emails do not match."
+#~ msgstr "Tus emails no coinciden."
+
+#~ msgid "Please enter a valid amount."
+#~ msgstr "Introduce una cantidad válida."
+
+#~ msgid "YYYY"
+#~ msgstr "AAAA"
+
+#~ msgid "DD"
+#~ msgstr "DD"
+
+#~ msgid "Please enter a valid date."
+#~ msgstr "Introduce una fecha válida."
+
+#~ msgid "Please enter a valid date in the format (%s)."
+#~ msgstr "Introduce una fecha válida en el formato (%s)."
+
+#~ msgid "Expiration Year"
+#~ msgstr "Año caducidad"
+
+#~ msgid "Expiration Month"
+#~ msgstr "Mes caducidad"
+
+#~ msgid "Year"
+#~ msgstr "Año"
+
+#~ msgid "Cardholder Name"
+#~ msgstr "Nombre del propietario"
+
+#~ msgid "Security Code"
+#~ msgstr "Código seguridad"
+
+#~ msgid "Expiration Date"
+#~ msgstr "Fecha expiración"
+
+#~ msgid "Card Number"
+#~ msgstr "Número tarjeta"
+
+#~ msgid "Only digits are allowed"
+#~ msgstr "Sólo se permiten números"
+
+#~ msgid "is not supported. Please enter one of the supported credit cards."
+#~ msgstr "no se admite. Por favor usa uno de los tipos de tarjeta admitidos."
+
+#~ msgid "Invalid credit card number."
+#~ msgstr "Número de tarjeta no válido."
+
+#~ msgid "Please enter your card's security code."
+#~ msgstr ""
+#~ "Por favor, introduce el código de seguridad de tu tarjeta de crédito."
+
+#~ msgid "Please enter your credit card information."
+#~ msgstr "Por favor, introduce la información de tu tarjeta de crédito."
+
+#~ msgid "Credit Card"
+#~ msgstr "Tarjeta crédito"
+
+#~ msgid "%d of %d items shown. Edit field to view all"
+#~ msgstr "%d de %d elementos mostrados. Edita este campo para verlos todos."
+
+#~ msgid "Sign up%s for an API key pair for your site."
+#~ msgstr "Regístrate%s para obtener una pareja de claves API para tu sitio."
+
+#~ msgid "To use the reCAPTCHA field you must do the following:"
+#~ msgstr "Para utilizar el campo reCAPTCHA debes hacer lo siguiente:"
+
+#~ msgid "The reCAPTCHA was invalid. Go back and try it again."
+#~ msgstr "El reCAPTCHA es no válido. Vuelve atrás e inténtalo de nuevo."
+
+#~ msgid "The CAPTCHA wasn't entered correctly. Go back and try it again."
+#~ msgstr "El CAPTCHA introducido no es correcto. Vuelve e inténtalo de nuevo."
+
+#~ msgid "CAPTCHA"
+#~ msgstr "CAPTCHA"
+
+#~ msgid "Price:"
+#~ msgstr "Precio:"
+
+#~ msgid "Qty:"
+#~ msgstr "Cantidad:"
+
+#~ msgid "Quantity:"
+#~ msgstr "Cantidad:"
+
+#~ msgid "Please enter a valid quantity"
+#~ msgstr "Introduce una cantidad valida"
+
+#~ msgid "Yukon"
+#~ msgstr "Yukon"
+
+#~ msgid "Saskatchewan"
+#~ msgstr "Saskatchewan"
+
+#~ msgid "Quebec"
+#~ msgstr "Quebec"
+
+#~ msgid "Prince Edward Island"
+#~ msgstr "Prince Edward Island"
+
+#~ msgid "Ontario"
+#~ msgstr "Ontario"
+
+#~ msgid "Nunavut"
+#~ msgstr "Nunavut"
+
+#~ msgid "Nova Scotia"
+#~ msgstr "Nova Scotia"
+
+#~ msgid "Northwest Territories"
+#~ msgstr "Northwest Territories"
+
+#~ msgid "Newfoundland & Labrador"
+#~ msgstr "Newfoundland & Labrador"
+
+#~ msgid "New Brunswick"
+#~ msgstr "New Brunswick"
+
+#~ msgid "Manitoba"
+#~ msgstr "Manitoba"
+
+#~ msgid "British Columbia"
+#~ msgstr "British Columbia"
+
+#~ msgid "Alberta"
+#~ msgstr "Alberta"
+
+#~ msgid "Armed Forces Pacific"
+#~ msgstr "Armed Forces Pacific"
+
+#~ msgid "Armed Forces Europe"
+#~ msgstr "Armed Forces Europe"
+
+#~ msgid "Armed Forces Americas"
+#~ msgstr "Armed Forces Americas"
+
+#~ msgid "Wyoming"
+#~ msgstr "Wyoming"
+
+#~ msgid "Wisconsin"
+#~ msgstr "Wisconsin"
+
+#~ msgid "West Virginia"
+#~ msgstr "West Virginia"
+
+#~ msgid "Washington"
+#~ msgstr "Washington"
+
+#~ msgid "Virginia"
+#~ msgstr "Virginia"
+
+#~ msgid "Vermont"
+#~ msgstr "Vermont"
+
+#~ msgid "Utah"
+#~ msgstr "Utah"
+
+#~ msgid "Texas"
+#~ msgstr "Texas"
+
+#~ msgid "Tennessee"
+#~ msgstr "Tennessee"
+
+#~ msgid "South Dakota"
+#~ msgstr "South Dakota"
+
+#~ msgid "South Carolina"
+#~ msgstr "South Carolina"
+
+#~ msgid "Rhode Island"
+#~ msgstr "Rhode Island"
+
+#~ msgid "Pennsylvania"
+#~ msgstr "Pennsylvania"
+
+#~ msgid "Oregon"
+#~ msgstr "Oregon"
+
+#~ msgid "Oklahoma"
+#~ msgstr "Oklahoma"
+
+#~ msgid "Ohio"
+#~ msgstr "Ohio"
+
+#~ msgid "North Dakota"
+#~ msgstr "North Dakota"
+
+#~ msgid "North Carolina"
+#~ msgstr "North Carolina"
+
+#~ msgid "New York"
+#~ msgstr "New York"
+
+#~ msgid "New Mexico"
+#~ msgstr "New Mexico"
+
+#~ msgid "New Jersey"
+#~ msgstr "New Jersey"
+
+#~ msgid "New Hampshire"
+#~ msgstr "New Hampshire"
+
+#~ msgid "Nevada"
+#~ msgstr "Nevada"
+
+#~ msgid "Nebraska"
+#~ msgstr "Nebraska"
+
+#~ msgid "Montana"
+#~ msgstr "Montana"
+
+#~ msgid "Missouri"
+#~ msgstr "Missouri"
+
+#~ msgid "Mississippi"
+#~ msgstr "Mississippi"
+
+#~ msgid "Minnesota"
+#~ msgstr "Minnesota"
+
+#~ msgid "Michigan"
+#~ msgstr "Michigan"
+
+#~ msgid "Massachusetts"
+#~ msgstr "Massachusetts"
+
+#~ msgid "Maryland"
+#~ msgstr "Maryland"
+
+#~ msgid "Maine"
+#~ msgstr "Maine"
+
+#~ msgid "Louisiana"
+#~ msgstr "Louisiana"
+
+#~ msgid "Kentucky"
+#~ msgstr "Kentucky"
+
+#~ msgid "Kansas"
+#~ msgstr "Kansas"
+
+#~ msgid "Iowa"
+#~ msgstr "Iowa"
+
+#~ msgid "Indiana"
+#~ msgstr "Indiana"
+
+#~ msgid "Illinois"
+#~ msgstr "Illinois"
+
+#~ msgid "Idaho"
+#~ msgstr "Idaho"
+
+#~ msgid "Hawaii"
+#~ msgstr "Hawaii"
+
+#~ msgid "Florida"
+#~ msgstr "Florida"
+
+#~ msgid "District of Columbia"
+#~ msgstr "District of Columbia"
+
+#~ msgid "Delaware"
+#~ msgstr "Delaware"
+
+#~ msgid "Connecticut"
+#~ msgstr "Connecticut"
+
+#~ msgid "Colorado"
+#~ msgstr "Colorado"
+
+#~ msgid "California"
+#~ msgstr "California"
+
+#~ msgid "Arkansas"
+#~ msgstr "Arkansas"
+
+#~ msgid "Arizona"
+#~ msgstr "Arizona"
+
+#~ msgid "Alaska"
+#~ msgstr "Alaska"
+
+#~ msgid "Alabama"
+#~ msgstr "Alabama"
+
+#~ msgid "ZIMBABWE"
+#~ msgstr "ZIMBABUE"
+
+#~ msgid "ZAMBIA"
+#~ msgstr "ZAMBIA"
+
+#~ msgid "YEMEN"
+#~ msgstr "YEMEN"
+
+#~ msgid "VIETNAM"
+#~ msgstr "VIETNAM"
+
+#~ msgid "VIRGIN ISLANDS, U.S."
+#~ msgstr "ISLAS VÍRGENES DE LOS ESTADOS UNIDOS"
+
+#~ msgid "VIRGIN ISLANDS, BRITISH"
+#~ msgstr "ISLAS VÍRGENES BRITÁNICAS"
+
+#~ msgid "VENEZUELA"
+#~ msgstr "VENEZUELA"
+
+#~ msgid "VATICAN CITY"
+#~ msgstr "CIUDAD DEL VATICANO"
+
+#~ msgid "VANUATU"
+#~ msgstr "VANUATU"
+
+#~ msgid "UZBEKISTAN"
+#~ msgstr "UZBEKISTÁN"
+
+#~ msgid "URUGUAY"
+#~ msgstr "URUGUAY"
+
+#~ msgid "UNITED STATES"
+#~ msgstr "ESTADOS UNIDOS"
+
+#~ msgid "UNITED KINGDOM"
+#~ msgstr "REINO UNIDO"
+
+#~ msgid "UNITED ARAB EMIRATES"
+#~ msgstr "EMIRATOS ÁRABES UNIDOS"
+
+#~ msgid "UKRAINE"
+#~ msgstr "UCRANIA"
+
+#~ msgid "UGANDA"
+#~ msgstr "UGANDA"
+
+#~ msgid "TUVALU"
+#~ msgstr "TUVALU"
+
+#~ msgid "TURKMENISTAN"
+#~ msgstr "TURKMENISTÁN"
+
+#~ msgid "TURKEY"
+#~ msgstr "TURQUÍA"
+
+#~ msgid "TUNISIA"
+#~ msgstr "TÚNEZ"
+
+#~ msgid "TRINIDAD AND TOBAGO"
+#~ msgstr "TRINIDAD Y TOBAGO"
+
+#~ msgid "TONGA"
+#~ msgstr "TONGA"
+
+#~ msgid "TOGO"
+#~ msgstr "TOGO"
+
+#~ msgid "THAILAND"
+#~ msgstr "TAILANDIA"
+
+#~ msgid "TANZANIA"
+#~ msgstr "TANZANIA"
+
+#~ msgid "TAJIKISTAN"
+#~ msgstr "TAYIKISTAN"
+
+#~ msgid "TAIWAN"
+#~ msgstr "TAIWAN"
+
+#~ msgid "SYRIA"
+#~ msgstr "SIRIA"
+
+#~ msgid "SWITZERLAND"
+#~ msgstr "SUIZA"
+
+#~ msgid "SWEDEN"
+#~ msgstr "SUECIA"
+
+#~ msgid "SWAZILAND"
+#~ msgstr "SUAZILANDIA"
+
+#~ msgid "SURINAME"
+#~ msgstr "SURINAM"
+
+#~ msgid "SUDAN, SOUTH"
+#~ msgstr "SUDAN DEL SUR"
+
+#~ msgid "SUDAN"
+#~ msgstr "SUDÁN"
+
+#~ msgid "SRI LANKA"
+#~ msgstr "SRI LANKA"
+
+#~ msgid "SPAIN"
+#~ msgstr "ESPAÑA"
+
+#~ msgid "SOUTH AFRICA"
+#~ msgstr "SUDÁFRICA"
+
+#~ msgid "SOMALIA"
+#~ msgstr "SOMALIA"
+
+#~ msgid "SOLOMON ISLANDS"
+#~ msgstr "ISLAS SALOMÓN"
+
+#~ msgid "SLOVENIA"
+#~ msgstr "ESLOVENIA"
+
+#~ msgid "SLOVAKIA"
+#~ msgstr "ESLOVAQUIA"
+
+#~ msgid "SINT MAARTEN"
+#~ msgstr "ISLA DE SAN MARTÍN"
+
+#~ msgid "SINGAPORE"
+#~ msgstr "SINGAPUR"
+
+#~ msgid "SIERRA LEONE"
+#~ msgstr "SIERRA LEONA"
+
+#~ msgid "SEYCHELLES"
+#~ msgstr "SEYCHELLES"
+
+#~ msgid "SERBIA"
+#~ msgstr "SERBIA"
+
+#~ msgid "SENEGAL"
+#~ msgstr "SENEGAL"
+
+#~ msgid "SAUDI ARABIA"
+#~ msgstr "ARABIA SAUDITA"
+
+#~ msgid "SAO TOME AND PRINCIPE"
+#~ msgstr "SANTO TOMÉ Y PRINCIPE"
+
+#~ msgid "SAN MARINO"
+#~ msgstr "SAN MARINO"
+
+#~ msgid "SAMOA"
+#~ msgstr "SAMOA"
+
+#~ msgid "SAINT VINCENT AND THE GRENADINES"
+#~ msgstr "SAN VICENTE Y LAS GRANADINAS"
+
+#~ msgid "SAINT LUCIA"
+#~ msgstr "SANTA LUCÍA"
+
+#~ msgid "SAINT KITTS AND NEVIS"
+#~ msgstr "SAN CRISTOBAL Y NIEVES"
+
+#~ msgid "RWANDA"
+#~ msgstr "RUANDA"
+
+#~ msgid "RUSSIA"
+#~ msgstr "RUSIA"
+
+#~ msgid "ROMANIA"
+#~ msgstr "RUMANÍA"
+
+#~ msgid "QATAR"
+#~ msgstr "CATAR"
+
+#~ msgid "PUERTO RICO"
+#~ msgstr "PUERTO RICO"
+
+#~ msgid "PORTUGAL"
+#~ msgstr "PORTUGAL"
+
+#~ msgid "POLAND"
+#~ msgstr "POLONIA"
+
+#~ msgid "PHILIPPINES"
+#~ msgstr "FILIPINAS"
+
+#~ msgid "PERU"
+#~ msgstr "PERU"
+
+#~ msgid "PARAGUAY"
+#~ msgstr "PARAGUAY"
+
+#~ msgid "PAPUA NEW GUINEA"
+#~ msgstr "PAPÚA NUEVA GUINEA"
+
+#~ msgid "PANAMA"
+#~ msgstr "PANAMA"
+
+#~ msgid "PALESTINE, STATE OF"
+#~ msgstr "PALESTINE, ESTADO DE"
+
+#~ msgid "PALAU"
+#~ msgstr "PALAU"
+
+#~ msgid "PAKISTAN"
+#~ msgstr "PAKISTÁN"
+
+#~ msgid "OMAN"
+#~ msgstr "OMÁN"
+
+#~ msgid "NORWAY"
+#~ msgstr "NORUEGA"
+
+#~ msgid "NORTHERN MARIANA ISLANDS"
+#~ msgstr "ISLAS MARIANAS DEL NORTE"
+
+#~ msgid "NIGERIA"
+#~ msgstr "NIGERIA"
+
+#~ msgid "NIGER"
+#~ msgstr "NÍGER"
+
+#~ msgid "NICARAGUA"
+#~ msgstr "NICARAGUA"
+
+#~ msgid "NEW ZEALAND"
+#~ msgstr "NUEVA ZELANDA"
+
+#~ msgid "NETHERLANDS"
+#~ msgstr "PAISES BAJOS"
+
+#~ msgid "NEPAL"
+#~ msgstr "NEPAL"
+
+#~ msgid "NAURU"
+#~ msgstr "NAURU"
+
+#~ msgid "NAMIBIA"
+#~ msgstr "NAMIBIA"
+
+#~ msgid "MYANMAR"
+#~ msgstr "MYANMAR"
+
+#~ msgid "MOZAMBIQUE"
+#~ msgstr "MOZAMBIQUE"
+
+#~ msgid "MOROCCO"
+#~ msgstr "MARRUECOS"
+
+#~ msgid "MONTENEGRO"
+#~ msgstr "MONTENEGRO"
+
+#~ msgid "MONGOLIA"
+#~ msgstr "MONGOLIA"
+
+#~ msgid "MONACO"
+#~ msgstr "MONACO"
+
+#~ msgid "MOLDOVA"
+#~ msgstr "MOLDAVIA"
+
+#~ msgid "MICRONESIA"
+#~ msgstr "MICRONESIA"
+
+#~ msgid "MEXICO"
+#~ msgstr "MÉXICO"
+
+#~ msgid "MAURITIUS"
+#~ msgstr "MAURICIO"
+
+#~ msgid "MAURITANIA"
+#~ msgstr "MAURITANIA"
+
+#~ msgid "MARSHALL ISLANDS"
+#~ msgstr "ISLAS MARSHALL"
+
+#~ msgid "MALTA"
+#~ msgstr "MALTA"
+
+#~ msgid "MALI"
+#~ msgstr "MALI"
+
+#~ msgid "MALDIVES"
+#~ msgstr "MALDIVAS"
+
+#~ msgid "MALAYSIA"
+#~ msgstr "MALASIA"
+
+#~ msgid "MALAWI"
+#~ msgstr "MALAWI"
+
+#~ msgid "MADAGASCAR"
+#~ msgstr "MADAGASCAR"
+
+#~ msgid "MACEDONIA"
+#~ msgstr "MACEDONIA"
+
+#~ msgid "LUXEMBOURG"
+#~ msgstr "LUXENBURGO"
+
+#~ msgid "LITHUANIA"
+#~ msgstr "LITUANIA"
+
+#~ msgid "LIECHTENSTEIN"
+#~ msgstr "LIECHTENSTEIN"
+
+#~ msgid "LIBYA"
+#~ msgstr "LIBIA"
+
+#~ msgid "LIBERIA"
+#~ msgstr "LIBERIA"
+
+#~ msgid "LESOTHO"
+#~ msgstr "LESOTO"
+
+#~ msgid "LEBANON"
+#~ msgstr "LÍBANO"
+
+#~ msgid "LATVIA"
+#~ msgstr "LITUANIA"
+
+#~ msgid "LAOS"
+#~ msgstr "LAOS"
+
+#~ msgid "KYRGYZSTAN"
+#~ msgstr "KIRGUISTÁN"
+
+#~ msgid "KUWAIT"
+#~ msgstr "KUWAIT"
+
+#~ msgid "KOSOVO"
+#~ msgstr "KOSOVO"
+
+#~ msgid "SOUTH KOREA"
+#~ msgstr "COREA DEL SUR"
+
+#~ msgid "NORTH KOREA"
+#~ msgstr "COREA DEL NORTE"
+
+#~ msgid "KIRIBATI"
+#~ msgstr "KIRIBATI"
+
+#~ msgid "KENYA"
+#~ msgstr "KENIA"
+
+#~ msgid "KAZAKHSTAN"
+#~ msgstr "KAZAJISTÁN"
+
+#~ msgid "JORDAN"
+#~ msgstr "JORDANIA"
+
+#~ msgid "JAPAN"
+#~ msgstr "JAPÓN"
+
+#~ msgid "JAMAICA"
+#~ msgstr "JAMAICA"
+
+#~ msgid "ITALY"
+#~ msgstr "ITALIA"
+
+#~ msgid "ISRAEL"
+#~ msgstr "ISRAEL"
+
+#~ msgid "IRELAND"
+#~ msgstr "IRLANDA"
+
+#~ msgid "IRAQ"
+#~ msgstr "IRAQ"
+
+#~ msgid "IRAN"
+#~ msgstr "IRAN"
+
+#~ msgid "INDONESIA"
+#~ msgstr "INDONESIA"
+
+#~ msgid "INDIA"
+#~ msgstr "INDIA"
+
+#~ msgid "ICELAND"
+#~ msgstr "ISLANDIA"
+
+#~ msgid "HUNGARY"
+#~ msgstr "HUNGRÍA"
+
+#~ msgid "HONG KONG"
+#~ msgstr "HONG KONG"
+
+#~ msgid "HONDURAS"
+#~ msgstr "HONDURAS"
+
+#~ msgid "HAITI"
+#~ msgstr "HAITÍ"
+
+#~ msgid "GUYANA"
+#~ msgstr "GUYANA"
+
+#~ msgid "GUINEA-BISSAU"
+#~ msgstr "GUINEA BISSAU"
+
+#~ msgid "GUINEA"
+#~ msgstr "GUINEA"
+
+#~ msgid "GUATEMALA"
+#~ msgstr "GUATEMALA"
+
+#~ msgid "GUAM"
+#~ msgstr "GUAM"
+
+#~ msgid "GRENADA"
+#~ msgstr "GRANADA"
+
+#~ msgid "GREENLAND"
+#~ msgstr "GROENLANDIA"
+
+#~ msgid "GREECE"
+#~ msgstr "GRECIA"
+
+#~ msgid "GHANA"
+#~ msgstr "GHANA"
+
+#~ msgid "GERMANY"
+#~ msgstr "ALEMANIA"
+
+#~ msgid "GAMBIA"
+#~ msgstr "GAMBIA"
+
+#~ msgid "GABON"
+#~ msgstr "GABÓN"
+
+#~ msgid "FRANCE"
+#~ msgstr "FRANCIA"
+
+#~ msgid "FINLAND"
+#~ msgstr "FINLANDIA"
+
+#~ msgid "FIJI"
+#~ msgstr "FIJI"
+
+#~ msgid "FAROE ISLANDS"
+#~ msgstr "ISLAS FAROE"
+
+#~ msgid "ETHIOPIA"
+#~ msgstr "ETIOPÍA"
+
+#~ msgid "ESTONIA"
+#~ msgstr "ESTONIA"
+
+#~ msgid "ERITREA"
+#~ msgstr "ERITREA"
+
+#~ msgid "EQUATORIAL GUINEA"
+#~ msgstr "GUINEA ECUATORIAL"
+
+#~ msgid "EL SALVADOR"
+#~ msgstr "EL SALVADOR"
+
+#~ msgid "EGYPT"
+#~ msgstr "EGIPTO"
+
+#~ msgid "ECUADOR"
+#~ msgstr "ECUADOR"
+
+#~ msgid "EAST TIMOR"
+#~ msgstr "TIMOR ORIENTAL"
+
+#~ msgid "DOMINICAN REPUBLIC"
+#~ msgstr "REPÚBLICA DOMINICANA"
+
+#~ msgid "DOMINICA"
+#~ msgstr "DOMINICA"
+
+#~ msgid "DJIBOUTI"
+#~ msgstr "YIBUTI"
+
+#~ msgid "DENMARK"
+#~ msgstr "DINAMARCA"
+
+#~ msgid "CZECH REPUBLIC"
+#~ msgstr "REPÚBLICA CHECA"
+
+#~ msgid "CYPRUS"
+#~ msgstr "CHIPRE"
+
+#~ msgid "CURAÇAO"
+#~ msgstr "CURAZAO"
+
+#~ msgid "CUBA"
+#~ msgstr "CUBA"
+
+#~ msgid "CROATIA"
+#~ msgstr "CROACIA"
+
+#~ msgid "CÔTE D'IVOIRE"
+#~ msgstr "COSTA DE MARFIL"
+
+#~ msgid "COSTA RICA"
+#~ msgstr "COSTA RICA"
+
+#~ msgid "CONGO, REPUBLIC OF THE"
+#~ msgstr "CONGO, REPÚBLICA DEL "
+
+#~ msgid "CONGO, DEMOCRATIC REPUBLIC OF THE"
+#~ msgstr "CONGO, REPÚBLICA DEMOCRÁTICA DEL"
+
+#~ msgid "COMOROS"
+#~ msgstr "COMOROS"
+
+#~ msgid "COLOMBIA"
+#~ msgstr "COLOMBIA"
+
+#~ msgid "CHINA"
+#~ msgstr "CHINA"
+
+#~ msgid "CHILE"
+#~ msgstr "CHILE"
+
+#~ msgid "CHAD"
+#~ msgstr "CHAD"
+
+#~ msgid "CENTRAL AFRICAN REPUBLIC"
+#~ msgstr "REPÚBLICA CENTROAFRICANA"
+
+#~ msgid "CAYMAN ISLANDS"
+#~ msgstr "ISLAS CAIMÁN"
+
+#~ msgid "CAPE VERDE"
+#~ msgstr "CABO VERDE"
+
+#~ msgid "CANADA"
+#~ msgstr "CANADÁ"
+
+#~ msgid "CAMEROON"
+#~ msgstr "CAMERÚN"
+
+#~ msgid "CAMBODIA"
+#~ msgstr "CAMBOYA"
+
+#~ msgid "BURUNDI"
+#~ msgstr "BURUNDI"
+
+#~ msgid "BURKINA FASO"
+#~ msgstr "BURKINA FASO"
+
+#~ msgid "BULGARIA"
+#~ msgstr "BULGARIA"
+
+#~ msgid "BRUNEI"
+#~ msgstr "BRUNEI"
+
+#~ msgid "BRAZIL"
+#~ msgstr "BRASIL"
+
+#~ msgid "BOTSWANA"
+#~ msgstr "BOTSWANA"
+
+#~ msgid "BOSNIA AND HERZEGOVINA"
+#~ msgstr "BOSNIA Y HERZEGOVINA"
+
+#~ msgid "BOLIVIA"
+#~ msgstr "BOLIVIA"
+
+#~ msgid "BHUTAN"
+#~ msgstr "BUTÁN"
+
+#~ msgid "BERMUDA"
+#~ msgstr "BERMUDA"
+
+#~ msgid "BENIN"
+#~ msgstr "BENIN"
+
+#~ msgid "BELIZE"
+#~ msgstr "BELICE"
+
+#~ msgid "BELGIUM"
+#~ msgstr "BÉLGICA"
+
+#~ msgid "BELARUS"
+#~ msgstr "BIELORUSIA"
+
+#~ msgid "BARBADOS"
+#~ msgstr "BARBADOS"
+
+#~ msgid "BANGLADESH"
+#~ msgstr "BANGLADESH"
+
+#~ msgid "BAHRAIN"
+#~ msgstr "BARÉIN"
+
+#~ msgid "BAHAMAS"
+#~ msgstr "BAHAMAS"
+
+#~ msgid "AZERBAIJAN"
+#~ msgstr "AZERBAIYÁN"
+
+#~ msgid "AUSTRIA"
+#~ msgstr "AUSTRIA"
+
+#~ msgid "AUSTRALIA"
+#~ msgstr "AUSTRALIA"
+
+#~ msgid "ARMENIA"
+#~ msgstr "ARMENIA"
+
+#~ msgid "ARGENTINA"
+#~ msgstr "ARGENTINA"
+
+#~ msgid "ANTIGUA AND BARBUDA"
+#~ msgstr "ANTIGUA Y BARBUDA"
+
+#~ msgid "ANGOLA"
+#~ msgstr "ANGOLA"
+
+#~ msgid "ANDORRA"
+#~ msgstr "ANDORRA"
+
+#~ msgid "AMERICAN SAMOA"
+#~ msgstr "SAMOA AMERICANA"
+
+#~ msgid "ALGERIA"
+#~ msgstr "ALGERIA"
+
+#~ msgid "ALBANIA"
+#~ msgstr "ALBANIA"
+
+#~ msgid "AFGHANISTAN"
+#~ msgstr "AFGHANISTÁN"
+
+#~ msgid "Zimbabwe"
+#~ msgstr "Zimbaue"
+
+#~ msgid "Zambia"
+#~ msgstr "Zambia"
+
+#~ msgid "Yemen"
+#~ msgstr "Yemen"
+
+#~ msgid "Virgin Islands, U.S."
+#~ msgstr "Islas Vírgenes de los Estados Unidos"
+
+#~ msgid "Virgin Islands, British"
+#~ msgstr "Islas Vírgenes Británicas"
+
+#~ msgid "Vietnam"
+#~ msgstr "Vietnam"
+
+#~ msgid "Venezuela"
+#~ msgstr "Venezuela"
+
+#~ msgid "Vatican City"
+#~ msgstr "Ciudad del Vaticano"
+
+#~ msgid "Vanuatu"
+#~ msgstr "Vanuatu"
+
+#~ msgid "Uzbekistan"
+#~ msgstr "Uzbekistán"
+
+#~ msgid "Uruguay"
+#~ msgstr "Uruguay"
+
+#~ msgid "United Kingdom"
+#~ msgstr "Reino Unido"
+
+#~ msgid "United Arab Emirates"
+#~ msgstr "Emiratos Árabes Unidos"
+
+#~ msgid "Ukraine"
+#~ msgstr "Ucrania"
+
+#~ msgid "Uganda"
+#~ msgstr "Uganda"
+
+#~ msgid "Tuvalu"
+#~ msgstr "Tuvalu"
+
+#~ msgid "Turkmenistan"
+#~ msgstr "Turkmenistán"
+
+#~ msgid "Turkey"
+#~ msgstr "Turquía"
+
+#~ msgid "Tunisia"
+#~ msgstr "Túnez"
+
+#~ msgid "Trinidad and Tobago"
+#~ msgstr "Trinidad y Tobago"
+
+#~ msgid "Tonga"
+#~ msgstr "Tonga"
+
+#~ msgid "Togo"
+#~ msgstr "Togo"
+
+#~ msgid "Thailand"
+#~ msgstr "Tailandia"
+
+#~ msgid "Tanzania"
+#~ msgstr "Tanzania"
+
+#~ msgid "Tajikistan"
+#~ msgstr "Tayikistán"
+
+#~ msgid "Taiwan"
+#~ msgstr "Taiwan"
+
+#~ msgid "Syria"
+#~ msgstr "Siria"
+
+#~ msgid "Switzerland"
+#~ msgstr "Suiza"
+
+#~ msgid "Sweden"
+#~ msgstr "Suecia"
+
+#~ msgid "Swaziland"
+#~ msgstr "Swazilandia"
+
+#~ msgid "Suriname"
+#~ msgstr "Surinam"
+
+#~ msgid "Sudan, South"
+#~ msgstr "Sudán del Sur"
+
+#~ msgid "Sudan"
+#~ msgstr "Sudán"
+
+#~ msgid "Sri Lanka"
+#~ msgstr "Sri Lanka"
+
+#~ msgid "South Africa"
+#~ msgstr "Sudáfrica"
+
+#~ msgid "Somalia"
+#~ msgstr "Somalia"
+
+#~ msgid "Solomon Islands"
+#~ msgstr "Islas Salomón"
+
+#~ msgid "Slovenia"
+#~ msgstr "Eslovenia"
+
+#~ msgid "Slovakia"
+#~ msgstr "Eslovaquia"
+
+#~ msgid "Sint Maarten"
+#~ msgstr "Sint Maarten"
+
+#~ msgid "Singapore"
+#~ msgstr "Singapur"
+
+#~ msgid "Sierra Leone"
+#~ msgstr "Sierra Leona"
+
+#~ msgid "Seychelles"
+#~ msgstr "Seychelles"
+
+#~ msgid "Serbia"
+#~ msgstr "Serbia"
+
+#~ msgid "Senegal"
+#~ msgstr "Senegal"
+
+#~ msgid "Saudi Arabia"
+#~ msgstr "Arabia Saudita"
+
+#~ msgid "Sao Tome and Principe"
+#~ msgstr "Santo Tomé y Principe"
+
+#~ msgid "San Marino"
+#~ msgstr "San Marino"
+
+#~ msgid "Samoa"
+#~ msgstr "Samoa"
+
+#~ msgid "Saint Vincent and the Grenadines"
+#~ msgstr "San Vicente y las Granadinas"
+
+#~ msgid "Saint Lucia"
+#~ msgstr "Santa Lucía"
+
+#~ msgid "Saint Kitts and Nevis"
+#~ msgstr "San Cristóbal y Nieves"
+
+#~ msgid "Rwanda"
+#~ msgstr "Ruanda"
+
+#~ msgid "Russia"
+#~ msgstr "Rusia"
+
+#~ msgid "Romania"
+#~ msgstr "Rumanía"
+
+#~ msgid "Qatar"
+#~ msgstr "Qatar"
+
+#~ msgid "Puerto Rico"
+#~ msgstr "Puerto Rico"
+
+#~ msgid "Portugal"
+#~ msgstr "Portugal"
+
+#~ msgid "Poland"
+#~ msgstr "Polonia"
+
+#~ msgid "Philippines"
+#~ msgstr "Filipinas"
+
+#~ msgid "Peru"
+#~ msgstr "Perú"
+
+#~ msgid "Paraguay"
+#~ msgstr "Paraguay"
+
+#~ msgid "Papua New Guinea"
+#~ msgstr "Papúa Nueva Guinea"
+
+#~ msgid "Panama"
+#~ msgstr "Panamá"
+
+#~ msgid "Palestine, State of"
+#~ msgstr "Palestina, Estado de"
+
+#~ msgid "Palau"
+#~ msgstr "Palau"
+
+#~ msgid "Pakistan"
+#~ msgstr "Pakistán"
+
+#~ msgid "Oman"
+#~ msgstr "Omán"
+
+#~ msgid "Norway"
+#~ msgstr "Noruega"
+
+#~ msgid "Northern Mariana Islands"
+#~ msgstr "Islas Marianas del Norte"
+
+#~ msgid "Nigeria"
+#~ msgstr "Nigeria"
+
+#~ msgid "Niger"
+#~ msgstr "Níger"
+
+#~ msgid "Nicaragua"
+#~ msgstr "Nicaragua"
+
+#~ msgid "New Zealand"
+#~ msgstr "Nueva Zelanda"
+
+#~ msgid "Netherlands"
+#~ msgstr "Paises Bajos"
+
+#~ msgid "Nepal"
+#~ msgstr "Nepal"
+
+#~ msgid "Nauru"
+#~ msgstr "Nauru"
+
+#~ msgid "Namibia"
+#~ msgstr "Namibia"
+
+#~ msgid "Myanmar"
+#~ msgstr "Myanmar"
+
+#~ msgid "Mozambique"
+#~ msgstr "Mozambique"
+
+#~ msgid "Morocco"
+#~ msgstr "Marruecos"
+
+#~ msgid "Montenegro"
+#~ msgstr "Montenegro"
+
+#~ msgid "Mongolia"
+#~ msgstr "Mongolia"
+
+#~ msgid "Monaco"
+#~ msgstr "Monaco"
+
+#~ msgid "Moldova"
+#~ msgstr "Moldavia"
+
+#~ msgid "Micronesia"
+#~ msgstr "Micronesia"
+
+#~ msgid "Mexico"
+#~ msgstr "Méjico"
+
+#~ msgid "Mauritius"
+#~ msgstr "Mauricio"
+
+#~ msgid "Mauritania"
+#~ msgstr "Mauritania"
+
+#~ msgid "Marshall Islands"
+#~ msgstr "Islas Marshall"
+
+#~ msgid "Malta"
+#~ msgstr "Malta"
+
+#~ msgid "Mali"
+#~ msgstr "Mali"
+
+#~ msgid "Maldives"
+#~ msgstr "Maldivas"
+
+#~ msgid "Malaysia"
+#~ msgstr "Malasia"
+
+#~ msgid "Malawi"
+#~ msgstr "Malawi"
+
+#~ msgid "Madagascar"
+#~ msgstr "Madagascar"
+
+#~ msgid "Macedonia"
+#~ msgstr "Macedonia"
+
+#~ msgid "Luxembourg"
+#~ msgstr "Luxemburgo"
+
+#~ msgid "Lithuania"
+#~ msgstr "Lituania"
+
+#~ msgid "Liechtenstein"
+#~ msgstr "Liechtenstein"
+
+#~ msgid "Libya"
+#~ msgstr "LIbia"
+
+#~ msgid "Liberia"
+#~ msgstr "Liberia"
+
+#~ msgid "Lesotho"
+#~ msgstr "Lesoto"
+
+#~ msgid "Lebanon"
+#~ msgstr "Líbano"
+
+#~ msgid "Latvia"
+#~ msgstr "Lituania"
+
+#~ msgid "Laos"
+#~ msgstr "Laos"
+
+#~ msgid "Kyrgyzstan"
+#~ msgstr "Kirguistán"
+
+#~ msgid "Kuwait"
+#~ msgstr "Kuwait"
+
+#~ msgid "Kosovo"
+#~ msgstr "Kosovo"
+
+#~ msgid "South Korea"
+#~ msgstr "Corea del Sur"
+
+#~ msgid "North Korea"
+#~ msgstr "Corea del Norte"
+
+#~ msgid "Kiribati"
+#~ msgstr "Kiribati"
+
+#~ msgid "Kenya"
+#~ msgstr "Kenia"
+
+#~ msgid "Kazakhstan"
+#~ msgstr "Kazajistán"
+
+#~ msgid "Jordan"
+#~ msgstr "Jordán"
+
+#~ msgid "Japan"
+#~ msgstr "Japón"
+
+#~ msgid "Jamaica"
+#~ msgstr "Jamaica"
+
+#~ msgid "Italy"
+#~ msgstr "Italia"
+
+#~ msgid "Israel"
+#~ msgstr "Israel"
+
+#~ msgid "Ireland"
+#~ msgstr "Irlanda"
+
+#~ msgid "Iraq"
+#~ msgstr "Iraq"
+
+#~ msgid "Iran"
+#~ msgstr "Irán"
+
+#~ msgid "Indonesia"
+#~ msgstr "Indonesia"
+
+#~ msgid "India"
+#~ msgstr "India"
+
+#~ msgid "Iceland"
+#~ msgstr "Islandia"
+
+#~ msgid "Hungary"
+#~ msgstr "Hungría"
+
+#~ msgid "Hong Kong"
+#~ msgstr "Hong Kong"
+
+#~ msgid "Honduras"
+#~ msgstr "Honduras"
+
+#~ msgid "Haiti"
+#~ msgstr "Haití"
+
+#~ msgid "Guyana"
+#~ msgstr "Guayana"
+
+#~ msgid "Guinea-Bissau"
+#~ msgstr "Guinea Bissau"
+
+#~ msgid "Guinea"
+#~ msgstr "Guinea"
+
+#~ msgid "Guatemala"
+#~ msgstr "Guatemala"
+
+#~ msgid "Guam"
+#~ msgstr "Guam"
+
+#~ msgid "Grenada"
+#~ msgstr "Granada"
+
+#~ msgid "Greenland"
+#~ msgstr "Groenlandia"
+
+#~ msgid "Greece"
+#~ msgstr "Grecia"
+
+#~ msgid "Ghana"
+#~ msgstr "Ghana"
+
+#~ msgid "Germany"
+#~ msgstr "Alemania"
+
+#~ msgid "Gambia"
+#~ msgstr "Gambia"
+
+#~ msgid "Gabon"
+#~ msgstr "Gabón"
+
+#~ msgid "French Polynesia"
+#~ msgstr "Polinesia Francesa"
+
+#~ msgid "France"
+#~ msgstr "Francia"
+
+#~ msgid "Finland"
+#~ msgstr "Finlancia"
+
+#~ msgid "Fiji"
+#~ msgstr "Fiji"
+
+#~ msgid "Faroe Islands"
+#~ msgstr "Islas Faroe"
+
+#~ msgid "Ethiopia"
+#~ msgstr "Etiopía"
+
+#~ msgid "Estonia"
+#~ msgstr "Estonia"
+
+#~ msgid "Eritrea"
+#~ msgstr "Eritrea"
+
+#~ msgid "Equatorial Guinea"
+#~ msgstr "Guinea Ecuatorial"
+
+#~ msgid "El Salvador"
+#~ msgstr "El Salvador"
+
+#~ msgid "Egypt"
+#~ msgstr "Egipto"
+
+#~ msgid "Ecuador"
+#~ msgstr "Ecuador"
+
+#~ msgid "East Timor"
+#~ msgstr "Timor Oriental"
+
+#~ msgid "Dominican Republic"
+#~ msgstr "República Dominicana"
+
+#~ msgid "Dominica"
+#~ msgstr "Dominica"
+
+#~ msgid "Djibouti"
+#~ msgstr "Djibouti"
+
+#~ msgid "Denmark"
+#~ msgstr "Dinamarca"
+
+#~ msgid "Czech Republic"
+#~ msgstr "República Checa"
+
+#~ msgid "Cyprus"
+#~ msgstr "Chipre"
+
+#~ msgid "Curaçao"
+#~ msgstr "Curazao"
+
+#~ msgid "Cuba"
+#~ msgstr "Cuba"
+
+#~ msgid "Croatia"
+#~ msgstr "Croacia"
+
+#~ msgid "Côte d'Ivoire"
+#~ msgstr "Costa de Marfil"
+
+#~ msgid "Costa Rica"
+#~ msgstr "Costa Rica"
+
+#~ msgid "Congo, Republic of the"
+#~ msgstr "Congo, República de"
+
+#~ msgid "Congo, Democratic Republic of the"
+#~ msgstr "Congo, República Democrática del"
+
+#~ msgid "Comoros"
+#~ msgstr "Comoras"
+
+#~ msgid "Colombia"
+#~ msgstr "Colombia"
+
+#~ msgid "China"
+#~ msgstr "China"
+
+#~ msgid "Chile"
+#~ msgstr "Chile"
+
+#~ msgid "Chad"
+#~ msgstr "Chad"
+
+#~ msgid "Central African Republic"
+#~ msgstr "República Centroafricana"
+
+#~ msgid "Cayman Islands"
+#~ msgstr "Islas Caimán"
+
+#~ msgid "Cape Verde"
+#~ msgstr "Cabo Verde"
+
+#~ msgid "Canada"
+#~ msgstr "Canada"
+
+#~ msgid "Cameroon"
+#~ msgstr "Camerún"
+
+#~ msgid "Cambodia"
+#~ msgstr "Camboya"
+
+#~ msgid "Burundi"
+#~ msgstr "Burundi"
+
+#~ msgid "Burkina Faso"
+#~ msgstr "Burkina Faso"
+
+#~ msgid "Bulgaria"
+#~ msgstr "Bulgaria"
+
+#~ msgid "Brunei"
+#~ msgstr "Brunei"
+
+#~ msgid "Brazil"
+#~ msgstr "Brasil"
+
+#~ msgid "Botswana"
+#~ msgstr "Botswana"
+
+#~ msgid "Bosnia and Herzegovina"
+#~ msgstr "Bosnia y Herzegovina"
+
+#~ msgid "Bolivia"
+#~ msgstr "Bolivia"
+
+#~ msgid "Bhutan"
+#~ msgstr "Bhután"
+
+#~ msgid "Bermuda"
+#~ msgstr "Bermuda"
+
+#~ msgid "Benin"
+#~ msgstr "Benin"
+
+#~ msgid "Belize"
+#~ msgstr "Belice"
+
+#~ msgid "Belgium"
+#~ msgstr "Bégica"
+
+#~ msgid "Belarus"
+#~ msgstr "Bielorusia"
+
+#~ msgid "Barbados"
+#~ msgstr "Barbados"
+
+#~ msgid "Bangladesh"
+#~ msgstr "Bangladesh"
+
+#~ msgid "Bahrain"
+#~ msgstr "Baréin"
+
+#~ msgid "Bahamas"
+#~ msgstr "Bahamas"
+
+#~ msgid "Azerbaijan"
+#~ msgstr "Azerbaiyán"
+
+#~ msgid "Austria"
+#~ msgstr "Austria"
+
+#~ msgid "Armenia"
+#~ msgstr "Armenia"
+
+#~ msgid "Argentina"
+#~ msgstr "Argentina"
+
+#~ msgid "Antigua and Barbuda"
+#~ msgstr "Antigua y Barbuda"
+
+#~ msgid "Angola"
+#~ msgstr "Angola"
+
+#~ msgid "Andorra"
+#~ msgstr "Andorra"
+
+#~ msgid "American Samoa"
+#~ msgstr "Samoa Americana"
+
+#~ msgid "Algeria"
+#~ msgstr "Argelia"
+
+#~ msgid "Albania"
+#~ msgstr "Albania"
+
+#~ msgid "Afghanistan"
+#~ msgstr "Afghanistán"
+
+#~ msgid "Canadian"
+#~ msgstr "Canadiense"
+
+#~ msgid "ZIP Code"
+#~ msgstr "Código Postal"
+
+#~ msgid "United States"
+#~ msgstr "Estados Unidos"
+
+#~ msgid "State / Province / Region"
+#~ msgstr "Estado / Provincia / Región"
+
+#~ msgid "ZIP / Postal Code"
+#~ msgstr "ZIP / Código Postal"
+
+#~ msgid "International"
+#~ msgstr "Internacional"
+
+#~ msgid "Address Line 2"
+#~ msgstr "Dirección 2"
+
+#~ msgid "Street Address"
+#~ msgstr "Dirección"
+
+#~ msgid "Zip Code"
+#~ msgstr "Código Postal"
+
+#~ msgid "This field is required. Please enter a complete address."
+#~ msgstr "Este campo es obligatorio. Introduce una dirección completa."
+
+#~ msgid "There was an an error while inserting a feed"
+#~ msgstr "Hubo un error al insertar un feed"
+
+#~ msgid "There was an an error while updating feed id %s"
+#~ msgstr "Hubo un error cuando se actualizaba el conector id %s"
+
+#~ msgid "Feed id %s not found"
+#~ msgstr "Feed con id %s no encontrado"
+
+#~ msgid "There was an an error while deleting feed id %s"
+#~ msgstr "Hubo un error cuando se borraba el conector id %s"
+
+#~ msgid "Feed not found"
+#~ msgstr "Feed no encontrado"
+
+#~ msgid "There was an error while processing the form:"
+#~ msgstr "Hubo un error al procesar el formulario:"
+
+#~ msgid "Your form could not be found"
+#~ msgstr "Tu formulario no se pudo encontrar"
+
+#~ msgid "Invalid entry id: %s"
+#~ msgstr "Id de entrada no válida: %s"
+
+#~ msgid "There was a problem while inserting the field values"
+#~ msgstr "Hubo un problema al insertar los valores del campo"
+
+#~ msgid "There was a problem while inserting the entry properties"
+#~ msgstr "Hubo un problema al insertar las propiedades de la entrada"
+
+#~ msgid "The form id must be specified"
+#~ msgstr "Debe especificarse la id del formulario"
+
+#~ msgid "The entry object must be an array"
+#~ msgstr "El objeto entrada debe ser un array"
+
+#~ msgid "There was a problem while updating the field values"
+#~ msgstr "Hubo un problema al actualizar los valores del campo"
+
+#~ msgid "There was a problem while updating the entry properties"
+#~ msgstr "Hubo un problema al actualizar las propiedades de la entrada"
+
+#~ msgid "The form for this entry does not exist"
+#~ msgstr "El formulario para esta entrada no existe."
+
+#~ msgid "Entry not found"
+#~ msgstr "Entrada no encontrada"
+
+#~ msgid "Missing entry id"
+#~ msgstr "Falta id de la entrada"
+
+#~ msgid "Entry with id %s not found"
+#~ msgstr "Entrada con id %s no encontrada"
+
+#~ msgid "There was a problem while inserting the form"
+#~ msgstr "Hubo un problema al insertar el formulario"
+
+#~ msgid "The form title is missing"
+#~ msgstr "No se encuentra el título del formulario"
+
+#~ msgid "Invalid form objects"
+#~ msgstr "Objetos de formulario no válidos"
+
+#~ msgid "Property key incorrect"
+#~ msgstr "Clave de la propiedad no válida"
+
+#~ msgid "Error updating title"
+#~ msgstr "Error al actualizar título"
+
+#~ msgid "Error updating form notifications"
+#~ msgstr "Error al actualizar las notificaciones del formulario"
+
+#~ msgid "Error updating form confirmations"
+#~ msgstr "Error al actualizar las confirmaciones del formulario"
+
+#~ msgid "Error updating form"
+#~ msgstr "Error al actualizar formulario"
+
+#~ msgid "Form not found"
+#~ msgstr "Formulario no encontrado"
+
+#~ msgid "Missing form id"
+#~ msgstr "Falta id del formulario"
+
+#~ msgid "Invalid form object"
+#~ msgstr "Objeto de formulario no válido"
+
+#~ msgid "Form with id: %s not found"
+#~ msgstr "Formulario con id: %s no encontrado"
+
+#~ msgid "Show more"
+#~ msgstr "Mostrar más"
+
+#~ msgid "Latest values:"
+#~ msgstr "Últimos valores:"
+
+#~ msgid "Item"
+#~ msgstr "Elemento"
+
+#~ msgid "Average global score"
+#~ msgstr "Puntuación media global"
+
+#~ msgid "No results"
+#~ msgstr "Sin resultados"
+
+#~ msgid "No results."
+#~ msgstr "Sin resultados."
+
+#~ msgid "Average Global Score"
+#~ msgstr "Puntuación media global"
+
+#~ msgid "Average Row Score"
+#~ msgstr "Puntuación media fila"
+
+#~ msgid "Aggregate Rank"
+#~ msgstr "Rango agregado"
+
+#~ msgid "This form does not have any fields that can be used for results"
+#~ msgstr ""
+#~ "Este formulario no tiene ningún campo que pueda que pueda ser usado para "
+#~ "mostrar resultados"
+
+#~ msgid "Clear"
+#~ msgstr "Limpiar"
+
+#~ msgid "Apply filters"
+#~ msgstr "Aplicar filtros"
+
+#~ msgid "Date Range"
+#~ msgstr "Rango de fechas"
+
+#~ msgid "View results generated by this form"
+#~ msgstr "Ver los resultados generados por este formulario"
+
+#~ msgid "Results Filters"
+#~ msgstr "Filtro de resultados"
+
+#~ msgid "Go to the last page"
+#~ msgstr "Ir a la última página"
+
+#~ msgid "Go to the next page"
+#~ msgstr "Ir a la siguiente página"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "Ir a la página anterior"
+
+#~ msgid "Go to the first page"
+#~ msgstr "Ir a la primera página"
+
+#~ msgid "%s items"
+#~ msgstr "%s elementos"
+
+#~ msgid "There hasn't been any sales in the specified date range."
+#~ msgstr "No ha habido ninguna venta en el rango de fechas especificado."
+
+#~ msgid "sales"
+#~ msgstr "ventas"
+
+#~ msgid "sale"
+#~ msgstr "venta"
+
+#~ msgid "Cancel Subscription"
+#~ msgstr "Cancelar suscripción"
+
+#~ msgid "The subscription could not be canceled. Please try again later."
+#~ msgstr ""
+#~ "No se ha podido cancelar la suscripción. Por favor inténtalo más tarde."
+
+#~ msgid "Canceled"
+#~ msgstr "Cancelada"
+
+#~ msgid "Payment Method"
+#~ msgstr "Forma de pago"
+
+#~ msgid "Select how you would like the sales data to be displayed."
+#~ msgstr "Selecciona como te gustaría mostrar los datos de ventas."
+
+#~ msgid "Monthly"
+#~ msgstr "Mensualmente"
+
+#~ msgid "Weekly"
+#~ msgstr "Semanalmente"
+
+#~ msgid "Daily"
+#~ msgstr "Diariamente"
+
+#~ msgid "Dec"
+#~ msgstr "Dic"
+
+#~ msgid "Nov"
+#~ msgstr "Nov"
+
+#~ msgid "Oct"
+#~ msgstr "Oct"
+
+#~ msgid "Sep"
+#~ msgstr "Sep"
+
+#~ msgid "Aug"
+#~ msgstr "Ago"
+
+#~ msgid "Jul"
+#~ msgstr "Jul"
+
+#~ msgid "Jun"
+#~ msgstr "Jun"
+
+#~ msgid "Apr"
+#~ msgstr "Abr"
+
+#~ msgid "Mar"
+#~ msgstr "Mar"
+
+#~ msgid "Feb"
+#~ msgstr "Feb"
+
+#~ msgid "Jan"
+#~ msgstr "Ene"
+
+#~ msgid "Day"
+#~ msgstr "Día"
+
+#~ msgid "Month"
+#~ msgstr "Mes"
+
+#~ msgid "Week"
+#~ msgstr "Semana"
+
+#~ msgid "Refunds"
+#~ msgstr "Reembolsos"
+
+#~ msgid "Recurring Payments"
+#~ msgstr "Pagos recurrentes"
+
+#~ msgid "Subscriptions"
+#~ msgstr "Suscripciones"
+
+#~ msgid "Orders"
+#~ msgstr "Pedidos"
+
+#~ msgid "Revenue"
+#~ msgstr "Ingresos"
+
+#~ msgid "There aren't any transactions that match your criteria."
+#~ msgstr "No hay transacciones que cumplan tu criterio."
+
+#~ msgid "orders"
+#~ msgstr "pedidos"
+
+#~ msgid "subscriptions"
+#~ msgstr "suscripciones"
+
+#~ msgid "Last 30 Days"
+#~ msgstr "Últimos 30 días"
+
+#~ msgid "Yesterday"
+#~ msgstr "Ayer"
+
+#~ msgid "Today"
+#~ msgstr "Hoy"
+
+#~ msgid "Select a product field"
+#~ msgstr "Elige un campo de producto"
+
+#~ msgid "year(s)"
+#~ msgstr "año(s)"
+
+#~ msgid "month(s)"
+#~ msgstr "mes(es)"
+
+#~ msgid "week(s)"
+#~ msgstr "semana(s)"
+
+#~ msgid "day(s)"
+#~ msgstr "día(s)"
+
+#~ msgid "Zip"
+#~ msgstr "Código postal"
+
+#~ msgid "City"
+#~ msgstr "Ciudad"
+
+#~ msgid "Address 2"
+#~ msgstr "Dirección 2"
+
+#~ msgid "Address"
+#~ msgstr "Dirección"
+
+#~ msgid "Sample Option"
+#~ msgstr "Opción de ejemplo"
+
+#~ msgid "Enter an amount"
+#~ msgstr "Introduce una cantidad"
+
+#~ msgid "Enabled"
+#~ msgstr "Activado"
+
+#~ msgid "Options"
+#~ msgstr "Opciones"
+
+#~ msgid "Map your Form Fields to the available listed fields."
+#~ msgstr ""
+#~ "Asigna los campos de tu formulario a los campos disponibles mostrados."
+
+#~ msgid "Billing Information"
+#~ msgstr "Información de facturación"
+
+#~ msgid "Other Settings"
+#~ msgstr "Otros ajustes"
+
+#~ msgid "Trial Period"
+#~ msgstr "Periodo de prueba"
+
+#~ msgid "Trial"
+#~ msgstr "Prueba"
+
+#~ msgid "Setup Fee"
+#~ msgstr "Coste de alta"
+
+#~ msgid "infinite"
+#~ msgstr "Infinitas"
+
+#~ msgid "Recurring Times"
+#~ msgstr "Nº de renovaciones"
+
+#~ msgid "Billing Cycle"
+#~ msgstr "Ciclo de facturación"
+
+#~ msgid "Select a transaction type."
+#~ msgstr "Selecciona un tipo de transacción."
+
+#~ msgid "Select a transaction type"
+#~ msgstr "Selecciona un tipo de transacción"
+
+#~ msgid "Enter a feed name to uniquely identify this setup."
+#~ msgstr ""
+#~ "Introduce un nombre de feed para identificar de forma única esta "
+#~ "configuración."
+
+#~ msgid "Unsupported transaction type"
+#~ msgstr "Tipo de transacción no admitida"
+
+#~ msgid "Donations"
+#~ msgstr "Donaciones"
+
+#~ msgid "Products and Services"
+#~ msgstr "Productos y servicios"
+
+#~ msgid "Subscription"
+#~ msgstr "Suscripción"
+
+#~ msgid "Transaction Type"
+#~ msgstr "Tipo de transacción"
+
+#~ msgid "Subscription has expired. Subscriber Id: %s"
+#~ msgstr "La suscripción ha caducado. Id de suscriptor: %s"
+
+#~ msgid "Subscription has been cancelled. Subscription Id: %s."
+#~ msgstr "La suscripción ha sido cancelada. Id suscripción: %s."
+
+#~ msgid "Subscription payment has failed. Amount: %s. Subscription Id: %s."
+#~ msgstr ""
+#~ "El pago de la suscripción ha fallado. Cantidad: %s. Id suscripción: %s."
+
+#~ msgid "Subscription has been paid. Amount: %s. Subscription Id: %s"
+#~ msgstr "La suscripción ha sido pagada. Cantidad: %s. Id suscripción: %s."
+
+#~ msgid "Subscription has been created. Subscription Id: %s."
+#~ msgstr "La suscripción ha sido creada. Id de suscripción: %s."
+
+#~ msgid "Authorization has been voided. Transaction Id: %s"
+#~ msgstr "La autorización ha sido anulada. Id de transacción: %s."
+
+#~ msgid "Payment has failed. Amount: %s."
+#~ msgstr "El pago ha fallado. Cantidad: %s."
+
+#~ msgid "Payment has been refunded. Amount: %s. Transaction Id: %s."
+#~ msgstr "El pago ha sido reembolsado. Cantidad: %s. Id de transacción: %s."
+
+#~ msgid "Payment has been completed. Amount: %s. Transaction Id: %s."
+#~ msgstr "El pago ha sido completado. Cantidad: %s. Id transacción: %s."
+
+#~ msgid "Payment has been authorized. Amount: %s. Transaction Id: %s."
+#~ msgstr "El pago ha sido autorizado. Cantidad: %s. Id de la transación: %s."
+
+#~ msgid "Payment is pending. Amount: %s. Transaction Id: %s."
+#~ msgstr "El pago está pendiente. Cantidad %s. Id transacción: %s."
+
+#~ msgid "This webhook has already been processed (Event Id: %s)"
+#~ msgstr "Este webhook ya ha sido procesado (Id de evento: %s)"
+
+#~ msgid "options:"
+#~ msgstr "opciones:"
+
+#~ msgid "Subscription failed to be created. Reason: %s"
+#~ msgstr "No se pudo crear la suscripción. Razón: %s"
+
+#~ msgid "Failed to capture %s. Reason: %s."
+#~ msgstr "Error al capturar %s. Razón %s."
+
+#~ msgid "%s has been captured successfully. Amount: %s. Transaction Id: %s"
+#~ msgstr ""
+#~ "%s ha sido capturado satisfactoriamente. Cantidad: %s. Id transacción: %s"
+
+#~ msgid "Initial payment"
+#~ msgstr "Pago inicial"
+
+#~ msgid "Payment failed to be captured. Reason: %s"
+#~ msgstr "No se pudo captura el pago. Razón: %s"
+
+#~ msgid "feeds"
+#~ msgstr "feeds"
+
+#~ msgid "feed"
+#~ msgstr "feed"
+
+#~ msgid "Checkbox"
+#~ msgstr "Casilla"
+
+#~ msgid ""
+#~ "Select which actions should only occur after payment has been received."
+#~ msgstr ""
+#~ "Selecciona qué acciones deberían ocurrir después de que se reciba un pago."
+
+#~ msgid "Post Payment Actions"
+#~ msgstr "Acciones posteriores al pago"
+
+#~ msgid "Process %s feed only when payment is received."
+#~ msgstr "Procesar feed de %s sólo cuando se recibe el pago."
+
+#~ msgid "Enable Condition"
+#~ msgstr "Activar condición"
+
+#~ msgid "Process this feed if"
+#~ msgstr "Procesar este feed si"
+
+#~ msgid "To get started, please configure your %s."
+#~ msgstr "Para empezar, por favor configura tus %s."
+
+#~ msgid "You don't have any feeds configured. Let's go %screate one%s!"
+#~ msgstr "Todavía no tienes ningún feed configurado. ¡Vamos, %screa uno%s!"
+
+#~ msgid "WARNING: You are about to delete this item."
+#~ msgstr "ATENCIÓN: Estás a punto de borrar este elemento."
+
+#~ msgid "Delete this feed"
+#~ msgstr "Borrar este feed"
+
+#~ msgid "Duplicate this feed"
+#~ msgstr "Duplicar este feed"
+
+#~ msgid "Edit this feed"
+#~ msgstr "Editar este feed"
+
+#~ msgid "Feed updated successfully."
+#~ msgstr "Feed actualizado correctamente."
+
+#~ msgid "Feed Settings"
+#~ msgstr "Ajustes del feed"
+
+#~ msgid "%s Feeds"
+#~ msgstr "Feeds de %s"
+
+#~ msgid "Your version of %s is up to date."
+#~ msgstr "Tu versión de %s está actualizada."
+
+#~ msgid "View version %s details"
+#~ msgstr "Ver detalles de la versión %s"
+
+#~ msgid "Oops!! Something went wrong.%sPlease try again or %scontact us%s."
+#~ msgstr ""
+#~ "¡¡Vaya!! Parece que algo ha ido mal. %sInténtalo de nuevo o %scontacta "
+#~ "con nosotros%s."
+
+#~ msgid "There is a new version of %s available."
+#~ msgstr "Hay una nueva versión de %s disponible."
+
+#~ msgid ""
+#~ "Gravity Forms %s is required. Activate it now or %spurchase it today!%s"
+#~ msgstr "Se necesita Gravity Forms %s. Actívalo ahora o %s¡cómpralo hoy!%s"
+
+#~ msgid "Uninstall Add-On"
+#~ msgstr "Desinstalar Add-on"
+
+#~ msgid "Uninstall %s Add-On"
+#~ msgstr "Desinstalar %s Add-On"
+
+#~ msgid "Warning"
+#~ msgstr "Atención"
+
+#~ msgid "Uninstall %s"
+#~ msgstr "Desinstalar %s"
+
+#~ msgid "Uninstall"
+#~ msgstr "Desinstalar"
+
+#~ msgid "You don't have sufficient permissions to update the settings."
+#~ msgstr "No tienes permisos suficientes para actualizar los ajustes."
+
+#~ msgid "%s Settings"
+#~ msgstr "Ajustes de %s"
+
+#~ msgid "This add-on needs to be updated. Please contact the developer."
+#~ msgstr ""
+#~ "Este add-on necesita actualizarse. Por favor contacta con el "
+#~ "desarrollador."
+
+#~ msgid "You don't have adequate permission to view this page"
+#~ msgstr "No tienes los permisos adecuados para ver esta página"
+
+#~ msgid "You don't have sufficient permissions to update the form settings."
+#~ msgstr ""
+#~ "No tienes permisos suficientes para actualizar los ajustes del formulario."
+
+#~ msgid "Validation Error"
+#~ msgstr "Error de validación"
+
+#~ msgid "Invalid value"
+#~ msgstr "Valor no válido"
+
+#~ msgid "Fix it"
+#~ msgstr "Corrígelo"
+
+#~ msgid "Update Settings"
+#~ msgstr "Actualizar ajustes"
+
+#~ msgid "Enable"
+#~ msgstr "Activar"
+
+#~ msgid "Add Custom Key"
+#~ msgstr "Añadir clave personalizada"
+
+#~ msgid "Full"
+#~ msgstr "Entero"
+
+#~ msgid "Select a %s Field"
+#~ msgstr "Selecciona un campo de %s"
+
+#~ msgid "Select a Field"
+#~ msgstr "Selecciona un campo"
+
+#~ msgid "Field"
+#~ msgstr "Campo"
+
+#~ msgid "Please add a %s field to your form."
+#~ msgstr "Por favor añade un campo de %s a tu formulario."
+
+#~ msgid "Form Field"
+#~ msgstr "Campo formulario"
+
+#~ msgid "Add Custom"
+#~ msgstr "Añadir personalizada"
+
+#~ msgid "There was an error while saving your settings"
+#~ msgstr "Hubo un error al guardar tus ajustes"
+
+#~ msgid "Settings updated"
+#~ msgstr "Ajustes actualizados"
+
+#~ msgid "Field type '%s' has not been implemented"
+#~ msgstr "El tipo de campo '%s' no ha sido implementado"
+
+#~ msgid "gform_noconflict_styles"
+#~ msgstr "gform_noconflict_styles"
+
+#~ msgid "gform_field_css_class"
+#~ msgstr "gform_field_css_class"
+
+#~ msgid "CSS Ready Classes"
+#~ msgstr "Clases CSS listas para usar"
+
+#~ msgid "CSS Targeting Samples"
+#~ msgstr "Ejemplos de CSS targeting"
+
+#~ msgid "CSS Selectors"
+#~ msgstr "Selectores CSS"
+
+#~ msgid "Designer Documentation"
+#~ msgstr "Documentación para diseñadores"
+
+#~ msgid "GFAddOn"
+#~ msgstr "GFAddOn"
+
+#~ msgid "Add-On Framework"
+#~ msgstr "Framework para Add-ons"
+
+#~ msgid "Web API"
+#~ msgstr "API Web"
+
+#~ msgid "API Functions"
+#~ msgstr "Funciones API"
+
+#~ msgid "Getting Started with the Gravity Forms API"
+#~ msgstr "Empezando con la API de Gravity Forms"
+
+#~ msgid "Developer Documentation"
+#~ msgstr "Documentación para desarrolladores"
+
+#~ msgid "Configuring Notifications"
+#~ msgstr "Configurando notificaciones"
+
+#~ msgid "Configuring Confirmations"
+#~ msgstr "Configurando confirmaciones"
+
+#~ msgid "Reviewing Form Submissions"
+#~ msgstr "Revisando envíos de formulario"
+
+#~ msgid "Embedding a Form"
+#~ msgstr "Insertando un formulario"
+
+#~ msgid "Creating a Form"
+#~ msgstr "Creando un formulario"
+
+#~ msgid "User Documentation"
+#~ msgstr "Documentación de usuario"
+
+#~ msgid "Gravity Forms Help"
+#~ msgstr "Ayuda de Gravity Forms"
+
+#~ msgid ""
+#~ "Select an action for this shortcode. Actions are added by some add-ons."
+#~ msgstr ""
+#~ "Selecciona una acción para este shortcode. Las acciones son añadidas por "
+#~ "algunos add-ons."
+
+#~ msgid "Select an action"
+#~ msgstr "Selecciona una acción"
+
+#~ msgid "Specify the starting tab index for the fields of this form."
+#~ msgstr ""
+#~ "Especifica el comienzo del índice del tabulador para los campos de este "
+#~ "formulario."
+
+#~ msgid "Specify whether or not to use AJAX to submit the form."
+#~ msgstr "Especificar si se utilizará AJAX para enviar el formulario o no."
+
+#~ msgid "Enable AJAX"
+#~ msgstr "Habilitar AJAX"
+
+#~ msgid "Whether or not do display the form description."
+#~ msgstr "Mostrar o no la descripción del formulario."
+
+#~ msgid "Display form description"
+#~ msgstr "Mostrar descripción del formulario."
+
+#~ msgid "Whether or not do display the form title."
+#~ msgstr "Mostrar el título del formulario o no."
+
+#~ msgid "Display form title"
+#~ msgstr "Mostrar título del formulario"
+
+#~ msgid "Can't find your form? Make sure it is active."
+#~ msgstr "¿No encuentras tu formulario? Asegúrate de que está activado."
+
+#~ msgid "Select a form from the list to add it to your post or page."
+#~ msgstr ""
+#~ "Selecciona un formulario de la lista para insertarlo en tu entrada o "
+#~ "página."
+
+#~ msgid "Select a form below to add it to your post or page."
+#~ msgstr ""
+#~ "Selecciona un formulario a continuación para añadirlo a tu entrada o "
+#~ "página."
+
+#~ msgid "Select a Form"
+#~ msgstr "Selecciona un formulario"
+
+#~ msgid "Error"
+#~ msgstr "Error"
+
+#~ msgid "View entries generated by this form"
+#~ msgstr "Ver entradas generadas por este formulario"
+
+#~ msgid "Edit this form"
+#~ msgstr "Editar este formulario"
+
+#~ msgid "Form Editor"
+#~ msgstr "Editor del formulario"
+
+#~ msgid "Inactive Forms"
+#~ msgstr "Formularios inactivos"
+
+#~ msgid "Active Forms"
+#~ msgstr "Formularios activos"
+
+#~ msgid "Select Form"
+#~ msgstr "Seleccionar formulario"
+
+#~ msgid "Switch Form"
+#~ msgstr "Cambiar de formulario"
+
+#~ msgid "The %sSend To%s email address provided is not valid."
+#~ msgstr "La dirección de email proporcionada para %sEnviar a%s no es válida."
+
+#~ msgid "There was an error while resending the notifications."
+#~ msgstr "Hubo un error al reenviar las notificaciones."
+
+#~ msgid "Add-On browser is currently unavailable. Please try again later."
+#~ msgstr ""
+#~ "El explorador de Add-On no está disponible. Por favor inténtelo más tarde."
+
+#~ msgid "Failed to load the preview for this form."
+#~ msgstr "No se pudo cargar la vista previa de este formulario."
+
+#~ msgid "Please select a form."
+#~ msgstr "Por favor selecciona un formulario."
+
+#~ msgid "Dismiss"
+#~ msgstr "Rechazar"
+
+#~ msgid "There is an update available for Gravity Forms. %sView Details%s"
+#~ msgstr ""
+#~ "Hay una actualización de Gravity Forms disponible. %sVer detalles%s."
+
+#~ msgid "You don't have any forms. Let's go %s create one %s!"
+#~ msgstr "No has creado ningún formulario todavía. ¡Vamos %s a crear uno%s!"
+
+#~ msgid "View All Forms"
+#~ msgstr "Ver todos los formularios"
+
+#~ msgid "Last Entry: %s"
+#~ msgstr "Ultima Entrada: %s"
+
+#~ msgid "View All Entries"
+#~ msgstr "Ver todas las entradas"
+
+#~ msgid "Unread"
+#~ msgstr "Sin leer"
+
+#~ msgid "Oops!! Something went wrong. %sPlease try again or %scontact us%s."
+#~ msgstr ""
+#~ "¡Vaya! Algo fue mal. %sInténtalo de nuevo o %scontacta con nosotros%s."
+
+#~ msgid "View version %s Details"
+#~ msgstr "Ver detalles de la versión %s"
+
+#~ msgid "There is a new version of Gravity Forms available."
+#~ msgstr "Hay una nueva versión de Gravity Forms disponible."
+
+#~ msgid "Please select a form"
+#~ msgstr "Selecciona un formulario"
+
+#~ msgid "Add Form"
+#~ msgstr "Añadir formulario"
+
+#~ msgid "Add-Ons"
+#~ msgstr "Add-Ons"
+
+#~ msgid "Updates"
+#~ msgstr "Actualizaciones"
+
+#~ msgid "Import/Export"
+#~ msgstr "Importar/Exportar"
+
+#~ msgid "Update Available"
+#~ msgstr "Actualización disponible"
+
+#~ msgid "You don't have adequate permission to edit entries."
+#~ msgstr "No tienes los permisos necesarios para editar entradas."
+
+#~ msgid "Copy %d"
+#~ msgstr "Copia %d"
+
+#~ msgid "Copy 1"
+#~ msgstr "Copia 1"
+
+#~ msgid "You don't have adequate permission to create forms."
+#~ msgstr "Usted no tiene el permiso adecuado para crear formularios."
+
+#~ msgid "Notification not found"
+#~ msgstr "Notificación no encontrada"
+
+#~ msgid "User Notification"
+#~ msgstr "Notificación del usuario"
+
+#~ msgid "This page does not exist."
+#~ msgstr "Esta página no existe"
+
+#~ msgid "\\'Cancel\\' to stop, \\'OK\\' to delete."
+#~ msgstr "\\'Cancelar\\' para parar, \\'OK\\' para borrar."
+
+#~ msgid "WARNING: You are about to delete this confirmation."
+#~ msgstr "ATENCIÓN: Estás a punto de borrar esta confirmación."
+
+#~ msgid "Delete this item"
+#~ msgstr "Borrar este elemento"
+
+#~ msgid "Edit this item"
+#~ msgstr "Editar este elemento"
+
+#~ msgid "Name"
+#~ msgstr "Nombre"
+
+#~ msgid "The link was sent to the following email address: {save_email}"
+#~ msgstr ""
+#~ "El enlace fue enviado a la siguiente dirección de email: {save_email}"
+
+#~ msgid "Save and Continue Email Sent Confirmation"
+#~ msgstr "Confirmación de email enviado para guardar y continuar"
+
+#~ msgid "Save and Continue Confirmation"
+#~ msgstr "Confirmación para guardar y continuar"
+
+#~ msgid "Link to continue {form_title}"
+#~ msgstr "Enlace para continuar {form_title}"
+
+#~ msgid "Save and Continue Email"
+#~ msgstr "Email para guardar y continuar"
+
+#~ msgid "Confirmation deleted."
+#~ msgstr "Confirmación borrada."
+
+#~ msgid "Confirmation saved successfully. %sBack to confirmations.%s"
+#~ msgstr ""
+#~ "Confirmación guardada correctamente. %sVolver a las confirmaciones.%s"
+
+#~ msgid "You must specify a valid Redirect URL."
+#~ msgstr "Debes especificar una URL de redirección válida."
+
+#~ msgid "You must select a Confirmation Page."
+#~ msgstr "Debes seleccionar una página de confirmación."
+
+#~ msgid "You must specify a Confirmation Name."
+#~ msgstr "Debes especificar un nombre de confirmación."
+
+#~ msgid "Redirect URL"
+#~ msgstr "URL para redirección"
+
+#~ msgid "Sample: phone={Phone:1}&email={Email:2}"
+#~ msgstr "Ejemplo: telefono={Teléfono:1}&email={Email:2}"
+
+#~ msgid "Pass Field Data Via Query String"
+#~ msgstr "Pasar datos de los campos via Query String"
+
+#~ msgid "Redirect Query String"
+#~ msgstr "Query String para redirección"
+
+#~ msgid "Select a page"
+#~ msgstr "Selecciona una página"
+
+#~ msgid "Message"
+#~ msgstr "Mensaje"
+
+#~ msgid "Redirect"
+#~ msgstr "Redirección"
+
+#~ msgid "Page"
+#~ msgstr "Página"
+
+#~ msgid "Confirmation Type"
+#~ msgstr "Tipo confirmación"
+
+#~ msgid "Confirmation Name"
+#~ msgstr "Nombre confirmación"
+
+#~ msgid "Save & Continue Email Input"
+#~ msgstr "Guardar y continuar la entrada de correo electrónico"
+
+#~ msgid "Save & Continue Token"
+#~ msgstr "Token de guardar continuar"
+
+#~ msgid "Save & Continue Link"
+#~ msgstr "Enlace de guardar y continuar"
+
+#~ msgid "Ajax error while updating confirmation"
+#~ msgstr "Error ajax al actualizar la confirmación"
+
+#~ msgid "Update Form Settings"
+#~ msgstr "Actualizar ajustes"
+
+#~ msgid "Form Options"
+#~ msgstr "Opciones del formulario"
+
+#~ msgid "Restrictions"
+#~ msgstr "Restricciones"
+
+#~ msgid "Form Button"
+#~ msgstr "Botón formulario"
+
+#~ msgid "Form Layout"
+#~ msgstr "Diseño de formulario"
+
+#~ msgid "Form Basics"
+#~ msgstr "Aspectos básicos"
+
+#~ msgid "Require Login Message"
+#~ msgstr "Mensaje de conexión obligatoria"
+
+#~ msgid "Require user to be logged in"
+#~ msgstr "Obligar al usuario a estar conectado"
+
+#~ msgid "Animated transitions"
+#~ msgstr "Transiciones animadas"
+
+#~ msgid "Enable anti-spam honeypot"
+#~ msgstr "Activar anti-spam honeypot"
+
+#~ msgid "Anti-spam honeypot"
+#~ msgstr "Anti-spam honeypot"
+
+#~ msgid "Form Expired Message"
+#~ msgstr "Mensaje de formulario caducado"
+
+#~ msgid "Form Pending Message"
+#~ msgstr "Mensaje de formulario pendiente"
+
+#~ msgid "Schedule Form End Date/Time"
+#~ msgstr "Fecha/Hora de finalización"
+
+#~ msgid "Schedule Start Date/Time"
+#~ msgstr "Fecha/Hora de inicio"
+
+#~ msgid "Schedule form"
+#~ msgstr "Programar formulario"
+
+#~ msgid "Entry Limit Reached Message"
+#~ msgstr "Mensaje de límite de entrada alcanzado"
+
+#~ msgid "Number of Entries"
+#~ msgstr "Número de entradas"
+
+#~ msgid "Limit number of entries"
+#~ msgstr "Limitar número de entradas"
+
+#~ msgid "per year"
+#~ msgstr "por año"
+
+#~ msgid "per month"
+#~ msgstr "por mes"
+
+#~ msgid "per week"
+#~ msgstr "por semana"
+
+#~ msgid "per day"
+#~ msgstr "por día"
+
+#~ msgid "Link text"
+#~ msgstr "Texto del enlace"
+
+#~ msgid "Enable Save and Continue"
+#~ msgstr "Activar guardar y continuar"
+
+#~ msgid "Save and Continue"
+#~ msgstr "Guardar y continuar"
+
+#~ msgid "Save and Continue Later"
+#~ msgstr "Guardar y continuar después"
+
+#~ msgid "Button conditional logic"
+#~ msgstr "Lógica condicional del botón"
+
+#~ msgid "Button image path"
+#~ msgstr "URL de la imagen"
+
+#~ msgid "Button text"
+#~ msgstr "Texto del botón"
+
+#~ msgid "Text"
+#~ msgstr "Texto"
+
+#~ msgid "Input type"
+#~ msgstr "Tipo de botón"
+
+#~ msgid "Description placement"
+#~ msgstr "Ubicación de la descripción"
+
+#~ msgid "Label placement"
+#~ msgstr "Ubicación de la etiqueta"
+
+#~ msgid "Form description"
+#~ msgstr "Descripción formulario"
+
+#~ msgid "Form title"
+#~ msgstr "Título formulario"
+
+#~ msgid "Form settings updated successfully."
+#~ msgstr "Ajustes del formulario actualizados correctamente."
+
+#~ msgid "Form Settings"
+#~ msgstr "Ajustes del formulario"
+
+#~ msgid "%s forms have been marked as inactive."
+#~ msgstr "Se han marcado %s formularios como inactivos"
+
+#~ msgid "%s forms have been marked as active."
+#~ msgstr "%s formularios se han marcado como activos."
+
+#~ msgid "Entries for %s forms have been deleted."
+#~ msgstr "Se han borrado las entradas de %s formularios"
+
+#~ msgid "Views for %s forms have been reset."
+#~ msgstr "Las vistas para %s formularios han sido reiniciadas."
+
+#~ msgid "You don't have adequate permissions to delete forms."
+#~ msgstr "No tienes los permisos adecuados para borrar formularios."
+
+#~ msgid "%s forms deleted."
+#~ msgstr "%s formularios borrados."
+
+#~ msgid "%s forms restored."
+#~ msgstr "%s formularios restaurados"
+
+#~ msgid "%s forms moved to the trash."
+#~ msgstr "%s formularios han sido movidos a la papelera."
+
+#~ msgid "Form duplicated."
+#~ msgstr "Formulario duplicado."
+
+#~ msgid "You don't have adequate permission to delete forms."
+#~ msgstr "No tienes los permisos necesarios para borrar formularios."
+
+#~ msgid "Form deleted."
+#~ msgstr "Formulario borrado."
+
+#~ msgid "Form restored."
+#~ msgstr "Formulario restaurado."
+
+#~ msgid "Form moved to the trash."
+#~ msgstr "Formulario movido a la papelera."
+
+#~ msgid "You don't have any forms. Let's go %screate one%s!"
+#~ msgstr "No tienes ningún formulario. ¡Vamos, %screa uno%s!"
+
+#~ msgid "There are no forms in the trash."
+#~ msgstr "No hay formularios en la papelera"
+
+#~ msgid "Duplicate this form"
+#~ msgstr "Duplicar este formulario"
+
+#~ msgid "Duplicate"
+#~ msgstr "Duplicar"
+
+#~ msgid "Select form"
+#~ msgstr "Selecciona formulario"
+
+#~ msgid "Conversion"
+#~ msgstr "Conversión"
+
+#~ msgid "Views"
+#~ msgstr "Vistas"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Move to trash"
+#~ msgstr "Mover a papelera"
+
+#~ msgid "Permanently Delete Entries"
+#~ msgstr "Borrar entradas permanentemente"
+
+#~ msgid "Reset Views"
+#~ msgstr "Reiniciar vistas"
+
+#~ msgid "Mark as Inactive"
+#~ msgstr "Marcar como inactivo"
+
+#~ msgid "Mark as Active"
+#~ msgstr "Marcar como activo"
+
+#~ msgid "Delete permanently"
+#~ msgstr "Borrar permanentemente"
+
+#~ msgid "Saved! Redirecting..."
+#~ msgstr "¡Guardado! Redirigiendo..."
+
+#~ msgid "Creating Form..."
+#~ msgstr "Creando formulario..."
+
+#~ msgid "Create a New Form"
+#~ msgstr "Crear nuevo formulario"
+
+#~ msgid "Please enter a unique form title."
+#~ msgstr "Por favor introduce un título de formulario único."
+
+#~ msgid "Please enter a form title."
+#~ msgstr "Introduce un título al formulario."
+
+#~ msgid "There was an issue creating your form."
+#~ msgstr "Hubo un problema al crear tu formulario."
+
+#~ msgid "Add New"
+#~ msgstr "Añadir nuevo"
+
+#~ msgid "Forms"
+#~ msgstr "Formularios"
+
+#~ msgid "'Cancel' to stop, 'OK' to reset."
+#~ msgstr "'Cancelar' para parar, 'Aceptar' para reiniciar."
+
+#~ msgid ""
+#~ "Are you sure you would like to reset the Views for the selected forms?"
+#~ msgstr ""
+#~ "¿Está seguro que desea restablecer las vistas de los formularios "
+#~ "seleccionados?"
+
+#~ msgid "'Cancel' to stop, 'OK' to delete."
+#~ msgstr "'Cancelar' para parar, 'Aceptar' para borrar."
+
+#~ msgid "Ajax error while updating form"
+#~ msgstr "Error ajax al actualizar el formulario"
+
+#~ msgid "Cancel to stop, OK to delete."
+#~ msgstr "Cancelar para parar, Aceptar para borrar."
+
+#~ msgid "Create Form"
+#~ msgstr "Crear formulario"
+
+#~ msgid "Form Description"
+#~ msgstr "Descripción del formulario"
+
+#~ msgid "Please enter a valid email address."
+#~ msgstr "Introduce un email válido."
+
+#~ msgid "Send Email"
+#~ msgstr "Enviar email"
+
+#~ msgid "Sorry. This form is no longer available."
+#~ msgstr "Lo siento.  Este formulario ya no está disponible."
+
+#~ msgid "This form is not yet available."
+#~ msgstr "Este formulario no está disponible todavía."
+
+#~ msgid "Sorry. This form is no longer accepting new submissions."
+#~ msgstr "Lo siento. Este formulario no acepta más envíos."
+
+#~ msgid "Step"
+#~ msgstr "Paso"
+
+#~ msgid "Next"
+#~ msgstr "Siguiente "
+
+#~ msgid "Next Page"
+#~ msgstr "Página siguiente"
+
+#~ msgid "Mismatch"
+#~ msgstr "No coinciden"
+
+#~ msgid "Strength indicator"
+#~ msgstr "Indicador de fortaleza"
+
+#~ msgid "max characters"
+#~ msgstr "caracteres máximos"
+
+#~ msgid "of"
+#~ msgstr "de"
+
+#~ msgid "No results matched"
+#~ msgstr "No hay resultados"
+
+#~ msgid "At least one field must be filled out"
+#~ msgstr "Debe rellenarse al menos un campo"
+
+#~ msgid "Invalid selection. Please select one of the available choices."
+#~ msgstr "Selección inválida. Introduce una de las opciones disponibles."
+
+#~ msgid "Please enter a valid value."
+#~ msgstr "Introduce un valor correcto."
+
+#~ msgid "This field requires a unique entry and '%s' has already been used"
+#~ msgstr "Este campo requiere una entrada única y '%s' ya ha sido usada."
+
+#~ msgid "This date has already been taken. Please select a new date."
+#~ msgstr "Esta fecha ya está cogida. Por favor, selecciona otra."
+
+#~ msgid "This field is required."
+#~ msgstr "Este campo es obligatorio."
+
+#~ msgid "This field is for validation purposes and should be left unchanged."
+#~ msgstr "Este campo es un campo de validación y debe quedar sin cambios."
+
+#~ msgid "Previous Page"
+#~ msgstr "Página anterior"
+
+#~ msgid "Errors have been highlighted below."
+#~ msgstr "Los errores se han resaltado a continuación."
+
+#~ msgid "There was a problem with your submission."
+#~ msgstr "Hubo un problema con tu envío."
+
+#~ msgid "Sorry. You must be logged in to view this form."
+#~ msgstr "Lo siento. Tienes que iniciar sesión para ver este formulario."
+
+#~ msgid "Oops! We could not locate your form."
+#~ msgstr "¡Vaya! No hemos podido localizar tu formulario."
+
+#~ msgid "Review Form"
+#~ msgstr "Revisar formulario"
+
+#~ msgid "Default Confirmation"
+#~ msgstr "Confirmación por defecto"
+
+#~ msgid "New submission from"
+#~ msgstr "Nuevos envíos de"
+
+#~ msgid "Admin Notification"
+#~ msgstr "Notificación del administrador"
+
+#~ msgid "Preview"
+#~ msgstr "Previsualizar"
+
+#~ msgid "Save Form"
+#~ msgstr "Guardar formulario"
+
+#~ msgid "Update Form"
+#~ msgstr "Actualizar formulario"
+
+#~ msgid "Move this form to the trash"
+#~ msgstr "Mover este formulario a la papelera"
+
+#~ msgid "Pricing Fields"
+#~ msgstr "Campos de precio"
+
+#~ msgid "Post Fields"
+#~ msgstr "Campos de entrada"
+
+#~ msgid "Enable Next Button Conditional Logic"
+#~ msgstr "Habilitar botón siguiente condicional"
+
+#~ msgid "Enable Page Conditional Logic"
+#~ msgstr "Habilitar página condicional"
+
+#~ msgid "Enable Conditional Logic"
+#~ msgstr "Activar lógica condicional"
+
+#~ msgid "Allow field to be populated dynamically"
+#~ msgstr "Permitir al campo rellenarse dinámicamente."
+
+#~ msgid "Use the Rich Text Editor"
+#~ msgstr "Usar el editor de texto enriquecido"
+
+#~ msgid "Admin Only"
+#~ msgstr "Solo Administradores"
+
+#~ msgid "Everyone"
+#~ msgstr "Todos"
+
+#~ msgid "Visibility"
+#~ msgstr "Visibilidad"
+
+#~ msgid "Force SSL"
+#~ msgstr "Forzar SSL"
+
+#~ msgid "Enable Password Input"
+#~ msgstr "Habilitar entrada de contraseña"
+
+#~ msgid "Delete Icon URL"
+#~ msgstr "Borrar URL del icono"
+
+#~ msgid "Add Icon URL"
+#~ msgstr "Añadir URL del icono"
+
+#~ msgid "Vietnamese"
+#~ msgstr "Vietnamita"
+
+#~ msgid "Urdu"
+#~ msgstr "Urdú"
+
+#~ msgid "Ukrainian"
+#~ msgstr "Ucraniano"
+
+#~ msgid "Turkish"
+#~ msgstr "Turco"
+
+#~ msgid "Thai"
+#~ msgstr "Tailandés"
+
+#~ msgid "Telugu"
+#~ msgstr "Télugu"
+
+#~ msgid "Tamil"
+#~ msgstr "Tamil"
+
+#~ msgid "Swedish"
+#~ msgstr "Sueco"
+
+#~ msgid "Spanish (Latin America)"
+#~ msgstr "Español (Latinoamérica)"
+
+#~ msgid "Spanish"
+#~ msgstr "Español"
+
+#~ msgid "Slovenian"
+#~ msgstr "Esloveno"
+
+#~ msgid "Slovak"
+#~ msgstr "Eslovaco"
+
+#~ msgid "Serbian"
+#~ msgstr "Serbio"
+
+#~ msgid "Russian"
+#~ msgstr "Ruso"
+
+#~ msgid "Romanian"
+#~ msgstr "Rumano"
+
+#~ msgid "Portuguese (Portugal)"
+#~ msgstr "Portugués (Portugal)"
+
+#~ msgid "Portuguese (Brazil)"
+#~ msgstr "Portugués (Brasíl)"
+
+#~ msgid "Portuguese"
+#~ msgstr "Portugués"
+
+#~ msgid "Polish"
+#~ msgstr "Polaco"
+
+#~ msgid "Persian"
+#~ msgstr "Persa"
+
+#~ msgid "Norwegian"
+#~ msgstr "Noruego"
+
+#~ msgid "Marathi"
+#~ msgstr "Marati"
+
+#~ msgid "Malayalam"
+#~ msgstr "Malabar"
+
+#~ msgid "Malay"
+#~ msgstr "Malayo"
+
+#~ msgid "Lithuanian"
+#~ msgstr "Lituano"
+
+#~ msgid "Latvian"
+#~ msgstr "Letón"
+
+#~ msgid "Korean"
+#~ msgstr "Coreano"
+
+#~ msgid "Kannada"
+#~ msgstr "Canarés"
+
+#~ msgid "Japanese"
+#~ msgstr "Japonés"
+
+#~ msgid "Italian"
+#~ msgstr "Italiano"
+
+#~ msgid "Indonesian"
+#~ msgstr "Indonesio"
+
+#~ msgid "Hungarian"
+#~ msgstr "Húngaro"
+
+#~ msgid "Hindi"
+#~ msgstr "Hindi"
+
+#~ msgid "Hebrew"
+#~ msgstr "Hebreo"
+
+#~ msgid "Greek"
+#~ msgstr "Griego"
+
+#~ msgid "German (Switzerland)"
+#~ msgstr "Alemán (Suizo)"
+
+#~ msgid "German (Austria)"
+#~ msgstr "Alemán (Austria)"
+
+#~ msgid "Gujarati"
+#~ msgstr "Guyaratí "
+
+#~ msgid "German"
+#~ msgstr "Alemán"
+
+#~ msgid "French (Canadian)"
+#~ msgstr "Francés (Canadiense)"
+
+#~ msgid "French"
+#~ msgstr "Francés"
+
+#~ msgid "Finnish"
+#~ msgstr "Finés"
+
+#~ msgid "Filipino"
+#~ msgstr "Filipino"
+
+#~ msgid "Estonian"
+#~ msgstr "Estón"
+
+#~ msgid "English (US)"
+#~ msgstr "Inglés (USA)"
+
+#~ msgid "English (UK)"
+#~ msgstr "Inglés (UK)"
+
+#~ msgid "Dutch"
+#~ msgstr "Holandés"
+
+#~ msgid "Danish"
+#~ msgstr "Danés"
+
+#~ msgid "Czech"
+#~ msgstr "Checo"
+
+#~ msgid "Croatian"
+#~ msgstr "Croata"
+
+#~ msgid "Chinese (Traditional)"
+#~ msgstr "Chino (Tradicional)"
+
+#~ msgid "Chinese (Simplified)"
+#~ msgstr "Chino (Simplificado)"
+
+#~ msgid "Catalan"
+#~ msgstr "Catalán"
+
+#~ msgid "Bulgarian"
+#~ msgstr "Búlgaro"
+
+#~ msgid "Bengali"
+#~ msgstr "Bengalí"
+
+#~ msgid "Arabic"
+#~ msgstr "Árabe"
+
+#~ msgid "Language"
+#~ msgstr "Idioma"
+
+#~ msgid "Credit Card Icon Style"
+#~ msgstr "Estilo icono tarjeta de crédito"
+
+#~ msgid "Activated by default"
+#~ msgstr "Activada por defecto"
+
+#~ msgid "Source Field"
+#~ msgstr "Campo origen"
+
+#~ msgid "Option Label"
+#~ msgstr "Etiqueta opción"
+
+#~ msgid ""
+#~ "To activate this option, please add a field to be used as the source."
+#~ msgstr ""
+#~ "Para activar esta opción, por favor añade un campo que sirva como origen."
+
+#~ msgid "Display option to use the values submitted in different field"
+#~ msgstr "Mostrar opción para usar los valores enviados en un campo diferente"
+
+#~ msgid "Default Values"
+#~ msgstr "Valores predeterminados"
+
+#~ msgid "Prefix Choices"
+#~ msgstr "Opciones para el prefijo"
+
+#~ msgid "Default Value"
+#~ msgstr "Valor predeterminado"
+
+#~ msgid "Admin Field Label"
+#~ msgstr "Etiqueta de administración del campo"
+
+#~ msgid "Field Size"
+#~ msgstr "Tamaño campo"
+
+#~ msgid "Enable enhanced user interface"
+#~ msgstr "Habilitar interfaz mejorada"
+
+#~ msgid "Custom CSS Class"
+#~ msgstr "Clase CSS personalizada"
+
+#~ msgid "Custom Validation Message"
+#~ msgstr "Mensaje de validación personalizado"
+
+#~ msgid "Sub-Label Placement"
+#~ msgstr "Ubicación de la subetiqueta"
+
+#~ msgid "Use Form Setting (%s)"
+#~ msgstr "Usar ajuste del formulario (%s)"
+
+#~ msgid "Description Placement"
+#~ msgstr "Ubicación de la descripción"
+
+#~ msgid "Visible (%s)"
+#~ msgstr "Visible (%s)"
+
+#~ msgid "Field Label Visibility"
+#~ msgstr "Visibilidad etiqueta del campo"
+
+#~ msgid "Below inputs"
+#~ msgstr "Debajo del campo"
+
+#~ msgid "Above inputs"
+#~ msgstr "Encima del campo"
+
+#~ msgid "Top aligned"
+#~ msgstr "Alineada arriba"
+
+#~ msgid "Right aligned"
+#~ msgstr "Alineada a la derecha"
+
+#~ msgid "Left aligned"
+#~ msgstr "Alineada a la izquierda"
+
+#~ msgid "Placeholders"
+#~ msgstr "Marcadores de contenido"
+
+#~ msgid "Placeholder text is not supported when using the Rich Text Editor."
+#~ msgstr ""
+#~ "El texto del marcador de posición no está permitido cuando se utiliza el "
+#~ "editor de texto enriquecido."
+
+#~ msgid "Placeholder"
+#~ msgstr "Marcador de contenido"
+
+#~ msgid "No Duplicates"
+#~ msgstr "Sin duplicados"
+
+#~ msgid "Required"
+#~ msgstr "Obligatorio"
+
+#~ msgid "Rules"
+#~ msgstr "Reglas"
+
+#~ msgid "Rounding"
+#~ msgstr "Redondeo"
+
+#~ msgid "Validate Formula"
+#~ msgstr "Validar fórmula"
+
+#~ msgid "There appears to be a problem with the formula."
+#~ msgstr "Parece que hay un problema con la fórmula."
+
+#~ msgid "The formula appears to be valid."
+#~ msgstr "La fórmula parece ser válida."
+
+#~ msgid "Formula"
+#~ msgstr "Fórmula"
+
+#~ msgid "Enable Calculation"
+#~ msgstr "Habilitar cálculo"
+
+#~ msgid "Max"
+#~ msgstr "Max"
+
+#~ msgid "Min"
+#~ msgstr "Min"
+
+#~ msgid "Range"
+#~ msgstr "Rango"
+
+#~ msgid "Maximum Characters"
+#~ msgstr "Caracteres máximos"
+
+#~ msgid "Select a Mask"
+#~ msgstr "Seleccionar una máscara"
+
+#~ msgid "Zip Code w/ Optional Plus Four"
+#~ msgstr "Código postal"
+
+#~ msgid "License Key"
+#~ msgstr "Licencia"
+
+#~ msgid "Course Code"
+#~ msgstr "Código curso"
+
+#~ msgid "Social Security Number"
+#~ msgstr "Número seguridad social"
+
+#~ msgid "Valid Input"
+#~ msgstr "Entrada correcta"
+
+#~ msgid "Mask"
+#~ msgstr "Máscara"
+
+#~ msgid "Examples"
+#~ msgstr "Ejemplos"
+
+#~ msgid "Use an asterisk '*' to indicate any alphanumeric character."
+#~ msgstr "Usa un asterisco '*' para indicar cualquier carácter alfanumérico."
+
+#~ msgid "Use a lower case 'a' to indicate an alphabetical character."
+#~ msgstr "Usa una 'a' minúscula para indicar un carácter alfabético."
+
+#~ msgid "Use a '9' to indicate a numerical character."
+#~ msgstr "Usa un '9' para indicar un carácter númerico."
+
+#~ msgid "Usage"
+#~ msgstr "Uso"
+
+#~ msgid "Help"
+#~ msgstr "Ayuda"
+
+#~ msgid "Custom Mask Instructions"
+#~ msgstr "Instrucciones"
+
+#~ msgid "Enter a custom mask"
+#~ msgstr "Introduce una máscara personalizada"
+
+#~ msgid "Input Mask"
+#~ msgstr "Máscara de entrada"
+
+#~ msgid "3D"
+#~ msgstr "3D"
+
+#~ msgid "Standard"
+#~ msgstr "Estándar"
+
+#~ msgid "Card Icon Style"
+#~ msgstr "Estilo icono de tarjeta"
+
+#~ msgid "Supported Credit Cards"
+#~ msgstr "Tarjetas de crédito admitidas"
+
+#~ msgid "Sub-Labels"
+#~ msgstr "Subetiquetas"
+
+#~ msgid "Currency"
+#~ msgstr "Moneda"
+
+#~ msgid "Number Format"
+#~ msgstr "Formato de número"
+
+#~ msgid "Strong"
+#~ msgstr "Segura"
+
+#~ msgid "Good"
+#~ msgstr "Buena"
+
+#~ msgid "Bad"
+#~ msgstr "Mala"
+
+#~ msgid "Short"
+#~ msgstr "Corta"
+
+#~ msgid "Minimum Strength"
+#~ msgstr "Seguridad mínima"
+
+#~ msgid "Enable \"other\" choice"
+#~ msgstr "Habilitar opción \"Otra\""
+
+#~ msgid "Enter name"
+#~ msgstr "Introduce un nombre"
+
+#~ msgid "Save as"
+#~ msgstr "Guardar como"
+
+#~ msgid "Save as new custom choice"
+#~ msgstr "Guardar como nueva opción personalizada"
+
+#~ msgid "Insert Choices"
+#~ msgstr "Insertar opciones"
+
+#~ msgid "Extra Large"
+#~ msgstr "Extra grande"
+
+#~ msgid "Extra Small"
+#~ msgstr "Extra pequeño"
+
+#~ msgid "Definitely Not"
+#~ msgstr "Seguro que no"
+
+#~ msgid "Probably Not"
+#~ msgstr "No creo"
+
+#~ msgid "Not Sure"
+#~ msgstr "No estoy seguro"
+
+#~ msgid "Probably"
+#~ msgstr "Probablemente"
+
+#~ msgid "Definitely"
+#~ msgstr "Por supuesto"
+
+#~ msgid "Would You"
+#~ msgstr "Lo harías"
+
+#~ msgid "Much Worse"
+#~ msgstr "Mucho peor"
+
+#~ msgid "Somewhat Worse"
+#~ msgstr "Algo peor"
+
+#~ msgid "About the Same"
+#~ msgstr "Casi lo mismo"
+
+#~ msgid "Somewhat Better"
+#~ msgstr "Algo mejor"
+
+#~ msgid "Much Better"
+#~ msgstr "Mucho mejor"
+
+#~ msgid "Comparison"
+#~ msgstr "Comparación"
+
+#~ msgid "Strongly Disagree"
+#~ msgstr "Completamente en desacuerdo"
+
+#~ msgid "Disagree"
+#~ msgstr "En desacuerdo"
+
+#~ msgid "Agree"
+#~ msgstr "De acuerdo"
+
+#~ msgid "Strongly Agree"
+#~ msgstr "Completamente de acuerdo"
+
+#~ msgid "Agreement"
+#~ msgstr "Acuerdo"
+
+#~ msgid "Not Important"
+#~ msgstr "Sin importancia"
+
+#~ msgid "Somewhat Important"
+#~ msgstr "Normal"
+
+#~ msgid "Important"
+#~ msgstr "Importante"
+
+#~ msgid "Very Important"
+#~ msgstr "Muy importante"
+
+#~ msgid "Importance"
+#~ msgstr "Importancia"
+
+#~ msgid "Very Unsatisfied"
+#~ msgstr "Muy insatisfecho"
+
+#~ msgid "Unsatisfied"
+#~ msgstr "Insatisfecho"
+
+#~ msgid "Neutral"
+#~ msgstr "Neutral"
+
+#~ msgid "Satisfied"
+#~ msgstr "Satisfecho"
+
+#~ msgid "Very Satisfied"
+#~ msgstr "Muy satisfecho"
+
+#~ msgid "Satisfaction"
+#~ msgstr "Satisfacción"
+
+#~ msgid "Never used"
+#~ msgstr "Nunca"
+
+#~ msgid "Over 3 Years"
+#~ msgstr "Más de 3 años"
+
+#~ msgid "1-3 years"
+#~ msgstr "1-3 años"
+
+#~ msgid "1-6 months"
+#~ msgstr "1-6 meses"
+
+#~ msgid "Less than a month"
+#~ msgstr "Menos de un mes"
+
+#~ msgid "How Long"
+#~ msgstr "Duración"
+
+#~ msgid "Less than once a month"
+#~ msgstr "Menos de una vez al mes"
+
+#~ msgid "2 to 3 times a month"
+#~ msgstr "De 2 a 3 veces al mes"
+
+#~ msgid "Once a month"
+#~ msgstr "Una vez al mes"
+
+#~ msgid "2 to 3 times a week"
+#~ msgstr "2 ó 3 veces a la semana"
+
+#~ msgid "Once a week"
+#~ msgstr "Una vez a la semana"
+
+#~ msgid "Everyday"
+#~ msgstr "Cada día"
+
+#~ msgid "How Often"
+#~ msgstr "Frecuencia"
+
+#~ msgid "December"
+#~ msgstr "Diciembre"
+
+#~ msgid "November"
+#~ msgstr "Noviembre"
+
+#~ msgid "October"
+#~ msgstr "Octubre"
+
+#~ msgid "September"
+#~ msgstr "Septiembre"
+
+#~ msgid "August"
+#~ msgstr "Agosto"
+
+#~ msgid "July"
+#~ msgstr "Julio"
+
+#~ msgid "June"
+#~ msgstr "Junio"
+
+#~ msgid "May"
+#~ msgstr "Mayo"
+
+#~ msgid "April"
+#~ msgstr "Abril"
+
+#~ msgid "March"
+#~ msgstr "Marzo"
+
+#~ msgid "February"
+#~ msgstr "Febrero"
+
+#~ msgid "January"
+#~ msgstr "Enero"
+
+#~ msgid "Months of the Year"
+#~ msgstr "Meses del año"
+
+#~ msgid "Saturday"
+#~ msgstr "Sábado"
+
+#~ msgid "Friday"
+#~ msgstr "Viernes"
+
+#~ msgid "Thursday"
+#~ msgstr "Jueves"
+
+#~ msgid "Wednesday"
+#~ msgstr "Miércoles"
+
+#~ msgid "Tuesday"
+#~ msgstr "Martes"
+
+#~ msgid "Monday"
+#~ msgstr "Lunes"
+
+#~ msgid "Sunday"
+#~ msgstr "Domingo"
+
+#~ msgid "Days of the Week"
+#~ msgstr "Días de la semana"
+
+#~ msgid "Some College"
+#~ msgstr "Materias universitarias cursadas"
+
+#~ msgid "Graduate of Professional Degree"
+#~ msgstr "Título de posgrado o profesional"
+
+#~ msgid "Bachelor's Degree"
+#~ msgstr "Licencitura"
+
+#~ msgid "Associate Degree"
+#~ msgstr "Diplomatura"
+
+#~ msgid "High School"
+#~ msgstr "Instituto"
+
+#~ msgid "Education"
+#~ msgstr "Educación"
+
+#~ msgid "$150,000 or more"
+#~ msgstr "$150.000 o más"
+
+#~ msgid "$100,000 - $150,000"
+#~ msgstr "$100.000 - $150.000"
+
+#~ msgid "$75,000 - $100,000"
+#~ msgstr "75 000 - 100 000"
+
+#~ msgid "$50,000 - $75,000"
+#~ msgstr "50 000 - 75 000"
+
+#~ msgid "$40,000 - $50,000"
+#~ msgstr "$40.000 - $50.000"
+
+#~ msgid "$30,000 - $40,000"
+#~ msgstr "$30.000 - $40.000"
+
+#~ msgid "$20,000 - $30,000"
+#~ msgstr "$20.000 - $30.000"
+
+#~ msgid "Under $20,000"
+#~ msgstr "Bajo $ 20.000"
+
+#~ msgid "Transportation/Logistics"
+#~ msgstr "Transporte/Logística"
+
+#~ msgid "Telecommunications"
+#~ msgstr "Telecomunicaciones"
+
+#~ msgid "Technology"
+#~ msgstr "Tecnología"
+
+#~ msgid "Skilled Labor"
+#~ msgstr "Trabajos cualificados"
+
+#~ msgid "Science/Research"
+#~ msgstr "Ciencia/Investigación"
+
+#~ msgid "Sales"
+#~ msgstr "Ventas"
+
+#~ msgid "Retail"
+#~ msgstr "Retail"
+
+#~ msgid "Restaurant/Food Service"
+#~ msgstr "Restaurante/Alimentación"
+
+#~ msgid "Real Estate"
+#~ msgstr "Inmobiliaria"
+
+#~ msgid "QA/Quality Control"
+#~ msgstr "Control de calidad"
+
+#~ msgid "Professional Services"
+#~ msgstr "Servicios profesionales"
+
+#~ msgid "Pharmaceutical/Biotech"
+#~ msgstr "Farmacéutico/Biotecnología"
+
+#~ msgid "Non-Profit/Volunteer"
+#~ msgstr "Sin ánimo de lucro/Voluntariado"
+
+#~ msgid "Marketing"
+#~ msgstr "Marketing"
+
+#~ msgid "Manufacturing/Operations"
+#~ msgstr "Operaciones/Manufacturación"
+
+#~ msgid "Management/Executive"
+#~ msgstr "Ejecutivo"
+
+#~ msgid "Legal"
+#~ msgstr "Legal"
+
+#~ msgid "Law Enforcement/Security"
+#~ msgstr "Seguridad/Fuerzas del orden"
+
+#~ msgid "Job Search Aids"
+#~ msgstr "Ayudas de búsqueda de empleo"
+
+#~ msgid "Internet"
+#~ msgstr "Internet"
+
+#~ msgid "Insurance"
+#~ msgstr "Seguros"
+
+#~ msgid "Installation/Maintenance"
+#~ msgstr "Mantenimiento/Instalaciones"
+
+#~ msgid "Human Resources"
+#~ msgstr "Recursos Humanos"
+
+#~ msgid "Hospitality/Travel"
+#~ msgstr "Restauración/Viajes"
+
+#~ msgid "Healthcare"
+#~ msgstr "Sanidad"
+
+#~ msgid "Government/Military"
+#~ msgstr "Gubernamental/Militar"
+
+#~ msgid "Engineering"
+#~ msgstr "Ingeniería"
+
+#~ msgid "Energy/Utilities"
+#~ msgstr "Energía/Utilidades"
+
+#~ msgid "Education/Training"
+#~ msgstr "Educación/Deportes"
+
+#~ msgid "Customer Service"
+#~ msgstr "Servicio al cliente"
+
+#~ msgid "Consumer Goods"
+#~ msgstr "Bienes de consumo"
+
+#~ msgid "Construction/Facilities"
+#~ msgstr "Construcción/Instalaciones"
+
+#~ msgid "Clerical/Administrative"
+#~ msgstr "Funcionario/Administrativo"
+
+#~ msgid "Business Opportunity"
+#~ msgstr "Oportunidades empresariales"
+
+#~ msgid "Business Development"
+#~ msgstr "Desarrollo de negocios"
+
+#~ msgid "Banking/Mortgage"
+#~ msgstr "Banca/Hipotecaria"
+
+#~ msgid "Automotive"
+#~ msgstr "Automóvil"
+
+#~ msgid "Arts/Entertainment/Publishing"
+#~ msgstr "Artes/Entretenimiento/Editorial"
+
+#~ msgid "Aerospace/Aviation"
+#~ msgstr "Aeroespacial/Aviación"
+
+#~ msgid "Advertising/Public Relations"
+#~ msgstr "Publicidad/Relaciones Públicas"
+
+#~ msgid "Accounting/Finance"
+#~ msgstr "Contabilidad/Finanzas"
+
+#~ msgid "Industry"
+#~ msgstr "Industria"
+
+#~ msgid "Seasonal"
+#~ msgstr "Temporal"
+
+#~ msgid "Intern"
+#~ msgstr "Interno"
+
+#~ msgid "Contract"
+#~ msgstr "Contrato"
+
+#~ msgid "Temporary"
+#~ msgstr "Temporal"
+
+#~ msgid "Employee"
+#~ msgstr "Empleado"
+
+#~ msgid "Per Diem"
+#~ msgstr "Por día"
+
+#~ msgid "Part-Time"
+#~ msgstr "A tiempo parcial"
+
+#~ msgid "Full-Time"
+#~ msgstr "A tiempo completo"
+
+#~ msgid "Job Type"
+#~ msgstr "Tipo de trabajo"
+
+#~ msgid "Student"
+#~ msgstr "Estudiante"
+
+#~ msgid "Retired"
+#~ msgstr "Retirado"
+
+#~ msgid "Homemaker"
+#~ msgstr "Ama de casa"
+
+#~ msgid "Not employed and not looking for work"
+#~ msgstr "Desempleado y sin buscar trabajo"
+
+#~ msgid "Not employed but looking for work"
+#~ msgstr "Desempleado en busca de trabajo"
+
+#~ msgid "Self-employed"
+#~ msgstr "Autónomo"
+
+#~ msgid "Employed Part-Time"
+#~ msgstr "A tiempo parcial"
+
+#~ msgid "Employed Full-Time"
+#~ msgstr "A tiempo completo"
+
+#~ msgid "Employment"
+#~ msgstr "Empleo"
+
+#~ msgid "Widowed"
+#~ msgstr "Viudo"
+
+#~ msgid "Divorced"
+#~ msgstr "Divorciado"
+
+#~ msgid "Married"
+#~ msgstr "Casado"
+
+#~ msgid "Single"
+#~ msgstr "Soltero"
+
+#~ msgid "Marital Status"
+#~ msgstr "Estado civil"
+
+#~ msgid "65 or Above"
+#~ msgstr "65 o más"
+
+#~ msgid "55-64"
+#~ msgstr "55-64"
+
+#~ msgid "45-54"
+#~ msgstr "45-54"
+
+#~ msgid "35-44"
+#~ msgstr "35-44"
+
+#~ msgid "25-34"
+#~ msgstr "25-34"
+
+#~ msgid "18-24"
+#~ msgstr "18-24"
+
+#~ msgid "Under 18"
+#~ msgstr "Menor de 18"
+
+#~ msgid "Age"
+#~ msgstr "Edad"
+
+#~ msgid "Prefer Not to Answer"
+#~ msgstr "Prefiero no responder"
+
+#~ msgid "Female"
+#~ msgstr "Mujer"
+
+#~ msgid "Male"
+#~ msgstr "Hombre"
+
+#~ msgid "Gender"
+#~ msgstr "Género"
+
+#~ msgid "South America"
+#~ msgstr "Sudamérica"
+
+#~ msgid "North America"
+#~ msgstr "Norte América"
+
+#~ msgid "Europe"
+#~ msgstr "Europa"
+
+#~ msgid "Australia"
+#~ msgstr "Australia"
+
+#~ msgid "Asia"
+#~ msgstr "Asia"
+
+#~ msgid "Antarctica"
+#~ msgstr "Antártida"
+
+#~ msgid "Africa"
+#~ msgstr "África"
+
+#~ msgid "Continents"
+#~ msgstr "Continentes"
+
+#~ msgid "Canadian Province/Territory"
+#~ msgstr "Provincias Canada"
+
+#~ msgid "U.S. States"
+#~ msgstr "Estados U.S."
+
+#~ msgid "Countries"
+#~ msgstr "Países"
+
+#~ msgid "Value"
+#~ msgstr "Valor"
+
+#~ msgid "Choices"
+#~ msgstr "Opciones"
+
+#~ msgid "Phone Format"
+#~ msgstr "Formato teléfono"
+
+#~ msgid "24 hour"
+#~ msgstr "24 horas"
+
+#~ msgid "12 hour"
+#~ msgstr "12 horas"
+
+#~ msgid "Time Format"
+#~ msgstr "Formato hora"
+
+#~ msgid "Maximum Rows"
+#~ msgstr "Filas máximas"
+
+#~ msgid "Enable multiple columns"
+#~ msgstr "Habilitar múltiples columnas"
+
+#~ msgid "Maximum File Size"
+#~ msgstr "Tamaño máximo de archivo"
+
+#~ msgid "Maximum Number of Files"
+#~ msgstr "Número máximo de archivos"
+
+#~ msgid "Enable Multi-File Upload"
+#~ msgstr "Activar subida múltiple"
+
+#~ msgid "Separated with commas (i.e. jpg, gif, png, pdf)"
+#~ msgstr "Separadas por comas (ej: jpg, gif, png, pdf)"
+
+#~ msgid "Allowed file extensions"
+#~ msgstr "Extensiones permitidas"
+
+#~ msgid "Customize Fields"
+#~ msgstr "Personalizar campos"
+
+#~ msgid "Date Format"
+#~ msgstr "Formato Fecha"
+
+#~ msgid "Preview this form to see your custom icon."
+#~ msgstr "Previsualiza este formulario para ver tu icono personalizado."
+
+#~ msgid "Custom Icon"
+#~ msgstr "Icono personalizado"
+
+#~ msgid "Calendar Icon"
+#~ msgstr "Icono calendario"
+
+#~ msgid "No Icon"
+#~ msgstr "Sin icono"
+
+#~ msgid "Date Drop Down"
+#~ msgstr "Desplegable"
+
+#~ msgid "Date Picker"
+#~ msgstr "Selector de fecha"
+
+#~ msgid "Date Field"
+#~ msgstr "Campo fecha"
+
+#~ msgid "Date Input Type"
+#~ msgstr "Tipo de fecha"
+
+#~ msgid "Name Fields"
+#~ msgstr "Campos de nombre"
+
+#~ msgid "Extended"
+#~ msgstr "Extendido"
+
+#~ msgid "Name Format"
+#~ msgstr "Formato del nombre"
+
+#~ msgid "Default Country"
+#~ msgstr "País predeterminado"
+
+#~ msgid "Default %s"
+#~ msgstr "Por defecto %s"
+
+#~ msgid "State"
+#~ msgstr "Provincia"
+
+#~ msgid "Address Fields"
+#~ msgstr "Campos de dirección"
+
+#~ msgid "Address Type"
+#~ msgstr "TIpo de dirección"
+
+#~ msgid "Set as Featured Image"
+#~ msgstr "Establecer como imagen destacada"
+
+#~ msgid "Caption"
+#~ msgstr "Leyenda"
+
+#~ msgid "Title"
+#~ msgstr "Título"
+
+#~ msgid "Image Metadata"
+#~ msgstr "Metadatos de imagen"
+
+#~ msgid "Create content template"
+#~ msgstr "Crear una plantilla de contenido"
+
+#~ msgid "Placeholder Label"
+#~ msgstr "Etiqueta marcador"
+
+#~ msgid "Display placeholder"
+#~ msgstr "Mostrar marcador"
+
+#~ msgid "Select Categories"
+#~ msgstr "Seleccionar categorías"
+
+#~ msgid "All Categories"
+#~ msgstr "Todas las categorías"
+
+#~ msgid "Category"
+#~ msgstr "Categoría"
+
+#~ msgid "Post Category"
+#~ msgstr "Categoría"
+
+#~ msgid "Post Format"
+#~ msgstr "Formato entrada"
+
+#~ msgid "Use logged in user as author"
+#~ msgstr "Usar usuario conectado como autor"
+
+#~ msgid "Default Post Author"
+#~ msgstr "Autor de la entrada"
+
+#~ msgid "Post Status"
+#~ msgstr "Estado entrada"
+
+#~ msgid "Select an existing custom field"
+#~ msgstr "Selecciona un campo personalizado ya existente"
+
+#~ msgid "New"
+#~ msgstr "Nuevo"
+
+#~ msgid "Existing"
+#~ msgstr "Existente"
+
+#~ msgid "Custom Field Name"
+#~ msgstr "Nombre campo personalizado"
+
+#~ msgid "Dark"
+#~ msgstr "Oscuro"
+
+#~ msgid "Light"
+#~ msgstr "Claro"
+
+#~ msgid "Theme"
+#~ msgstr "Tema"
+
+#~ msgid "Font Color"
+#~ msgstr "Color de fuente"
+
+#~ msgid "Small"
+#~ msgstr "Pequeño"
+
+#~ msgid "Size"
+#~ msgstr "Tamaño"
+
+#~ msgid "Math Challenge"
+#~ msgstr "Reto matemático"
+
+#~ msgid "Really Simple CAPTCHA"
+#~ msgstr "Really Simple CAPTCHA"
+
+#~ msgid "Type"
+#~ msgstr "Tipo"
+
+#~ msgid "List"
+#~ msgstr "Lista"
+
+#~ msgid "File Upload"
+#~ msgstr "Subida de archivo"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Website"
+#~ msgstr "Web"
+
+#~ msgid "Phone"
+#~ msgstr "Teléfono"
+
+#~ msgid "Time"
+#~ msgstr "Hora"
+
+#~ msgid "Advanced Fields"
+#~ msgstr "Campos avanzados"
+
+#~ msgid "Multi Select"
+#~ msgstr "Selector"
+
+#~ msgid "Paragraph Text"
+#~ msgstr "Párrafo"
+
+#~ msgid "Single line text"
+#~ msgstr "Línea de texto"
+
+#~ msgid "Standard Fields"
+#~ msgstr "Campos estándar"
+
+#~ msgid "Disable default margins"
+#~ msgstr "Desactivar márgenes por defecto"
+
+#~ msgid "Next Button"
+#~ msgstr "Botón siguiente"
+
+#~ msgid "Content"
+#~ msgstr "Contenido"
+
+#~ msgid "Number"
+#~ msgstr "Número"
+
+#~ msgid "Disable quantity field"
+#~ msgstr "Desactivar campo cantidad"
+
+#~ msgid "Single Method"
+#~ msgstr "Método único"
+
+#~ msgid "Calculation"
+#~ msgstr "Cálculo"
+
+#~ msgid "Hidden"
+#~ msgstr "Oculto"
+
+#~ msgid "User Defined Price"
+#~ msgstr "Definido por usuario"
+
+#~ msgid "Single Product"
+#~ msgstr "Producto único"
+
+#~ msgid "Product Field Mapping"
+#~ msgstr "Asignación de campo de producto"
+
+#~ msgid "Description"
+#~ msgstr "Descripción"
+
+#~ msgid "Field Label"
+#~ msgstr "Etiqueta del campo"
+
+#~ msgid "Advanced"
+#~ msgstr "Avanzado"
+
+#~ msgid "Return to Form List"
+#~ msgstr "Volver al listado de formularios"
+
+#~ msgid "I am done. Take me back to form list"
+#~ msgstr "Listo. Llévame al listado"
+
+#~ msgid "Continue Editing this Form"
+#~ msgstr "Continuar editando este formulario"
+
+#~ msgid "Continue editing this form"
+#~ msgstr "Continuar editando este formulario"
+
+#~ msgid "Setup Email Notifications for this Form"
+#~ msgstr "Configurar notificaciones de email para este formulario"
+
+#~ msgid "Setup email notifications for this form"
+#~ msgstr "Configurar notificaciones de email para este formulario"
+
+#~ msgid "Preview this Form"
+#~ msgstr "Previsualizar este Formulario"
+
+#~ msgid "Preview this form"
+#~ msgstr "Previsualizar este formulario"
+
+#~ msgid "What would you like to do next?"
+#~ msgstr "¿Qué quieres hacer ahora?"
+
+#~ msgid "You have successfully saved your form!"
+#~ msgstr "¡Has guardado tu formulario correctamente!"
+
+#~ msgid "Image Path:"
+#~ msgstr "Ruta Imagen:"
+
+#~ msgid "Text:"
+#~ msgstr "Texto:"
+
+#~ msgid "Image"
+#~ msgstr "Imagen"
+
+#~ msgid "Default"
+#~ msgstr "Predeterminado"
+
+#~ msgid "Previous Button"
+#~ msgstr "Botón anterior"
+
+#~ msgid "end of form"
+#~ msgstr "fin del formulario"
+
+#~ msgid "END PAGING"
+#~ msgstr "FINAL PAGINACIÓN"
+
+#~ msgid "end of last page"
+#~ msgstr "fin de la última página"
+
+#~ msgid "Edit Last Page"
+#~ msgstr "Editar última página"
+
+#~ msgid "You're done. That's it."
+#~ msgstr "Has acabado. Eso es todo."
+
+#~ msgid "Save Your New Form"
+#~ msgstr "Guarda tu nuevo formulario"
+
+#~ msgid "Save Your Form"
+#~ msgstr "Guarda tu formulario"
+
+#~ msgid "Drag up or down to arrange your fields."
+#~ msgstr "Arrástralos hacia arriba o hacia abajo para organizar tus campos."
+
+#~ msgid "Grab here with your cursor."
+#~ msgstr "Coge de aquí con el cursor."
+
+#~ msgid "Drag the fields to arrange them the way you prefer"
+#~ msgstr "Arrastra los campos para organizarlos de la forma que prefieras"
+
+#~ msgid "Drag to Arrange Fields"
+#~ msgstr "Arrastra para organizar los campos."
+
+#~ msgid "If you get stuck, mouseover the tool tips for a little help."
+#~ msgstr ""
+#~ "Si te atascas, mueve el ratón por encima de los iconos de ayuda para más "
+#~ "información."
+
+#~ msgid "Edit the field options. Go ahead.. go crazy."
+#~ msgstr "Edita las opciones del campo. Adelante... haz una locura."
+
+#~ msgid "Preview your changes up here."
+#~ msgstr "Puedes ver una previsualiación aquí arriba."
+
+#~ msgid "Click on the edit link to configure the various field options"
+#~ msgstr ""
+#~ "Clic en el enlace editar para configurar las distintas opciones del campo."
+
+#~ msgid "Edit Field Options"
+#~ msgstr "Editar opciones de campo"
+
+#~ msgid "Now your new field magically appears over here."
+#~ msgstr "Ahora, tu nuevo campo aparecerá por arte de magia aquí."
+
+#~ msgid "Click to Add A Field"
+#~ msgstr "Clic para añadir un campo"
+
+#~ msgid "Pick a field.. any field. Don't be shy."
+#~ msgstr "Escoge un campo, cualquiera. No seas tímido."
+
+#~ msgid "Start Over There"
+#~ msgstr "Empieza por aquí"
+
+#~ msgid "Select A Field Type"
+#~ msgstr "Selecciona un tipo de campo"
+
+#~ msgid "CSS Class Name"
+#~ msgstr "Nombre clase CSS"
+
+#~ msgid "Completion Text"
+#~ msgstr "Texto de finalización"
+
+#~ msgid "Display completed progress bar on confirmation"
+#~ msgstr "Mostrar barra de progreso completada en la confirmación"
+
+#~ msgid "Page Names"
+#~ msgstr "Nombre de páginas"
+
+#~ msgid "Background Color"
+#~ msgstr "Color de fondo"
+
+#~ msgid "Text Color"
+#~ msgstr "Color de texto"
+
+#~ msgid "Red"
+#~ msgstr "Rojo"
+
+#~ msgid "Orange"
+#~ msgstr "Naranja"
+
+#~ msgid "Green"
+#~ msgstr "Verde"
+
+#~ msgid "Gray"
+#~ msgstr "Gris"
+
+#~ msgid "Blue"
+#~ msgstr "Azul"
+
+#~ msgid "Style"
+#~ msgstr "Estílo"
+
+#~ msgid "Steps"
+#~ msgstr "Pasos"
+
+#~ msgid "Progress Bar"
+#~ msgstr "Barra progreso"
+
+#~ msgid "Progress Indicator"
+#~ msgstr "Indicador de progreso"
+
+#~ msgid "Appearance"
+#~ msgstr "Apariencia"
+
+#~ msgid "top of the first page"
+#~ msgstr "comienzo primera página"
+
+#~ msgid "START PAGING"
+#~ msgstr "COMIENZO PAGINACIÓN"
+
+#~ msgid "begin form"
+#~ msgstr "comienzo del formulario"
+
+#~ msgid "click to edit page options"
+#~ msgstr "clic para editar las opciones de página"
+
+#~ msgid "Form updated successfully."
+#~ msgstr "Formulario actualizado correctamente."
+
+#~ msgid "Please %scontact our support team%s."
+#~ msgstr "Por favor, %scontacta con nuestro equipo de soporte%s."
+
+#~ msgid "There was an error while saving your form."
+#~ msgstr "Hubo un error al guardar tu formulario."
+
+#~ msgid "New Form"
+#~ msgstr "Nuevo formulario"
+
+#~ msgid "User Agent"
+#~ msgstr "Agente de usuario"
+
+#~ msgid "Source Url"
+#~ msgstr "URL de origen"
+
+#~ msgid "Created By (User Id)"
+#~ msgstr "Creada por (ID de usuario)"
+
+#~ msgid "Exporting entries. Progress:"
+#~ msgstr "Exportando entradas. Progreso:"
+
+#~ msgid "End"
+#~ msgstr "Final"
+
+#~ msgid "Start"
+#~ msgstr "Comienzo"
+
+#~ msgid "Select Date Range"
+#~ msgstr "Rango de fechas"
+
+#~ msgid "Conditional Logic"
+#~ msgstr "Lógica condicional"
+
+#~ msgid "Select a form"
+#~ msgstr "Selecciona un formulario"
+
+#~ msgid "Select A Form"
+#~ msgstr "Selecciona un formulario"
+
+#~ msgid "Export entries if {0} of the following match:"
+#~ msgstr "Exportar entradas si {0} coincide:"
+
+#~ msgid "Select All"
+#~ msgstr "Seleccionar todos"
+
+#~ msgid "Deselect All"
+#~ msgstr "Deseleccionar todos"
+
+#~ msgid "Ajax error while selecting a form"
+#~ msgstr "Error ajax al seleccionar un formulario"
+
+#~ msgid "Export Entries"
+#~ msgstr "Exportar entradas"
+
+#~ msgid "Download Export File"
+#~ msgstr "Descargar archivo de exportación"
+
+#~ msgid "Select Forms"
+#~ msgstr "Selecciona los formularios"
+
+#~ msgid "Export Forms"
+#~ msgstr "Exportar formularios"
+
+#~ msgid "Import"
+#~ msgstr "Importar"
+
+#~ msgid "Select File"
+#~ msgstr "Selecciona un archivo"
+
+#~ msgid "Import Forms"
+#~ msgstr "Importar formularios"
+
+#~ msgid "Edit Form"
+#~ msgstr "Editar formulario"
+
+#~ msgid "form"
+#~ msgstr "formulario"
+
+#~ msgid "forms"
+#~ msgstr "formularios"
+
+#~ msgid "Please select the forms to be exported"
+#~ msgstr "Selecciona los formularios a exportar"
+
+#~ msgid "Please select the fields to be exported"
+#~ msgstr "Selecciona los campos a exportar"
+
+#~ msgid "Add page break between entries"
+#~ msgstr "Añadir salto de página entre entradas"
+
+#~ msgid "Include notes"
+#~ msgstr "Incluir notas"
+
+#~ msgid "Print all of the selected entries at once."
+#~ msgstr "Imprimir todas las entradas seleccionadas a la vez."
+
+#~ msgid "Close Window"
+#~ msgstr "Cerrar ventana"
+
+#~ msgid "Please select at least one entry..."
+#~ msgstr "Por favor selecciona al menos una entrada..."
+
+#~ msgid "Entry List"
+#~ msgstr "Listado de entradas"
+
+#~ msgid "Clear selection"
+#~ msgstr "Borrar selección"
+
+#~ msgid "All %s{0}%s entries have been selected."
+#~ msgstr "Las %s{0}%s han sido seleccionadas."
+
+#~ msgid "Select all %s{0}%s entries."
+#~ msgstr "Seleccionar las %s{0}%s entradas."
+
+#~ msgid "All %s{0}%s entries on this page are selected."
+#~ msgstr "Las %s{0}%s entradas en esta página han sido seleccionadas."
+
+#~ msgid "entries"
+#~ msgstr "entradas"
+
+#~ msgid "entry"
+#~ msgstr "entrada"
+
+#~ msgid "Notifications for %s were resent successfully."
+#~ msgstr "Las notificaciones para %s han sido reenviadas correctamente."
+
+#~ msgid "Print Entries"
+#~ msgstr "Imprimir entradas"
+
+#~ msgid "Please select at least one entry."
+#~ msgstr "Por favor selecciona al menos una entrada."
+
+#~ msgid "Ajax error while setting lead property"
+#~ msgstr "Error de Ajax al configurar la propiedad de una entrada"
+
+#~ msgid "%s unstarred."
+#~ msgstr "%s sin destacar."
+
+#~ msgid "%s starred."
+#~ msgstr "%s destacada."
+
+#~ msgid "%s marked as unread."
+#~ msgstr "%s marcada como sin leer."
+
+#~ msgid "%s marked as read."
+#~ msgstr "%s marcada como leída."
+
+#~ msgid "%s marked as spam."
+#~ msgstr "%s marcada como spam."
+
+#~ msgid "%s restored from the spam."
+#~ msgstr "%s restablecida desde la carpeta spam."
+
+#~ msgid "%s restored from the Trash."
+#~ msgstr "%s restablecidas desde la papelera."
+
+#~ msgid "%s moved to Trash."
+#~ msgstr "%s movidas a la Papelera."
+
+#~ msgid "%s deleted."
+#~ msgstr "%s eliminadas."
+
+#~ msgid "1 entry"
+#~ msgstr "1 entrada"
+
+#~ msgid "%d entries"
+#~ msgstr "%d entradas"
+
+#~ msgid "Entry deleted."
+#~ msgstr "Entrada eliminada."
+
+#~ msgid "Delete All Spam"
+#~ msgstr "Borrar todo el spam"
+
+#~ msgid "Empty Trash"
+#~ msgstr "Vaciar papelera"
+
+#~ msgid "Remove Star"
+#~ msgstr "Eliminar destacada"
+
+#~ msgid "Add Star"
+#~ msgstr "Añadir destacada"
+
+#~ msgid "Mark as Unread"
+#~ msgstr "Marcar como no leída"
+
+#~ msgid "Mark as Read"
+#~ msgstr "Marcar como leída"
+
+#~ msgid "Show more details"
+#~ msgstr "Mostrar más detalles"
+
+#~ msgid "Move this entry to the trash"
+#~ msgstr "Mover esta entrada a la papelera"
+
+#~ msgid "Mark this entry as spam"
+#~ msgstr "Marcar esta entrada como spam"
+
+#~ msgid "Mark unread"
+#~ msgstr "Marcar como no leída"
+
+#~ msgid "Mark this entry as unread"
+#~ msgstr "Marcar esta entrada como no leída"
+
+#~ msgid "Mark read"
+#~ msgstr "Marcar como leída"
+
+#~ msgid "Mark this entry as not spam"
+#~ msgstr "Marcar como no spam"
+
+#~ msgid "Delete this entry permanently"
+#~ msgstr "Borrar esta entrada permanentemente"
+
+#~ msgid "Restore this entry"
+#~ msgstr "Restaurar esta entrada"
+
+#~ msgid "View"
+#~ msgstr "Ver"
+
+#~ msgid "This form does not have any entries matching the search criteria."
+#~ msgstr ""
+#~ "Este formulario no tiene ninguna entrada que coincida con el criterio de "
+#~ "búsqueda."
+
+#~ msgid "This form does not have any entries in the trash."
+#~ msgstr "Este formulario no tiene entradas en la papelera."
+
+#~ msgid "This form does not have any spam."
+#~ msgstr "Este formulario no tiene spam."
+
+#~ msgid "This form does not have any starred entries."
+#~ msgstr "Este formulario no tiene entradas destacadas."
+
+#~ msgid "This form does not have any unread entries."
+#~ msgstr "Este formulario no tiene entradas sin leer."
+
+#~ msgid "View this entry"
+#~ msgstr "Ver esta entrada"
+
+#~ msgid "Select entry"
+#~ msgstr "Selecciona entrada"
+
+#~ msgid "click to select columns to display"
+#~ msgstr "clic para seleccionar qué columnas mostrar"
+
+#~ msgid "Trash"
+#~ msgstr "Papelera"
+
+#~ msgid "Spam"
+#~ msgstr "Spam"
+
+#~ msgid "Search"
+#~ msgstr "Buscar"
+
+#~ msgid "Number of entries per page:"
+#~ msgstr "Número de entradas por página:"
+
+#~ msgid "Pagination"
+#~ msgstr "Paginación"
+
+#~ msgid "Default Filter"
+#~ msgstr "Filtro predeterminado"
+
+#~ msgid "You don't have any active forms. Let's go %screate one%s"
+#~ msgstr "No tienes ningún formulario activo. Vamos %screa uno%s"
+
+#~ msgid "Resending..."
+#~ msgstr "Reenviando..."
+
+#~ msgid "Resend Notifications"
+#~ msgstr "Reenviar notificaciones"
+
+#~ msgid "Send To"
+#~ msgstr "Enviar a"
+
+#~ msgid "Configure Notifications"
+#~ msgstr "Configurar notificaciones"
+
+#~ msgid "Edit"
+#~ msgstr "Editar"
+
+#~ msgid "Mark as Spam"
+#~ msgstr "Marcar como spam"
+
+#~ msgid "Move to Trash"
+#~ msgstr "Mover a la papelera"
+
+#~ msgid "Restore"
+#~ msgstr "Restablecer"
+
+#~ msgid "Delete Permanently"
+#~ msgstr "Borrar permanentemente"
+
+#~ msgid ""
+#~ "You are about to delete this entry. 'Cancel' to stop, 'OK' to delete."
+#~ msgstr ""
+#~ "Estás a punto de borrar esta entrada. 'Cancelar' para parar, 'Aceptar' "
+#~ "para borrar."
+
+#~ msgid "Not Spam"
+#~ msgstr "No es spam"
+
+#~ msgid "Edit Post"
+#~ msgstr "Editar publicación"
+
+#~ msgid "Embed Url"
+#~ msgstr "URL embebida"
+
+#~ msgid "View user profile"
+#~ msgstr "Ver el perfil del usuario"
+
+#~ msgid "User IP"
+#~ msgstr "IP del usuario"
+
+#~ msgid "Submitted on"
+#~ msgstr "Enviado el "
+
+#~ msgid "Amount"
+#~ msgstr "Cantidad"
+
+#~ msgid "Recurring Amount"
+#~ msgstr "Cantidad recurrente"
+
+#~ msgid "Transaction Id"
+#~ msgstr "ID de transacción"
+
+#~ msgid "Subscription Id"
+#~ msgstr "ID Suscripción"
+
+#~ msgid "Start Date"
+#~ msgstr "Fecha de inicio"
+
+#~ msgid "Status"
+#~ msgstr "Estado"
+
+#~ msgid "show empty fields"
+#~ msgstr "mostrar campos vacíos"
+
+#~ msgid "Entry #"
+#~ msgstr "Entrada #"
+
+#~ msgid "Subject:"
+#~ msgstr "Asunto:"
+
+#~ msgid "Also email this note to"
+#~ msgstr "Enviar la nota también a"
+
+#~ msgid "Add Note"
+#~ msgstr "Añadir Nota"
+
+#~ msgid "added on"
+#~ msgstr "añadida el"
+
+#~ msgid "Apply"
+#~ msgstr "Aplicar"
+
+#~ msgid "Delete"
+#~ msgstr "Borrar"
+
+#~ msgid "Bulk action"
+#~ msgstr "Acción masiva"
+
+#~ msgid "Details"
+#~ msgstr "Detalles"
+
+#~ msgid "Entry Updated."
+#~ msgstr "Entrada actualizada."
+
+#~ msgid "include notes"
+#~ msgstr "Incluír notas"
+
+#~ msgid "Print"
+#~ msgstr "Imprimir"
+
+#~ msgid "Notifications were resent successfully."
+#~ msgstr "Las notificaciones se reenviaron correctamente."
+
+#~ msgid "You must select at least one type of notification to resend."
+#~ msgstr "Debes seleccionar al menos un tipo de notificación para reenviar."
+
+#~ msgid "Ajax error while deleting field."
+#~ msgstr "Error ajax al borrar el campo."
+
+#~ msgid "Would you like to delete this file? 'Cancel' to stop. 'OK' to delete"
+#~ msgstr ""
+#~ "¿Quieres eliminar este archivo? 'Cancelar' para parar. 'Aceptar' para "
+#~ "borrar."
+
+#~ msgid "You don't have adequate permission to delete entries."
+#~ msgstr "No tienes los permisos adecuados para borrar entradas."
+
+#~ msgid "You don't have adequate permission to delete notes."
+#~ msgstr "No tienes los permisos adecuados para borrar notas."
+
+#~ msgid "Oops! We couldn't find your entry. Please try again"
+#~ msgstr ""
+#~ "¡Vaya! No pudimos encontrar tu entrada. Por favor inténtalo de nuevo."
+
+#~ msgid "Payment Details"
+#~ msgstr "Detalles de pago"
+
+#~ msgid "Subscription Details"
+#~ msgstr "Detalles de suscripción"
+
+#~ msgid "Notes"
+#~ msgstr "Notas"
+
+#~ msgid "Notifications"
+#~ msgstr "Notificaciones"
+
+#~ msgid "Entry"
+#~ msgstr "Entrada"
+
+#~ msgid "Thai Baht"
+#~ msgstr "Baht tailandés"
+
+#~ msgid "Taiwan New Dollar"
+#~ msgstr "Dólar Taiwán"
+
+#~ msgid "Swiss Franc"
+#~ msgstr "Franco Suizo"
+
+#~ msgid "Swedish Krona"
+#~ msgstr "Corona Sueca"
+
+#~ msgid "South African Rand"
+#~ msgstr "Rand sudafricano"
+
+#~ msgid "Singapore Dollar"
+#~ msgstr "Dólar Singapur"
+
+#~ msgid "Russian Ruble"
+#~ msgstr "Rublo ruso"
+
+#~ msgid "Polish Zloty"
+#~ msgstr "Zloty Polaco"
+
+#~ msgid "Philippine Peso"
+#~ msgstr "Peso Filipino"
+
+#~ msgid "New Zealand Dollar"
+#~ msgstr "Dólar Neozelandés"
+
+#~ msgid "Norwegian Krone"
+#~ msgstr "Corona Noruega"
+
+#~ msgid "Mexican Peso"
+#~ msgstr "Peso Mexicano"
+
+#~ msgid "Malaysian Ringgit"
+#~ msgstr "Ringgit Malayo"
+
+#~ msgid "Japanese Yen"
+#~ msgstr "Yen Japonés"
+
+#~ msgid "Israeli New Sheqel"
+#~ msgstr "Shequel Israelí"
+
+#~ msgid "Hungarian Forint"
+#~ msgstr "Florín Húngaro"
+
+#~ msgid "Hong Kong Dollar"
+#~ msgstr "Dólar Hong Kong"
+
+#~ msgid "Danish Krone"
+#~ msgstr "Corona Danesa"
+
+#~ msgid "Czech Koruna"
+#~ msgstr "Corona Checa"
+
+#~ msgid "Canadian Dollar"
+#~ msgstr "Dólar Canadiense"
+
+#~ msgid "Brazilian Real"
+#~ msgstr "Real Brasileño"
+
+#~ msgid "Australian Dollar"
+#~ msgstr "Dólar Australiano"
+
+#~ msgid "Pound Sterling"
+#~ msgstr "Libra Esterlina"
+
+#~ msgid "U.S. Dollar"
+#~ msgstr "Dólar Americano"
+
+#~ msgid "Cancelled"
+#~ msgstr "Cancelada"
+
+#~ msgid "Cancel this upload"
+#~ msgstr "Cancelar esta subida"
+
+#~ msgid "Cancel"
+#~ msgstr "Cancelar"
+
+#~ msgid "Please wait for the uploading to complete"
+#~ msgstr "Por favor espera a que se complete la subida"
+
+#~ msgid "There was a problem while saving the file on the server"
+#~ msgstr "Hubo un problema al guardar el archivo en el servidor"
+
+#~ msgid "Maximum number of files reached"
+#~ msgstr "Nº máximo de archivos alcanzado"
+
+#~ msgid "This type of file is not allowed."
+#~ msgstr "Este tipo de archivo no está permitido."
+
+#~ msgid "File exceeds size limit"
+#~ msgstr "El archivo excede el límite de tamaño."
+
+#~ msgid "in progress"
+#~ msgstr "en curso"
+
+#~ msgid "Delete this file"
+#~ msgstr "Borrar este archivo"
+
+#~ msgid "This type of file is not allowed. Must be one of the following:"
+#~ msgstr ""
+#~ "No está permitido este tipo de archivo. Debe ser uno de los siguientes:"
+
+#~ msgid "User"
+#~ msgstr "Usuario"
+
+#~ msgid "Transaction ID"
+#~ msgstr "ID transacción"
+
+#~ msgid "Payment Amount"
+#~ msgstr "Cantidad del pago"
+
+#~ msgid "Payment Date"
+#~ msgstr "Fecha de pago"
+
+#~ msgid "Payment Status"
+#~ msgstr "Estado del pago"
+
+#~ msgid "Source URL"
+#~ msgstr "URL de origen"
+
+#~ msgid "IP Address"
+#~ msgstr "Dirección IP"
+
+#~ msgid "Starred"
+#~ msgstr "Destacadas"
+
+#~ msgid "Entry Date"
+#~ msgstr "Fecha entrada"
+
+#~ msgid "Entry ID"
+#~ msgstr "ID entrada"
+
+#~ msgid "yyyy-mm-dd"
+#~ msgstr "aaaa-mm-dd"
+
+#~ msgid "Any form field"
+#~ msgstr "Cualquier campo"
+
+#~ msgid "Predefined Choices"
+#~ msgstr "Opciones predefinidas"
+
+#~ msgid "Custom Choices"
+#~ msgstr "Opciones personalizadas"
+
+#~ msgid "Include results if {0} match:"
+#~ msgstr "Incluir resultados si {0} coincide:"
+
+#~ msgid "Add a condition"
+#~ msgstr "Añadir una condición"
+
+#~ msgid "Merge Tags"
+#~ msgstr "Etiquetas de inserción"
+
+#~ msgid "Please enter a confirmation name."
+#~ msgstr "Introduce un nombre de confirmación."
+
+#~ msgid "Please enter a URL."
+#~ msgstr "Introduce una URL."
+
+#~ msgid "Please select a page."
+#~ msgstr "Selecciona una página."
+
+#~ msgid "Untitled Confirmation"
+#~ msgstr "Confirmación sin título"
+
+#~ msgid "There was an issue deleting this confirmation."
+#~ msgstr "Hubo un problema al borrar esta confirmación."
+
+#~ msgid "Are you sure you wish to delete this confirmation?"
+#~ msgstr "¿Seguro que quieres borrar esta confirmación?"
+
+#~ msgid "There was an issue saving this confirmation."
+#~ msgstr "Hubo un problema al guardar esta confirmación."
+
+#~ msgid "Are you sure you wish to cancel these changes?"
+#~ msgstr "¿Estás seguro de que deseas cancelar estos cambios?"
+
+#~ msgid "Saving..."
+#~ msgstr "Guardando..."
+
+#~ msgid "Send this notification if"
+#~ msgstr "Enviar esta notificación si"
+
+#~ msgid "Use this confirmation if"
+#~ msgstr "Usar esta confirmación si"
+
+#~ msgid "ends with"
+#~ msgstr "termina por"
+
+#~ msgid "starts with"
+#~ msgstr "comienza por"
+
+#~ msgid "contains"
+#~ msgstr "contiene"
+
+#~ msgid "less than"
+#~ msgstr "menor que"
+
+#~ msgid "greater than"
+#~ msgstr "mayor que"
+
+#~ msgid "is not"
+#~ msgstr "no es"
+
+#~ msgid "is"
+#~ msgstr "es"
+
+#~ msgid "of the following match:"
+#~ msgstr "coincide:"
+
+#~ msgid "Hide"
+#~ msgstr "Ocultar"
+
+#~ msgid "Show"
+#~ msgstr "Mostrar"
+
+#~ msgid "this form button if"
+#~ msgstr "este botón del formulario si"
+
+#~ msgid "this page"
+#~ msgstr "esta página"
+
+#~ msgid "this section if"
+#~ msgstr "esta sección si"
+
+#~ msgid "this field if"
+#~ msgstr "este campo si"
+
+#~ msgid "Enter a value"
+#~ msgstr "Introduce un valor"
+
+#~ msgid "5 of %d items shown. Edit field to view all"
+#~ msgstr "Se muestran 5 de %d elementos. Edita el campo para ver todos"
+
+#~ msgid "Select a format"
+#~ msgstr "Seleccionar un formato"
+
+#~ msgid "Previous"
+#~ msgstr "Anterior"
+
+#~ msgid "Update"
+#~ msgstr "Actualizar"
+
+#~ msgid "Save"
+#~ msgstr "Guardar"
+
+#~ msgid "Inactive"
+#~ msgstr "Inactivos"
+
+#~ msgid "Active"
+#~ msgstr "Activos"
+
+#~ msgid "Sorry, this file type is not permitted for security reasons."
+#~ msgstr ""
+#~ "Lo siento, este tipo de archivo no está permitido por razones de "
+#~ "seguridad."
+
+#~ msgid "Sorry, this file extension is not permitted for security reasons."
+#~ msgstr ""
+#~ "Lo siento, esta extensión de archivo no está permitida por razones de "
+#~ "seguridad."
+
+#~ msgid "There was an problem while verifying your file."
+#~ msgstr "Hubo un problema al verificar tu archivo."
+
+#~ msgid "Donations are not editable"
+#~ msgstr "Las donaciones no son editables"
+
+#~ msgid "Product fields are not editable"
+#~ msgstr "Los campos de producto no son editables"
+
+#~ msgid "%s ago"
+#~ msgstr "hace %s"
+
+#~ msgid "Total:"
+#~ msgstr "Total:"
+
+#~ msgid "Price"
+#~ msgstr "Precio"
+
+#~ msgid "Unit Price"
+#~ msgstr "Precio unitario"
+
+#~ msgid "Qty"
+#~ msgstr "Cant."
+
+#~ msgid "Product"
+#~ msgstr "Producto"
+
+#~ msgid "Total"
+#~ msgstr "Total"
+
+#~ msgid "Order"
+#~ msgstr "Pedido"
+
+#~ msgid "Allowable form fields"
+#~ msgstr "Campos del formulario permitidos"
+
+#~ msgid "Full Size - Right Aligned"
+#~ msgstr "Tamaño completo - Derecha"
+
+#~ msgid "Full Size - Centered"
+#~ msgstr "Tamaño completo - Centrada"
+
+#~ msgid "Full Size - Left Aligned"
+#~ msgstr "Tamaño completo - Izquierda"
+
+#~ msgid "Full Size"
+#~ msgstr "Tamaño completo"
+
+#~ msgid "Large - Right Aligned"
+#~ msgstr "Grande - Derecha"
+
+#~ msgid "Large - Centered"
+#~ msgstr "Grande - Centrada"
+
+#~ msgid "Large - Left Aligned"
+#~ msgstr "Grande - Izquierda"
+
+#~ msgid "Large"
+#~ msgstr "Grande"
+
+#~ msgid "Medium - Right Aligned"
+#~ msgstr "Mediana - Derecha"
+
+#~ msgid "Medium - Centered"
+#~ msgstr "Mediana - Centrada"
+
+#~ msgid "Medium - Left Aligned"
+#~ msgstr "Mediana - Izquierda"
+
+#~ msgid "Medium"
+#~ msgstr "Mediana"
+
+#~ msgid "Thumbnail - Right Aligned"
+#~ msgstr "Miniatura - Derecha"
+
+#~ msgid "Thumbnail - Centered"
+#~ msgstr "Miniatura - Centrada"
+
+#~ msgid "Thumbnail - Left Aligned"
+#~ msgstr "Miniatura - Izquierda"
+
+#~ msgid "Thumbnail"
+#~ msgstr "Miniatura"
+
+#~ msgid "Select image size"
+#~ msgstr "Seleccionar tamaño de imagen"
+
+#~ msgid "Custom"
+#~ msgstr "Personalizado"
+
+#~ msgid "Other"
+#~ msgstr "Otra"
+
+#~ msgid "Pricing form fields"
+#~ msgstr "Campos de precios"
+
+#~ msgid "Optional form fields"
+#~ msgstr "Campos opcionales"
+
+#~ msgid "Required form fields"
+#~ msgstr "Campos obligatorios"
+
+#~ msgid "User Login"
+#~ msgstr "Nombre de usuario"
+
+#~ msgid "User Email"
+#~ msgstr "Email del Usuario"
+
+#~ msgid "User Display Name"
+#~ msgstr "Nombre para mostrar"
+
+#~ msgid "Post Edit URL"
+#~ msgstr "URL edición de entrada"
+
+#~ msgid "Post Id"
+#~ msgstr "Id de entrada"
+
+#~ msgid "HTTP Referer URL"
+#~ msgstr "HTTP Referer URL"
+
+#~ msgid "HTTP User Agent"
+#~ msgstr "HTTP User Agent"
+
+#~ msgid "Form Title"
+#~ msgstr "Título del formulario"
+
+#~ msgid "Form Id"
+#~ msgstr "ID Formulario"
+
+#~ msgid "Entry URL"
+#~ msgstr "URL Entrada"
+
+#~ msgid "Embed URL"
+#~ msgstr "Insertar URL"
+
+#~ msgid "Embed Post/Page Title"
+#~ msgstr "Insertar Tïtulo Entrada/Pägina"
+
+#~ msgid "Embed Post/Page Id"
+#~ msgstr "Insertar ID Entrada/Página"
+
+#~ msgid "User IP Address"
+#~ msgstr "Dirección IP del usuario"
+
+#~ msgid "All Pricing Fields"
+#~ msgstr "Todos los campos de producto"
+
+#~ msgid "All Submitted Fields"
+#~ msgstr "Todos los campos enviados"
+
+#~ msgid "Insert Merge Tag"
+#~ msgstr "Pegar etiqueta de inserción"
+
+#~ msgid "Zaragoza"
+#~ msgstr "Zaragoza"
+
+#~ msgid "Zamora"
+#~ msgstr "Zamora"
+
+#~ msgid "Vizcaya"
+#~ msgstr "Vizcaya"
+
+#~ msgid "Valladolid"
+#~ msgstr "Valladolid"
+
+#~ msgid "Valencia"
+#~ msgstr "Valencia"
+
+#~ msgid "Toledo"
+#~ msgstr "Toledo"
+
+#~ msgid "Teruel"
+#~ msgstr "Teruel"
+
+#~ msgid "Tarragona"
+#~ msgstr "Tarragona"
+
+#~ msgid "Soria"
+#~ msgstr "Soria"
+
+#~ msgid "Sevilla"
+#~ msgstr "Sevilla"
+
+#~ msgid "Segovia"
+#~ msgstr "Segovia"
+
+#~ msgid "Santa Cruz de Tenerife"
+#~ msgstr "Santa Cruz de Tenerife"
+
+#~ msgid "Salamanca"
+#~ msgstr "Salamanca"
+
+#~ msgid "Rioja (La)"
+#~ msgstr "La Rioja"
+
+#~ msgid "provincia"
+#~ msgstr "provincia"
+
+#~ msgid "Pontevedra"
+#~ msgstr "Pontevedra"
+
+#~ msgid "Palmas (Las)"
+#~ msgstr "Las Palmas"
+
+#~ msgid "Palencia"
+#~ msgstr "Palencia"
+
+#~ msgid "Orense"
+#~ msgstr "Orense"
+
+#~ msgid "Navarra"
+#~ msgstr "Navarra"
+
+#~ msgid "Murcia"
+#~ msgstr "Murcia"
+
+#~ msgid "Melilla"
+#~ msgstr "Melilla"
+
+#~ msgid "Málaga"
+#~ msgstr "Málaga"
+
+#~ msgid "Madrid"
+#~ msgstr "Madrid"
+
+#~ msgid "Lugo"
+#~ msgstr "Lugo"
+
+#~ msgid "Lleida"
+#~ msgstr "Lleida"
+
+#~ msgid "León"
+#~ msgstr "León"
+
+#~ msgid "Jaén"
+#~ msgstr "Jaén"
+
+#~ msgid "Islas Baleares"
+#~ msgstr "Islas Baleares"
+
+#~ msgid "Huesca"
+#~ msgstr "Huesca"
+
+#~ msgid "Huelva"
+#~ msgstr "Huelva"
+
+#~ msgid "Guipuzcoa"
+#~ msgstr "Guipuzcoa"
+
+#~ msgid "Guadalajara"
+#~ msgstr "Guadalajara"
+
+#~ msgid "Granada"
+#~ msgstr "Granada"
+
+#~ msgid "Girona"
+#~ msgstr "Girona"
+
+#~ msgid "Cuenca"
+#~ msgstr "Cuenca"
+
+#~ msgid "Coruña (La)"
+#~ msgstr "La Coruña"
+
+#~ msgid "Córdoba"
+#~ msgstr "Córdoba"
+
+#~ msgid "Ciudad Real"
+#~ msgstr "Ciudad Real"
+
+#~ msgid "Ceuta"
+#~ msgstr "Ceuta"
+
+#~ msgid "Castellón"
+#~ msgstr "Castellón"
+
+#~ msgid "Cantabria"
+#~ msgstr "Cantabria"
+
+#~ msgid "Cádiz"
+#~ msgstr "Cádiz"
+
+#~ msgid "Cáceres"
+#~ msgstr "Cáceres"
+
+#~ msgid "Burgos"
+#~ msgstr "Burgos"
+
+#~ msgid "Barcelona"
+#~ msgstr "Barcelona"
+
+#~ msgid "Badajoz"
+#~ msgstr "Badajoz"
+
+#~ msgid "Ávila"
+#~ msgstr "Ávila"
+
+#~ msgid "Asturias"
+#~ msgstr "Asturias"
+
+#~ msgid "Almería"
+#~ msgstr "Almería"
+
+#~ msgid "Alicante"
+#~ msgstr "Alicante"
+
+#~ msgid "Albacete"
+#~ msgstr "Albacete"
+
+#~ msgid "Province"
+#~ msgstr "Provincia"
+
+#~ msgid "Postal Code"
+#~ msgstr "Código postal"
+
+#~ msgid "Spain"
+#~ msgstr "España"
+
+#~ msgid "Euro"
+#~ msgstr "Euro"
+
+#~ msgid "Submit"
+#~ msgstr "Enviar"
+
+#~ msgid "Thanks for contacting us! We will get in touch with you shortly."
+#~ msgstr ""
+#~ "¡Gracias por contactar con nosotros! Nos pondremos en contacto contigo "
+#~ "muy pronto."
+
+#~ msgid "Untitled Form"
+#~ msgstr "Formulario sin título"
