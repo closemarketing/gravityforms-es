@@ -112,15 +112,46 @@ class GravityFormsESPlugin {
 		//Load Gravity Forms Strings to Wordpress translate ORG
 		require( 'translations/gravityforms.php' );
 
-		$arraydomains = array('gravityformsaweber', 'gravityformscoupons', 'gravityformscampaignmonitor', 'gravityformsfreshbooks', 'gravityformsmailchimp','gravityformspartialentries', 'gravityformspaypal','gravityformspaypalpaymentspro', 'gravityformspolls', 'gravityformsquiz', 'gravityformssignature', 'gravityformsslack', 'gravityformssurvey', 'gravityformsuserregistration', 'gravityformszapier');
+		$arraydomains = array(
+			'gravityformsaweber',
+			'gravityformscoupons',
+			'gravityformscampaignmonitor',
+			'gravityformsfreshbooks',
+			'gravityformsmailchimp',
+			'gravityformspartialentries',
+			'gravityformspaypal',
+			'gravityformspaypalpaymentspro',
+			'gravityformspolls',
+			'gravityformsquiz',
+			'gravityformssignature',
+			'gravityformsslack',
+			'gravityformssurvey',
+			'gravityformsuserregistration',
+			'gravityformszapier',
+		);
 
-		foreach ($arraydomains as $domain) {
-			//Detects if plugin is active. Then its "textdomain" is loaded.
-			$plugin = $domain.'/'.$domain.'.php';
-			if( is_plugin_active($plugin) ) {
-				load_plugin_textdomain( $domain, false, $rel_path );
+
+		$arraydomains = array(
+			array( // Gravity Forms Quiz.
+				'plugin_name'     => 'quiz',
+				'dir_plugin_name' => 'gravityformsquiz',
+				'language_domain' => 'gravityformsquiz',
+			),
+		);
+
+		foreach ( $arraydomains as $domain ) {
+			// Detects if plugin is active. Then its "textdomain" is loaded.
+			if ( isset( $domain['dir_plugin_name'] ) ) {
+				$directory_plugin = $domain['dir_plugin_name'];
+			} else {
+				$directory_plugin = $domain['plugin_name'];
 			}
-		} //foreach
+			$plugin = $directory_plugin . '/' . $domain['plugin_name'] . '.php';
+
+			if ( is_plugin_active( $plugin ) ) {
+				load_plugin_textdomain( $domain['language_domain'], false, $rel_path );
+			}
+		}
 
 		// Load plugin text domain - Translate WordPress ORG
 		$domain = 'gravityforms-es';
