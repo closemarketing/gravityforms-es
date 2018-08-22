@@ -3,9 +3,9 @@ Contributors: closemarketing
 Tags: gravityforms, gravity, form, forms, gravity forms, translation, spanish, espanol, español, es, es_ES
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZYGC6AT5JFQVE
 Requires at least: 3.9
-Tested up to: 4.7.2
-Stable tag: 2.0.2
-Version: 2.0.2
+Tested up to: 4.9.8
+Stable tag: 2.1
+Version: 2.1
 
 This WordPress plugin extends the Gravity Forms plugin with the Spanish translation.
 
@@ -55,6 +55,10 @@ WordPress installation and then activate the Plugin from Plugins page.
 == Changelog ==
 
 = 2.1 =
+*  Fixed bug loading some addons.
+*  Updated strings Gravity Forms.
+
+= 2.0.2 =
 *   Strings available for Gravity Forms to translate in Wordpress.org.
 *   Updated strings for Addons to lastest versions.
 

@@ -4,7 +4,7 @@ Plugin Name: Gravity Forms (Spanish)
 Plugin URI: http://www.closemarketing.es/servicios/wordpress-plugins/gravity-forms-es/
 Description: Extends the Gravity Forms plugin and add-ons with the Spanish language
 
-Version: 2.0.2
+Version: 2.1
 Requires at least: 4.0
 
 Author: Closemarketing
@@ -110,32 +110,83 @@ class GravityFormsESPlugin {
 		}
 
 		//Load Gravity Forms Strings to Wordpress translate ORG
-		require( 'translations/gravityforms.php' );
+		require( 'languages/gravityforms.php' );
 
 		$arraydomains = array(
-			'gravityformsaweber',
-			'gravityformscoupons',
-			'gravityformscampaignmonitor',
-			'gravityformsfreshbooks',
-			'gravityformsmailchimp',
-			'gravityformspartialentries',
-			'gravityformspaypal',
-			'gravityformspaypalpaymentspro',
-			'gravityformspolls',
-			'gravityformsquiz',
-			'gravityformssignature',
-			'gravityformsslack',
-			'gravityformssurvey',
-			'gravityformsuserregistration',
-			'gravityformszapier',
-		);
-
-
-		$arraydomains = array(
+			array( // Gravity Forms Aweber.
+				'plugin_name'     => 'aweber',
+				'dir_plugin_name' => 'gravityformsaweber',
+				'language_domain' => 'gravityformsaweber',
+			),
+			array( // Gravity Forms Coupons.
+				'plugin_name'     => 'coupons',
+				'dir_plugin_name' => 'gravityformscoupons',
+				'language_domain' => 'gravityformscoupons',
+			),
+			array( // Gravity Forms Campaign Monitor.
+				'plugin_name'     => 'campaignmonitor',
+				'dir_plugin_name' => 'gravityformscampaignmonitor',
+				'language_domain' => 'gravityformscampaignmonitor',
+			),
+			array( // Gravity Forms FreshBooks.
+				'plugin_name'     => 'freshbooks',
+				'dir_plugin_name' => 'gravityformsfreshbooks',
+				'language_domain' => 'gravityformsfreshbooks',
+			),
+			array( // Gravity Forms MailChimp.
+				'plugin_name'     => 'mailchimp',
+				'dir_plugin_name' => 'gravityformsmailchimp',
+				'language_domain' => 'gravityformsmailchimp',
+			),
+			array( // Gravity Forms Partial Entries.
+				'plugin_name'     => 'partialentries',
+				'dir_plugin_name' => 'gravityformspartialentries',
+				'language_domain' => 'gravityformspartialentries',
+			),
+			array( // Gravity Forms Paypal.
+				'plugin_name'     => 'paypal',
+				'dir_plugin_name' => 'gravityformspaypal',
+				'language_domain' => 'gravityformspaypal',
+			),
+			array( // Gravity Forms PayPal Payments PRO.
+				'plugin_name'     => 'paypalpaymentspro',
+				'dir_plugin_name' => 'gravityformspaypalpaymentspro',
+				'language_domain' => 'gravityformspaypalpaymentspro',
+			),
+			array( // Gravity Forms Polls.
+				'plugin_name'     => 'polls',
+				'dir_plugin_name' => 'gravityformspolls',
+				'language_domain' => 'gravityformspolls',
+			),
 			array( // Gravity Forms Quiz.
 				'plugin_name'     => 'quiz',
 				'dir_plugin_name' => 'gravityformsquiz',
 				'language_domain' => 'gravityformsquiz',
+			),
+			array( // Gravity Forms Signature.
+				'plugin_name'     => 'signature',
+				'dir_plugin_name' => 'gravityformssignature',
+				'language_domain' => 'gravityformssignature',
+			),
+			array( // Gravity Forms Slack.
+				'plugin_name'     => 'slack',
+				'dir_plugin_name' => 'gravityformsslack',
+				'language_domain' => 'gravityformsslack',
+			),
+			array( // Gravity Forms Survey.
+				'plugin_name'     => 'survey',
+				'dir_plugin_name' => 'gravityformssurvey',
+				'language_domain' => 'gravityformssurvey',
+			),
+			array( // Gravity Forms User Registration.
+				'plugin_name'     => 'userregistration',
+				'dir_plugin_name' => 'gravityformsuserregistration',
+				'language_domain' => 'gravityformsuserregistration',
+			),
+			array( // Gravity Forms Zapier.
+				'plugin_name'     => 'zapier',
+				'dir_plugin_name' => 'gravityformszapier',
+				'language_domain' => 'gravityformszapier',
 			),
 		);
 
@@ -157,7 +208,6 @@ class GravityFormsESPlugin {
 		$domain = 'gravityforms-es';
 		$locale = apply_filters( 'plugin_locale', get_locale(), $domain );
 		load_textdomain( 'gravityforms', trailingslashit( WP_LANG_DIR ) . 'plugins/'. $domain . '-' . $locale . '.mo' );
-
 	}
 
 	////////////////////////////////////////////////////////////
